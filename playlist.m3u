@@ -50,6 +50,10 @@ https://kusnadipepenk.github.io/ntn/sprtv1.m3u8
 https://ctrl.laotv.la/live/TSport1/index.m3u8 
 
 
-#EXTINF:-1  group-title="sports",ကမ္ဘာ့အားကစားလိုင်း
-#EXTVLCOPT:ကမ္ဘာ့အားကစားလိုင်း
+#EXTINF:-1  group-title="u၁၇ကမ္ဘာ့ဖလား",u၁၇ကမ္ဘာ့ဖလား ဗိုလ်လုပွဲ
+#EXTVLCOPT:u၁၇ကမ္ဘာ့ဖလား ဗိုလ်လုပွဲ
 https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
+
+#EXTINF:-1  group-title="u၁၇ကမ္ဘာ့ဖလား",u၁၇ကမ္ဘာ့ဖလားတတ္တိယလုပွဲ
+#EXTVLCOPT:u၁၇ကမ္ဘာ့ဖလားတတ္တိယလုပွဲ
+http://splaytv.club:80/live/xwgp5W/2g1Xr6/139645.ts
