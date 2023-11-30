@@ -69,9 +69,9 @@ https://sport.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8|referer=h
 #EXTVLCOPT:Digi Sports 1
 http://cdn.spmr.tv/co3k2z/tracks-v1a1/mono.m3u8?token=5W1ZK8D4AX
 
-#EXTINF:-1 group-title="ပရီးမီးယားလိဒ်",Digi Sports 2
-#EXTVLCOPT:Digi Sports 2
-https://sportbar02.com/lba/NWY5YzIyNGQ2NDMwNDlmNDhjYWM3N2YzNWQ4Mzg0NTE=/g5/digisport2ro.m3u8?token=NWY5YzIyNGQ2NDMwNDlmNDhjYWM3N2YzNWQ4Mzg0NTE=&id=NTdiMzkyOGUwNzBlM2ZiMzZmZDZhY2NiYmM0NTBiN2Q=&vip=1701306090&dip=MGFhYTgwYzY2OGVjNjE4MmIzOTEyOGNkMWJhYTM4NDg=&pip=MWI1YjNiYmRmMzE1ZmM1ZDJhNjViZjdjMzc0MmE0ZjY=&hip=MjA3MjAwYzgyN2I5NmYyNTlmY2NkYzFiYmE3NDdjMDg=
+#EXTINF:-1 group-title="ပရီးမီးယားလိဒ်",Bein Sports 1
+#EXTVLCOPT:Bein Sports 1
+https://af.ayassport.ir/hls2/bein1en.m3u8
 
 
 
