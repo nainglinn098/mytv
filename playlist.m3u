@@ -79,7 +79,8 @@ https://tens.stvrassia.com/hls/71.m3u8?md5=2Be9z8Nm6xbaV82auNXQIQ&expires=170132
 
 #EXTINF:-1 group-title="Test",TNT Sports 1
 #EXTVLCOPT:TNT Sports 1
-https://goko7.pogocast.xyz:8075/view/hls/7dVqnnaSXV4qgydQs3RD9A/1701349521/bbtsp1.m3u8?|Referer=https://bigcast.xyz/
+https://dan.pogocast.xyz:8075/view/hls/gTNrx44Io77pdzBx7OVoYg/1701351744/bbtsp1.m3u8?|Referer=https://bigcast.xyz/
+
 
 #EXTINF:-1 group-title="Test",TSN Sports 1
 #EXTVLCOPT:TSN Sports 1
