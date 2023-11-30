@@ -77,9 +77,9 @@ https://af.ayassport.ir/hls2/bein1en.m3u8
 #EXTVLCOPT:Match 3
 https://tens.stvrassia.com/hls/71.m3u8?md5=2Be9z8Nm6xbaV82auNXQIQ&expires=1701326902
 
-#EXTINF:-1 group-title="Test",TNT Sports 4
-#EXTVLCOPT:TNT Sports 4
-https://eli.pogocast.xyz:8075/view/hls/1ByCgU69-8gvNH9ZuWY-Lw/1701346598/bbtespn.m3u8?|Referer=https://bigcast.xyz/
+#EXTINF:-1 group-title="Test",TNT Sports 1
+#EXTVLCOPT:TNT Sports 1
+https://goko7.pogocast.xyz:8075/view/hls/7dVqnnaSXV4qgydQs3RD9A/1701349521/bbtsp1.m3u8?|Referer=https://bigcast.xyz/
 
 #EXTINF:-1 group-title="Test",TSN Sports 1
 #EXTVLCOPT:TSN Sports 1
