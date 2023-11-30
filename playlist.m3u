@@ -73,7 +73,9 @@ http://cdn.spmr.tv/co3k2z/tracks-v1a1/mono.m3u8?token=5W1ZK8D4AX
 #EXTVLCOPT:Bein Sports 1
 https://af.ayassport.ir/hls2/bein1en.m3u8
 
-
+#EXTINF:-1 group-title="Test",Match 3
+#EXTVLCOPT:Match 3
+https://tens.stvrassia.com/hls/71.m3u8?md5=2Be9z8Nm6xbaV82auNXQIQ&expires=1701326902
 
 
 
