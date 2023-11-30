@@ -81,8 +81,32 @@ https://tens.stvrassia.com/hls/71.m3u8?md5=2Be9z8Nm6xbaV82auNXQIQ&expires=170132
 #EXTVLCOPT:TNT Sports 4
 https://eli.pogocast.xyz:8075/view/hls/1ByCgU69-8gvNH9ZuWY-Lw/1701346598/bbtespn.m3u8?|Referer=https://bigcast.xyz/
 
+#EXTINF:-1 group-title="Test",TSN Sports 1
+#EXTVLCOPT:TSN Sports 1
+https://bbm.pogocast.xyz:8075/view/hls/HnxE87WdBte9unWeFS4RxA/1701348262/tsn1ca.m3u8?|Referer=https://bigcast.xyz/
+
+#EXTINF:-1 group-title="Test",TSN Sports 2
+#EXTVLCOPT:TSN Sports 2
+https://bbm.pogocast.xyz:8075/view/hls/HnxE87WdBte9unWeFS4RxA/1701348262/tsn2ca.m3u8?|Referer=https://bigcast.xyz/
+
+#EXTINF:-1 group-title="Test",TSN Sports 3
+#EXTVLCOPT:TSN Sports 3
+https://bbm.pogocast.xyz:8075/view/hls/HnxE87WdBte9unWeFS4RxA/1701348262/tsn3ca.m3u8?|Referer=https://bigcast.xyz/
+
+#EXTINF:-1 group-title="Test",TSN Sports 4
+#EXTVLCOPT:TSN Sports 4
+https://bbm.pogocast.xyz:8075/view/hls/HnxE87WdBte9unWeFS4RxA/1701348262/tsn4ca.m3u8?|Referer=https://bigcast.xyz/
+
+ #EXTINF:-1 group-title="Test",TSN Sports 5
+#EXTVLCOPT:TSN Sports 5
+https://bbm.pogocast.xyz:8075/view/hls/HnxE87WdBte9unWeFS4RxA/1701348262/tsn5ca.m3u8?|Referer=https://bigcast.xyz/
+
+ 
 
 
+
+
+ 
 
 
 
