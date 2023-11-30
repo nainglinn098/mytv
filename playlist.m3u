@@ -77,30 +77,17 @@ https://af.ayassport.ir/hls2/bein1en.m3u8
 #EXTVLCOPT:Match 3
 https://tens.stvrassia.com/hls/71.m3u8?md5=2Be9z8Nm6xbaV82auNXQIQ&expires=1701326902
 
-#EXTINF:-1 group-title="Test",TNT Sports 1
-#EXTVLCOPT:TNT Sports 1
-https://dan.pogocast.xyz:8075/view/hls/gTNrx44Io77pdzBx7OVoYg/1701351744/bbtsp1.m3u8?|Referer=https://bigcast.xyz/
+#EXTINF:-1 group-title="ပရီးမီးယားလိဒ်",Bein Sports 2
+#EXTVLCOPT:Bein Sports 2
+https://stream.ayas.ir/hls2/beinsport2.m3u8
 
+#EXTINF:-1 group-title="ပရီးမီးယားလိဒ်",Bein Sports 3
+#EXTVLCOPT:Bein Sports 3
+https://stream.ayas.ir/hls2/beinsport3.m3u8
 
-#EXTINF:-1 group-title="Test",TSN Sports 1
-#EXTVLCOPT:TSN Sports 1
-https://bbm.pogocast.xyz:8075/view/hls/HnxE87WdBte9unWeFS4RxA/1701348262/tsn1ca.m3u8?|Referer=https://bigcast.xyz/
-
-#EXTINF:-1 group-title="Test",TSN Sports 2
-#EXTVLCOPT:TSN Sports 2
-https://bbm.pogocast.xyz:8075/view/hls/HnxE87WdBte9unWeFS4RxA/1701348262/tsn2ca.m3u8?|Referer=https://bigcast.xyz/
-
-#EXTINF:-1 group-title="Test",TSN Sports 3
-#EXTVLCOPT:TSN Sports 3
-https://bbm.pogocast.xyz:8075/view/hls/HnxE87WdBte9unWeFS4RxA/1701348262/tsn3ca.m3u8?|Referer=https://bigcast.xyz/
-
-#EXTINF:-1 group-title="Test",TSN Sports 4
-#EXTVLCOPT:TSN Sports 4
-https://bbm.pogocast.xyz:8075/view/hls/HnxE87WdBte9unWeFS4RxA/1701348262/tsn4ca.m3u8?|Referer=https://bigcast.xyz/
-
- #EXTINF:-1 group-title="Test",TSN Sports 5
-#EXTVLCOPT:TSN Sports 5
-https://bbm.pogocast.xyz:8075/view/hls/HnxE87WdBte9unWeFS4RxA/1701348262/tsn5ca.m3u8?|Referer=https://bigcast.xyz/
+#EXTINF:-1 group-title="ပရီးမီးယားလိဒ်",Bein Sports 4
+#EXTVLCOPT:Bein Sports 4
+https://stream.ayas.ir/hls2/beinsport4.m3u8
 
  
 
