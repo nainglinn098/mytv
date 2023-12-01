@@ -88,13 +88,43 @@ https://stream.ayas.ir/hls2/beinsport3.m3u8
 #EXTINF:-1 group-title="ပရီးမီးယားလိဒ်",Bein Sports 4
 #EXTVLCOPT:Bein Sports 4
 https://stream.ayas.ir/hls2/beinsport4.m3u8
-
  
+#EXTINF:-1 group-title="sports",Match 1
+#EXTVLCOPT:Match 1
+http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
 
 
-
-
+#EXTINF:-1 group-title="sports",Match 2
+#EXTVLCOPT:Match 2
+http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
  
+#EXTINF:-1 group-title="sports",Match 3
+#EXTVLCOPT:Match 3
+http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
+
+#EXTINF:-1 group-title="sports",sony ten 1
+#EXTVLCOPT:sony ten 1
+https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
+
+#EXTINF:-1 group-title="sports",sony ten 2
+#EXTVLCOPT:sony ten 2
+https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
+
+#EXTINF:-1 group-title="sports",sony ten 3
+#EXTVLCOPT:sony ten 3
+https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
+
+#EXTINF:-1 group-title="sports",sony ten 4
+#EXTVLCOPT:sony ten 4
+https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
+
+#EXTINF:-1 group-title="sports",sony ten 5
+#EXTVLCOPT:sony ten 5
+https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
+
+
+
+
 
 
 
