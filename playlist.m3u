@@ -47,7 +47,7 @@ https://ctrl.laotv.la/live/TSport1/index.m3u8
 
 #EXTINF:-1  group-title="u၁၇ကမ္ဘာ့ဖလား",u၁၇ကမ္ဘာ့ဖလား ဗိုလ်လုပွဲ
 #EXTVLCOPT:u၁၇ကမ္ဘာ့ဖလား ဗိုလ်လုပွဲ
-https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
+http://planetiptv.online:80/play/live.php?mac=00:1a:79:9b:88:ac&stream=828100&extension=ts&play_token=beAgmliYKH
 
 #EXTINF:-1  group-title="u၁၇ကမ္ဘာ့ဖလား",u၁၇ကမ္ဘာ့ဖလားတတ္တိယလုပွဲ
 #EXTVLCOPT:u၁၇ကမ္ဘာ့ဖလားတတ္တိယလုပွဲ
