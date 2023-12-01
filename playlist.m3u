@@ -2,40 +2,40 @@
 #EXTVLCOPT:True Premier 2
 https://ctrl.laotv.la/live/TSport2/index.m3u8 
 
-#EXTINF:-1 group-title="sports",bein Sports 1
+#EXTINF:-1 group-title="SPORTS",bein Sports 1
 #EXTVLCOPT:bein Sports 1
 https://ctrl.laotv.la/live/Bsport1/index.m3u8 
 
-#EXTINF:-1 group-title="sports",bein Sports 2
+#EXTINF:-1 group-title="SPORTS",bein Sports 2
 #EXTVLCOPT:bein Sports 2
 https://ctrl.laotv.la/live/Bsport2/index.m3u8 
 
-#EXTINF:-1 group-title="sports",Eleven 1
+#EXTINF:-1 group-title="SPORTS",Eleven 1
 #EXTVLCOPT:Eleven 1
 https://kusnadipepenk.github.io/ntn/elesp1.m3u8 
 
-#EXTINF:-1 group-title="sports",Eleven 2
+#EXTINF:-1 group-title="SPORTS",Eleven 2
 #EXTVLCOPT:Eleven 2
 https://kusnadipepenk.github.io/ntn/elesp2.m3u8 
 
-#EXTINF:-1 group-title="sports",Eleven 3
+#EXTINF:-1 group-title="SPORTS",Eleven 3
 #EXTVLCOPT:Eleven 3
 https://kusnadipepenk.github.io/ntn/elesp3.m3u8 
 
-#EXTINF:-1 group-title="sports",Sportv 1
+#EXTINF:-1 group-title="SPORTS",Sportv 1
 #EXTVLCOPT:Sportv 1
 https://kusnadipepenk.github.io/ntn/sprtv1.m3u8 
 
-#EXTINF:-1 group-title="sports",Sportv 2
+#EXTINF:-1 group-title="SPORTS",Sportv 2
 #EXTVLCOPT:Sportv 2
 https://kusnadipepenk.github.io/ntn/sprtv2.m3u8 
 
-#EXTINF:-1 group-title="sports",Sportv 3
+#EXTINF:-1 group-title="SPORTS",Sportv 3
 #EXTVLCOPT:Sportv 3
 https://kusnadipepenk.github./ntn/sprtv3.m3u8 
 
 
-#EXTINF:-1 group-title="sports",Sportv 4
+#EXTINF:-1 group-title="SPORTS",Sportv 4
 #EXTVLCOPT:Sportv 4
 https://kusnadipepenk.github.io/ntn/sprtv1.m3u8
 
@@ -73,7 +73,7 @@ http://cdn.spmr.tv/co3k2z/tracks-v1a1/mono.m3u8?token=5W1ZK8D4AX
 #EXTVLCOPT:Bein Sports 1
 https://af.ayassport.ir/hls2/bein1en.m3u8
 
-#EXTINF:-1 group-title="sports",Match 
+#EXTINF:-1 group-title="SPORTS",Match 
 #EXTVLCOPT:Match 
 https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
 
@@ -89,36 +89,36 @@ https://stream.ayas.ir/hls2/beinsport3.m3u8
 #EXTVLCOPT:Bein Sports 4
 https://stream.ayas.ir/hls2/beinsport4.m3u8
  
-#EXTINF:-1 group-title="sports",Match 1
+#EXTINF:-1 group-title="SPORTS",Match 1
 #EXTVLCOPT:Match 1
 http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
 
 
-#EXTINF:-1 group-title="sports",Match 2
+#EXTINF:-1 group-title="SPORTS",Match 2
 #EXTVLCOPT:Match 2
 http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
  
-#EXTINF:-1 group-title="sports",Match 3
+#EXTINF:-1 group-title="SPORTS",Match 3
 #EXTVLCOPT:Match 3
 http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
 
-#EXTINF:-1 group-title="sports",sony ten 1
+#EXTINF:-1 group-title="SPORTS",sony ten 1
 #EXTVLCOPT:sony ten 1
 https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
 
-#EXTINF:-1 group-title="sports",sony ten 2
+#EXTINF:-1 group-title="SPORTS",sony ten 2
 #EXTVLCOPT:sony ten 2
 https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
 
-#EXTINF:-1 group-title="sports",sony ten 3
+#EXTINF:-1 group-title="SPORTS",sony ten 3
 #EXTVLCOPT:sony ten 3
 https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
 
-#EXTINF:-1 group-title="sports",sony ten 4
+#EXTINF:-1 group-title="SPORTS",sony ten 4
 #EXTVLCOPT:sony ten 4
 https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
 
-#EXTINF:-1 group-title="sports",sony ten 5
+#EXTINF:-1 group-title="SPORTS",sony ten 5
 #EXTVLCOPT:sony ten 5
 https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
 
