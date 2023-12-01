@@ -2,41 +2,41 @@
 #EXTVLCOPT:True Premier 2
 https://ctrl.laotv.la/live/TSport2/index.m3u8 
 
-#EXTINF:-1 group-title="sports",beinsports1
-#EXTVLCOPT:beinsports1
+#EXTINF:-1 group-title="sports",bein Sports 1
+#EXTVLCOPT:bein Sports 1
 https://ctrl.laotv.la/live/Bsport1/index.m3u8 
 
-#EXTINF:-1 group-title="sports",beinsports2
-#EXTVLCOPT:beinsports2
+#EXTINF:-1 group-title="sports",bein Sports 2
+#EXTVLCOPT:bein Sports 2
 https://ctrl.laotv.la/live/Bsport2/index.m3u8 
 
-#EXTINF:-1 group-title="sports",eleven1
-#EXTVLCOPT:eleven1
+#EXTINF:-1 group-title="sports",Eleven 1
+#EXTVLCOPT:Eleven 1
 https://kusnadipepenk.github.io/ntn/elesp1.m3u8 
 
-#EXTINF:-1 group-title="sports",eleven2
-#EXTVLCOPT:eleven2
+#EXTINF:-1 group-title="sports",Eleven 2
+#EXTVLCOPT:Eleven 2
 https://kusnadipepenk.github.io/ntn/elesp2.m3u8 
 
-#EXTINF:-1 group-title="sports",eleven3
-#EXTVLCOPT:eleven3
+#EXTINF:-1 group-title="sports",Eleven 3
+#EXTVLCOPT:Eleven 3
 https://kusnadipepenk.github.io/ntn/elesp3.m3u8 
 
-#EXTINF:-1 group-title="sports",sportv 1
-#EXTVLCOPT:sportv 1
+#EXTINF:-1 group-title="sports",Sportv 1
+#EXTVLCOPT:Sportv 1
 https://kusnadipepenk.github.io/ntn/sprtv1.m3u8 
 
-#EXTINF:-1 group-title="sports",sportv 2
-#EXTVLCOPT:sportv 2
+#EXTINF:-1 group-title="sports",Sportv 2
+#EXTVLCOPT:Sportv 2
 https://kusnadipepenk.github.io/ntn/sprtv2.m3u8 
 
-#EXTINF:-1 group-title="sports",sportv 3
-#EXTVLCOPT:sportv 3
+#EXTINF:-1 group-title="sports",Sportv 3
+#EXTVLCOPT:Sportv 3
 https://kusnadipepenk.github./ntn/sprtv3.m3u8 
 
 
-#EXTINF:-1 group-title="sports",sportv 4
-#EXTVLCOPT:sportv 4
+#EXTINF:-1 group-title="sports",Sportv 4
+#EXTVLCOPT:Sportv 4
 https://kusnadipepenk.github.io/ntn/sprtv1.m3u8
 
 
