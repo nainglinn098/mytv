@@ -45,13 +45,13 @@ https://kusnadipepenk.github.io/ntn/sprtv1.m3u8
 https://ctrl.laotv.la/live/TSport1/index.m3u8 
 
 
-#EXTINF:-1  group-title="u၁၇ကမ္ဘာ့ဖလား",u၁၇ကမ္ဘာ့ဖလား ဗိုလ်လုပွဲ
-#EXTVLCOPT:u၁၇ကမ္ဘာ့ဖလား ဗိုလ်လုပွဲ
+#EXTINF:-1  group-title="TEST",TEST
+#EXTVLCOPT:TEST
 http://planetiptv.online:80/play/live.php?mac=00:1a:79:9b:88:ac&stream=828100&extension=ts&play_token=beAgmliYKH
 
-#EXTINF:-1  group-title="u၁၇ကမ္ဘာ့ဖလား",u၁၇ကမ္ဘာ့ဖလားတတ္တိယလုပွဲ
-#EXTVLCOPT:u၁၇ကမ္ဘာ့ဖလားတတ္တိယလုပွဲ
-https://dan.pogocast.xyz:8075/view/hls/BTUuEx5OvTAxfr1YKRbuSA/1701437756/superspfb.m3u8?|Referer=https://bigcast.xyz/
+#EXTINF:-1  group-title="TEST",TEST
+#EXTVLCOPT:TEST
+https://pull.niues.live/live/stream-9912045_lhd.m3u8?auth_key=1701564708-0-0-02e9dbab205fcb88b91591f5853f2265
 
 #EXTINF:-1 group-title="ပရီးမီးယားလိဒ်",True Premier 5 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 
