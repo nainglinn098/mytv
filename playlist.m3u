@@ -45,13 +45,13 @@ https://kusnadipepenk.github.io/ntn/sprtv1.m3u8
 https://ctrl.laotv.la/live/TSport1/index.m3u8 
 
 
-#EXTINF:-1  group-title="TEST",TEST 1
+#EXTINF:-1  group-title="ယနေ့ည ပွဲစဥ်များ",TEST 1
 #EXTVLCOPT:TEST 1
 http://planetiptv.online:80/play/live.php?mac=00:1a:79:9b:88:ac&stream=828100&extension=ts&play_token=beAgmliYKH
 
-#EXTINF:-1  group-title="TEST",TEST 2
-#EXTVLCOPT:TEST 2
-https://hls.streambtw.com/live/stream_8.m3u8
+#EXTINF:-1  group-title="ယနေ့ည ပွဲစဥ်များ",ဝုလ်ဗာဟန်တမ် နှင့် ဘန်လေ
+#EXTVLCOPT:ဝုလ်ဗာဟန်တမ် နှင့် ဘန်လေ
+https://hls.streambtw.com/live/stream_6.m3u8
 
 #EXTINF:-1 group-title="ပရီးမီးယားလိဒ်",True Premier 5 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 
@@ -122,9 +122,9 @@ https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
 #EXTVLCOPT:Sony Ten 5
 https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
 
-#EXTINF:-1  group-title="TEST",TEST 3
-#EXTVLCOPT:TEST 3
-https://hls.streambtw.com/live/stream_5.m3u8
+#EXTINF:-1  group-title="ယနေ့ည ပွဲစဥ်များ",လူတန်တောင်း နှင့် အာဆင်နယ် 
+#EXTVLCOPT:လူတန်တောင်း နှင့် အာဆင်နယ် 
+https://headlinessportsfoot.com/chunklist/hlsch6.m3u8
 
 
 
