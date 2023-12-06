@@ -112,27 +112,27 @@ https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
 #EXTVLCOPT:Sony Ten 5
 https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ည ပွဲစဥ်များ",bဘရိုက်တန်  နှင့် ဘရန့်ဖို့ 
+#EXTINF:-1  group-title="ယနေ့ည ပွဲစဥ်များ",ဘရိုက်တန်  နှင့် ဘရန့်ဖို့ 
 #EXTVLCOPT:A
 https://hls.streambtw.com/live/stream_1.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ည ပွဲစဥ်များ",ခရစ္စတယ်ပဲလေ့စ် နှင့် ဘုန်းမောက် 
+#EXTINF:-2  group-title="ယနေ့ည ပွဲစဥ်များ",ခရစ္စတယ်ပဲလေ့စ် နှင့် ဘုန်းမောက် 
 #EXTVLCOPT:ခရစ္စတယ်ပဲလေ့စ် နှင့် ဘုန်းမောက် 
 https://hls.streambtw.com/live/stream_2.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ည ပွဲစဥ်များ",ဖူလ်ဟမ် နှင့် နော်တင်ဟမ်ဖောရက်
+#EXTINF:-3  group-title="ယနေ့ည ပွဲစဥ်များ",ဖူလ်ဟမ် နှင့် နော်တင်ဟမ်ဖောရက်
 #EXTVLCOPT:ဖူလ်ဟမ် နှင့် နော်တင်ဟမ်ဖောရက်
 https://hls.streambtw.com/live/stream_3.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ည ပွဲစဥ်များ",ရှက်ဖီးယူနိုက်တက် နှင့် လီဗာပူးလ် 
+#EXTINF:-4  group-title="ယနေ့ည ပွဲစဥ်များ",ရှက်ဖီးယူနိုက်တက် နှင့် လီဗာပူးလ် 
 #EXTVLCOPT:ရှက်ဖီးယူနိုက်တက် နှင့် လီဗာပူးလ်  
 https://hls.streambtw.com/live/stream_4.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ည ပွဲစဥ်များ",အက်စတွန်ဗီလာ နှင့် မန်စီးတီး 
+#EXTINF:-5  group-title="ယနေ့ည ပွဲစဥ်များ",အက်စတွန်ဗီလာ နှင့် မန်စီးတီး 
 #EXTVLCOPT:အက်စတွန်ဗီလာ နှင့် မန်စီးတီး  
 https://hls.streambtw.com/live/stream_5.m3u8
 
-#EXTINF:-2  group-title="ယနေ့ည ပွဲစဥ်များ",မန်ယူ နှင့် ချဲလ်ဆီး  
+#EXTINF:-6  group-title="ယနေ့ည ပွဲစဥ်များ",မန်ယူ နှင့် ချဲလ်ဆီး  
 #EXTVLCOPT:မန်ယူ နှင့် ချဲလ်ဆီး  
 https://hls.streambtw.com/live/stream_6.m3u8
 
