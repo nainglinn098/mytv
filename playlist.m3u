@@ -160,6 +160,36 @@ https://headlinessportsfoot.com/chunklist/hlsch5.m3u8
 #EXTVLCOPT:Live Tv 6
 https://headlinessportsfoot.com/chunklist/hlsch6.m3u8
 
+#EXTINF:-1  group-title="ယနေ့ည ပွဲစဥ်များ",y ဒီပို့တီဗို နှင့် လက်စ်ပါးမား
+#EXTVLCOPT:  
+https://hls.streambtw.com/live/stream_6.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ည ပွဲစဥ်များ",y ရီးရဲလ်ဘက်တစ် နှင့် ရီးရဲလ်မက်ဒရစ်
+#EXTVLCOPT:  
+https://hls.streambtw.com/live/stream_6.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ည ပွဲစဥ်များ",y ဗီလာရီးရဲလ်  နှင့် ဆိုစီဒက်
+#EXTVLCOPT:  
+https://hls.streambtw.com/live/stream_6.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ည ပွဲစဥ်များ",y မာယော့ကာ နှင့် ဆီဗီလာ
+#EXTVLCOPT:  
+https://hls.streambtw.com/live/stream_6.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ည ပွဲစဥ်များ",s ဗီရိုနာ နှင့် လာဇီယို
+#EXTVLCOPT:  
+https://hls.streambtw.com/live/stream_7.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ည ပွဲစဥ်များ",s အတ္တလန်တာ နှင့် အေစီမီလန်
+#EXTVLCOPT:  
+https://hls.streambtw.com/live/stream_7.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ည ပွဲစဥ်များ",s အင်တာမီလန် နှင့် အူဒီးနိစ်
+#EXTVLCOPT:  
+https://hls.streambtw.com/live/stream_7.m3u8
+
+
+
 
 
 
