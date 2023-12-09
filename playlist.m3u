@@ -83,7 +83,6 @@ https://247c.mrgamingstreams.com/mrgamingbtsport4.m3u8
 #EXTVLCOPT:Match 1
 http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
 
-
 #EXTINF:-1 group-title="SPORTS",Match 2
 #EXTVLCOPT:Match 2
 http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
@@ -187,6 +186,38 @@ https://hls.streambtw.com/live/stream_7.m3u8
 #EXTINF:-1  group-title="ယနေ့ည ပွဲစဥ်များ",s အင်တာမီလန် နှင့် အူဒီးနိစ်
 #EXTVLCOPT:  
 https://hls.streambtw.com/live/stream_7.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ည ပွဲစဥ်များ",f ရန်းနက် နှင့် မိုနာကို
+#EXTVLCOPT:  
+https://hls.streambtw.com/live/stream_8.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ည ပွဲစဥ်များ",f ပီအက်စ်ဂျီ နှင့် နန့်တက်စ်
+#EXTVLCOPT:  
+https://hls.streambtw.com/live/stream_8.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ည ပွဲစဥ်များ",g ယူနီယံဘာလင် နှင့် မိုချင်ဂလာဘတ်
+#EXTVLCOPT:  
+https://hls.streambtw.com/live/stream_9.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ည ပွဲစဥ်များ",g ဖရန့်ဖတ် နှင့် ဘိုင်ယန်မြူးနစ် 
+#EXTVLCOPT:  
+https://hls.streambtw.com/live/stream_10.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ည ပွဲစဥ်များ",g ဝုလ်ဘတ် နှင့် ဖရိုင်းဘတ်
+#EXTVLCOPT:  
+https://hls.streambtw.com/live/stream_11.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ည ပွဲစဥ်များ"g ဝါဒါဘရီမင် နှင့် အော့စ်ဘတ်
+#EXTVLCOPT:  
+https://hls.streambtw.com/live/stream_12.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ည ပွဲစဥ်များ",g ဟော့ဖန်ဟိန်း နှင့် ဒန်းစတက်စ်
+#EXTVLCOPT:  
+https://hls.streambtw.com/live/stream_12.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ည ပွဲစဥ်များ",g ဒေါ့မွန် နှင့် လိုက်ဇစ်
+#EXTVLCOPT:  
+https://hls.streambtw.com/live/stream_9.m3u8
 
 
 
