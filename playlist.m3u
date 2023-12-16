@@ -187,6 +187,31 @@ https://hls.streambtw.com/live/stream_8.m3u8
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_8.m3u8
 
+#EXTINF:-1  group-title="UFCနှင့်ဘောက်ဆင်",.  ufc
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_ufc1.m3u8
+
+#EXTINF:-1  group-title="UFCနှင့်ဘောက်ဆင်",.  boxing 1
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_box1.m3u8
+
+#EXTINF:-1  group-title="UFCနှင့်ဘောက်ဆင်",.  boxing 2
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_2.m3u8
+
+#EXTINF:-1  group-title="UFCနှင့်ဘောက်ဆင်",.  boxing 3
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_box3.m3u8
+
+#EXTINF:-1  group-title="UFCနှင့်ဘောက်ဆင်",.  boxing 4
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_box4.m3u8
+
+
+
+
+
+
 
 
 
