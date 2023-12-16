@@ -159,12 +159,33 @@ https://hls.streambtw.com/live/stream_7.m3u8
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_7.m3u8
 
+#EXTINF:-1  group-title="ယနေ့ည ပွဲစဥ်များ",g.  မိန့်ဇ် နှင့် ဟီဒန်ဟိမ်း
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_9.m3u8
 
+#EXTINF:-1  group-title="ယနေ့ည ပွဲစဥ်များ",g.  ဘိုချမ် နှင့် ယူနီယံဘာလင်
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_10.m3u8
 
+#EXTINF:-1  group-title="ယနေ့ည ပွဲစဥ်များ",g.  အော့စ်ဘတ် နှင့် ဒေါ့မွန်
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_11.m3u8
 
+#EXTINF:-1  group-title="ယနေ့ည ပွဲစဥ်များ",g.  ဒန်းစတက် နှင့် ဝုလ်ဘတ်
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_12.m3u8
 
+#EXTINF:-1  group-title="ယနေ့ည ပွဲစဥ်များ",g.  လိုက်ဇစ် နှင့် ဟော့ဖန်ဟိန်း
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_9.m3u8
 
+#EXTINF:-1  group-title="ယနေ့ည ပွဲစဥ်များ",f. လီဟာဗေး  နှင့် နိုက်စ်
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_8.m3u8
 
+#EXTINF:-1  group-title="ယနေ့ည ပွဲစဥ်များ",f.  လန်းစ် နှင့် ရိမ်း
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_8.m3u8
 
 
 
