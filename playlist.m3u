@@ -111,33 +111,53 @@ https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
 #EXTVLCOPT:Sony Ten 5
 https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ည ပွဲစဥ်များ",a.
+#EXTINF:-1  group-title="ယနေ့ည ပွဲစဥ်များ",e. ဘုန်းမောက် နှင့် လူတန်တောင်း 
 EXTVLCOPT:
 https://hls.streambtw.com/live/stream_1.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ည ပွဲစဥ်များ",b. 
+#EXTINF:-1  group-title="ယနေ့ည ပွဲစဥ်များ",e. ချဲလ်ဆီး နှင့် ရှက်ဖီးယူနိုက်တက်
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_2.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ည ပွဲစဥ်များ",c.  
+#EXTINF:-1  group-title="ယနေ့ည ပွဲစဥ်များ",e.  မန်စီးတီး နှင့် ခရစ္စတယ်ပဲလေ့
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_3.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ည ပွဲစဥ်များ",d. 
+#EXTINF:-1  group-title="ယနေ့ည ပွဲစဥ်များ",e. နယူးကာဆယ် နှင့် ဖူလ်ဟမ်
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_4.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ည ပွဲစဥ်များ",e.  
+#EXTINF:-1  group-title="ယနေ့ည ပွဲစဥ်များ",e.  ဘန်လေ နှင့် အဲဗာတန်
 #EXTVLCOPT:
-https://hls.streambtw.com/live/stream_5.m3u8
+https://hls.streambtw.com/live/stream_1.m3u8
 
+#EXTINF:-1  group-title="ယနေ့ည ပွဲစဥ်များ",l.  ဆယ်တာဗီဂို နှင့် ဂရန်နာဒါ
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_6.m3u8
 
+#EXTINF:-1  group-title="ယနေ့ည ပွဲစဥ်များ",l.  ဘီဘာအို နှင့် အက်သလက်တီကို
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_6.m3u8
 
+#EXTINF:-1  group-title="ယနေ့ည ပွဲစဥ်များ",l.  ဆီဗီလာ နှင့် ဂီတာဖေး
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_6.m3u8
 
+#EXTINF:-1  group-title="ယနေ့ည ပွဲစဥ်များ",l.  ဗလင်စီယာ နှင့် ဘာစီလိုနာ 
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_6.m3u8
 
+#EXTINF:-1  group-title="ယနေ့ည ပွဲစဥ်များ",s.  လက်ဆီ နှင့် ဖရိုစင်ဝမ်း
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_7.m3u8
 
+#EXTINF:-1  group-title="ယနေ့ည ပွဲစဥ်များ",s.  နာပိုလီ နှင့် ကာဂလီယာရီ
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_7.m3u8
 
-
+#EXTINF:-1  group-title="ယနေ့ည ပွဲစဥ်များ",s.  တိုရီနို နှင့် အမ်ပိုလီ
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_7.m3u8
 
 
 
