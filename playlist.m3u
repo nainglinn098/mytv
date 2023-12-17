@@ -163,38 +163,31 @@ https://hls.streambtw.com/live/stream_7.m3u8
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_5.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ည ပွဲစဥ်များ",s.
-  ဘိုလော့နာ နှင့် ရိုးမား
+#EXTINF:-1  group-title="ယနေ့ည ပွဲစဥ်များ",s. ဘိုလော့နာ နှင့် ရိုးမား
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_7.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ည ပွဲစဥ်များ",s.
- လာဇီယို နှင့် အင်တာမီလန်
+#EXTINF:-1  group-title="ယနေ့ည ပွဲစဥ်များ",s. လာဇီယို နှင့် အင်တာမီလန်
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_7.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ည ပွဲစဥ်များ",g.
- ဖရိုင်းဘတ် နှင့် ကိုလုံး
+#EXTINF:-1  group-title="ယနေ့ည ပွဲစဥ်များ",g.ဖရိုင်းဘတ် နှင့် ကိုလုံး
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_9.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ည ပွဲစဥ်များ",g.
- လေဗာကူဆင် နှင့် ဖရန့်ဖတ်
+#EXTINF:-1  group-title="ယနေ့ည ပွဲစဥ်များ",g.လေဗာကူဆင် နှင့် ဖရန့်ဖတ်
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_9.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ည ပွဲစဥ်များ",g.
- ဘိုင်ယန်မြူးနစ်  နှင့် စတုဂတ်
+#EXTINF:-1  group-title="ယနေ့ည ပွဲစဥ်များ",g.ဘိုင်ယန်မြူးနစ်  နှင့် စတုဂတ်
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_9.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ည ပွဲစဥ်များ",f.
- နန့်တက် နှင့် ဘရက်
+#EXTINF:-1  group-title="ယနေ့ည ပွဲစဥ်များ",f.နန့်တက် နှင့် ဘရက်
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_8.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ည ပွဲစဥ်များ",f.
-လိုရီယန့် နှင့် စထရာဘိုး
+#EXTINF:-1  group-title="ယနေ့ည ပွဲစဥ်များ",f.လိုရီယန့် နှင့် စထရာဘိုး
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_10.m3u8
 
@@ -206,8 +199,7 @@ https://hls.streambtw.com/live/stream_11.m3u8
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_8.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ည ပွဲစဥ်များ",f.
- မာဆေးလ် နှင့် ကလိမန့်
+#EXTINF:-1  group-title="ယနေ့ည ပွဲစဥ်များ",f.မာဆေးလ် နှင့် ကလိမန့်
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_8.m3u8
 
