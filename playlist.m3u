@@ -119,23 +119,27 @@ https://hls.streambtw.com/live/stream_1.m3u8
 #EXTVLCOPT:
 https://247c.mrgamingstreams.com/mrgamingbtsport2.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.  ခရစ္စတယ်ပဲလေ့စ်  နှင့် ဘရိုက်တန် 
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.  အက်စတွန်ဗီလာ  နှင့် ရှက်ဖီးယူနိုက်တက် 
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_1.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",l.   ကာဒစ် နှင့် ဆိုစီဒက် 
+#EXTINF:-1  group-title="ယနေ့ညပွစဥ်များ",a.  ဖလူမီနက်စ် နှင့် မန်စီးတီး 
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_1.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",s.   အမ်ပိုလီ နှင့် လာဇီယို 
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_5.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",l.  ရီးလ်ရဲဘက်တစ်  နှင့် ဂီရိုနာ
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",s.  ဆက်ဆူအိုလို  နှင့် ဂျီနိုအာ
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_6.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",l.   မာယော့ကာ  နှင့် အိုဆာဆူနာ 
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",s.   မွန်ဇာ  နှင့် ဖီအိုရင်တီးနား 
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_5.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",l.  ဒီပို့တီဗို နှင့် ရီးလ်ရဲမက်ဒရစ်
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",s.  ဆလာနီတာနာ  နှင့် အေစီမီလန
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_6.m3u8
 
