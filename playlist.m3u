@@ -113,7 +113,7 @@ https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
 
 #EXTINF:-1  group-title="FIFAကမ္ဘာ့ကလပ်ဖလား",a.  ဖလူမီနက်စ် နှင့် မန်စီးတီး 
 #EXTVLCOPT:
-https://hls.streambtw.com/live/stream_1.m3u8
+https://hls.streambtw.com/live/stream_2.m3u8
 
 #EXTINF:-1  group-title="FIFAကမ္ဘာ့ကလပ်ဖလား",a.  ဖလူမီနက်စ် နှင့် မန်စီးတီး 
 #EXTVLCOPT:
@@ -125,15 +125,15 @@ https://hls.streambtw.com/live/stream_1.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.  ဖလူမီနက်စ် နှင့် မန်စီးတီး 
 #EXTVLCOPT:
-https://hls.streambtw.com/live/stream_1.m3u8
+https://hls.streambtw.com/live/stream_2.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",s.   အမ်ပိုလီ နှင့် လာဇီယို 
 #EXTVLCOPT:
-https://hls.streambtw.com/live/stream_5.m3u8
+https://hls.streambtw.com/live/stream_7.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",s.  ဆက်ဆူအိုလို  နှင့် ဂျီနိုအာ
 #EXTVLCOPT:
-https://hls.streambtw.com/live/stream_6.m3u8
+https://hls.streambtw.com/live/stream_5.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",s.   မွန်ဇာ  နှင့် ဖီအိုရင်တီးနား 
 #EXTVLCOPT:
@@ -141,8 +141,11 @@ https://hls.streambtw.com/live/stream_5.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",s.  ဆလာနီတာနာ  နှင့် အေစီမီလန
 #EXTVLCOPT:
-https://hls.streambtw.com/live/stream_6.m3u8
+https://hls.streambtw.com/live/stream_7.m3u8
 
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",s.  အယ်နာဆာ  နှင့် အယ်အီတီဖတ်
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_3.m3u8
 
 
 
