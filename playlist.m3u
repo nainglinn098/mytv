@@ -111,26 +111,25 @@ https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
 #EXTVLCOPT:Sony Ten 5
 https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.  ဝုလ်ဗာဟမ်တန် နှင့် ချဲလ်ဆီး 
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.  နယူးကာဆယ်  နှင့် နော်တင်ဟမ်ဖောရက်စ်  
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_1.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",ယူအေအီးလိဒ်.  Al bataeh  နှင့် Al Ain
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.  ဘုန်းမောက်  နှင့် ဖူလ်ဟမ်
 #EXTVLCOPT:
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
+https://hls.streambtw.com/live/stream_1.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",ယူအေအီးလိဒ်.  Sharjah Cultural Club  နှင့်  Ajman
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.  ရှက်ဖီး  နှင့်  လူတန်တောင်း 
 #EXTVLCOPT:
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
+https://hls.streambtw.com/live/stream_1.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",ယူအေအီးလိဒ်.  Khorfakkan  နှင့်  Al Wahda 
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.  ဘန်လေ   နှင့်  လီဗာပူး  
 #EXTVLCOPT:
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
+https://hls.streambtw.com/live/stream_1.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",ယူအေအီးလိဒ်.   Shabab Al Ahli Dubai Fc နှင့် Al Wasl
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.   မန်ယူ နှင့် အက်စတွန်ဗီလာ
 #EXTVLCOPT:
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
-
+https://hls.streambtw.com/live/stream_1.m3u8
 
 
 
