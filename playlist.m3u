@@ -113,15 +113,15 @@ https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.  ဘရန့်ဖို့  နှင့် ဝုလ်ဗာဟန်တမ်   
 #EXTVLCOPT:
-https://hls.streambtw.com/live/stream_3.m3u8
+https://hls.streambtw.com/live/stream_1.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.  ချဲလ်ဆီး  နှင့် ခရစ္စတယ်ပဲလေ့
 #EXTVLCOPT:
-https://mlb.mrgamingstreams.com/liverpool.m3u8
+https://hls.streambtw.com/live/stream_2.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.  အဲဗာတန်   နှင့်  မန်စီးတီး  
 #EXTVLCOPT:
-https://hls.streambtw.com/live/stream_1.m3u8
+https://hls.streambtw.com/live/stream_3.m3u8
 
 
 
