@@ -111,17 +111,73 @@ https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
 #EXTVLCOPT:Sony Ten 5
 https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.  ဖူလ်ဟမ်   နှင့် အာဆင်နယ်    
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.  ဝင်ဘယ်ဒန်  နှင့် အစ်စွစ်တောင်း    
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_1.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.  စပါး   နှင့် ဘုန်းမောက်     
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.  မီဝေါလ်   နှင့် လက်စတာ     
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_2.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.  လီဗာပူးလ်   နှင့် နယူးကာဆယ်    
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.  ဆန်းဒါးလန်း   နှင့် နယူးကာဆယ်    
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_3.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.  စတုတ်စီးတီး  နှင့် ဘရိုက်တန်      
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_1.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.  ကျူပီအာ  နှင့် ဘုန်းမောက်      
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_3.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.  ဆောက်သမ်တန်  နှင့် ဝယ်ဆော    
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_4.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.  မစ်ဒယ်ဘရော့  နှင့် အက်စတွန်ဗီလာ      
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_1.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.  ချဲလ်ဆီး  နှင့် ပရက်စတန်      
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_2.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",l.  လူဂို  နှင့် အက်သလက်တီကို      
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_6.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",l.  အာရန်ဒီနာ  နှင့် ရီးလ်ရဲမက်ဒရစ်      
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_6.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",s.  အင်တာမီလန်  နှင့် ဗီရိုနာ      
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_7.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",s.  ဖရိုစင်ဝမ်း  နှင့် မွန်ဇာ      
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_8.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",s.  လက်ဆီ  နှင့် ကာဂလီယာရီ      
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_7.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",s.  ဆက်ဆူအိုလို  နှင့် ဖီအိုရင်တီးနား      
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_7.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
