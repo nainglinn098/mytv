@@ -111,19 +111,21 @@ https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
 #EXTVLCOPT:Sony Ten 5
 https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.  မစ်ဒယ်ဘရော့  နှင့် ချဲလ်ဆီး    
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.  လီဗာပူး   နှင့် ဖူလ်ဟမ်    
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_1.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.  မစ်ဒယ်ဘရော့   နှင့် ချဲလ်ဆီး    
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",l.  ရီးရဲလ်မက်ဒရစ်   နှင့် အက်သလက်တီကို    
 #EXTVLCOPT:
-https://bp2.mrgamingstreams.com/mrgamingsoccer1.m3u8
+https://hls.streambtw.com/live/stream_5.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",s.  ဖီအိုရင်တီးနား   နှင့် ဘိုလော့နာ    
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",s.  လာဇီယို   နှင့် ရိုးမား    
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_7.m3u8
 
-
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",s.  အေစီမီလန်   နှင့် အတ္တလန်တာ    
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_7.m3u8
 
 
 
