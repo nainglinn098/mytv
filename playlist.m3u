@@ -135,12 +135,69 @@ https://hls.streambtw.com/live/stream_6.m3u8
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_6.m3u8
 
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",l.  ရီးလ်ရဲဘက်တစ်  နှင့် ဂရန်နာဒါ    
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_6.m3u8
 
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",s.  နာပိုလီ   နှင့် ဆလာနီတာနာ     
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_7.m3u8
 
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",s.  ဂျီနိုအာ   နှင့် တိုရီနို
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_8.m3u8
 
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",s.  ဗီရိုနာ   နှင့် အမ်ပိုလီ     
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_7.m3u8
 
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",s.  မွန်ဇာ   နှင့် အင်တာမီလန်
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_7.m3u8
 
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",g.  လိုက်ဇစ်   နှင့် ဖရန့်ဖတ်      
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_9.m3u8
 
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",g.  အော့စ်ဘတ်   နှင့် လီဗာကူဆင်      
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_10.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",g.  ဖရိုင်းဘတ်   နှင့် ယူနီယံဘာလင်      
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_11.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",g.  မိန့်ဇ်   နှင့် ဝုလ်ဘတ်      
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_12.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",g.  ကိုလုံး   နှင့် ဟီဒန်ဟိန်း      
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_13.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",g.  ဒမ်းစတက်   နှင့် ဒေါ့မွန်      
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_9.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",f.  မိုနာကို   နှင့် ရိမ်းစ်      
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_8.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",f.  ရန်းနက်   နှင့် နိုက်စ်      
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_8.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",asia.  သြစတြိလျ   နှင့် အန္ဒိယ      
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_2.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",asia.  တရုတ်   နှင့် တာဂျစ်ကစ္စတန်      
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_2.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",asia.  ဥဇဘက်ကစ္စတန်   နှင့် ဆီးရီးယား      
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_2.m3u8
 
 
 
