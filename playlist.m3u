@@ -199,16 +199,13 @@ https://hls.streambtw.com/live/stream_2.m3u8
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_2.m3u8
 
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",UFC.  UFC LIVE 1      
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_ufc1.m3u8
 
-
-
-
-
-
-
-
-
-
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",UFC.  UFC LIVE 2     
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_box2.m3u8
 
 
 
