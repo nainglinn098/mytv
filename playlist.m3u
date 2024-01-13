@@ -111,30 +111,29 @@ https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
 #EXTVLCOPT:Sony Ten 5
 https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.  ကာတာ   နှင့် လက်ဘနွန်     
-#EXTVLCOPT:
-https://hls.streambtw.com/live/stream_8.m3u8
-
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.  ဟူးစီးတီး   နှင့် နော့ဝစ်    
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.  ချဲလ်ဆီး   နှင့် ဖူလ်ဟမ်    
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_1.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.  ဘန်လေ   နှင့် လူတန်တောင်း     
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.  နယူးကာဆယ်   နှင့် မန်စီးတီး      
 #EXTVLCOPT:
-https://hls.streambtw.com/live/stream_2.m3u8
+https://ctrl.laotv.la/live/TSport1/index.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",g.  ဘိုင်ယန်မြူးနစ်   နှင့် ဟော့ဖန်ဟိန်း    
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.  နယူးကာဆယ်   နှင့် မန်စီးတီး     
 #EXTVLCOPT:
-https://hls.streambtw.com/live/stream_5.m3u8
+https://hls.streambtw.com/live/stream_1.3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",s.  ဆီဗီလာ   နှင့် ဒီပို့တီဗို    
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",l.  လက်ပါးမက်   နှင့် ဗီလာရီးရဲ   
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_6.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",f.  မာဆေး   နှင့် စထရာဘိုး    
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",l.  မာယော့ကာ  နှင့် ဆယ်တာဗီဂို    
 #EXTVLCOPT:
-https://hls.streambtw.com/live/stream_7.m3u8
+https://hls.streambtw.com/live/stream_6.m3u8
 
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",l.  ဘီဘာအို  နှင့် ဆိုစီဒက်    
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_6.m3u8
 
 
 
