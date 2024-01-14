@@ -199,6 +199,8 @@ https://liveh12.vtvcab.vn/hls/ONVTV5_CL/04.m3u8
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_2.m3u8
 
-
+#EXTINF:-1  group-title="Test",Test.        
+#EXTVLCOPT:
+https://pull01.rrwes.live/live/stream-991117_lhd.m3u8?txSecret=38c2c98ed8206a7a3b81757da16ef4d3&txTime=65a3e248
 
 
