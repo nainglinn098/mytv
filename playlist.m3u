@@ -175,10 +175,6 @@ https://hls.streambtw.com/live/stream_8.m3u8
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_8.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",asia.  သြစ​တေးလျ   နှင့် အန္ဒိယ      
-#EXTVLCOPT:
-https://hls.streambtw.com/live/stream_2.m3u8
-
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",asia.  ဂျပန်   နှင့် ဗီယက်နန်      
 #EXTVLCOPT:
 https://liveh12.vtvcab.vn/hls/ONVTV5_CL/04.m3u8
@@ -189,7 +185,7 @@ https://liveh12.vtvcab.vn/hls/ONVTV5_CL/04.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",asia.  အီရန်   နှင့် ပါလက်စတိုင်း      
 #EXTVLCOPT:
-https://cdn-traffic.sohatv.vn/live/pull/SWFYEZzBG7clIMM9/vtv-live/t4xLCuZzH0zRQMUL/337a54767a7233703637564336316a6dafe4d31d4124f84b4404431d474f94d93cf4811cf780cab4e14a9f942e81d03c50d6ecd1fee3636c02ba0b33674a3fb61c7ae62a66d2d25e13f318622912a3f5c44adf3267ae9605dabee48e308eb6b5243bef5fdab95d6c85c9188293ebd93d8cc61dca431db94cfd263e0f3e09535e7b995959858959953f6b8659ea15e0ffbac0e3c9e8a93aba1ef35a8b32e125598e8783751f939f247ecc8611ec845b499820810c63cb9e02857dec93c4a81ef77c9d5ee0c25fb12de5dbd1412fac3bacfa67c37fd87d9b2b37868e41640b14d262c753df55f8515699830c4a79fbd519ce45c04a6341b7e4473ac9f689f7616a08d6ef660c72914bd0cbb20214e2db23fc1daf274c90d8190042a6a0c749bf5491b1eb7a82eb6a1b8534f0dd50bc0ef93f0778d9bbec1f3487aa98aeb229a04759187d7ab1f481513cc929d6a875f73b48ec8b3eb0e5deb5259013a802155882b917c005eaf7beb3efcd3e860d96da090a3bd6e33f54844dacee6f157b8473a6/mobile.m3u8
+https://hls.streambtw.com/live/stream_2.m3u8
 
 
 
