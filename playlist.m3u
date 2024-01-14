@@ -175,6 +175,14 @@ https://hls.streambtw.com/live/stream_9.m3u8
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_8.m3u8
 
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",f.  နန့်တက်   နှင့် ကလီမန့်      
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_10.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",f.  မက်စ်   နှင့် တူးလော့      
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_11.m3u8
+
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",f.  လီဟာဗေး   နှင့် လိုင်ယွန်      
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_8.m3u8
@@ -189,18 +197,28 @@ https://hls.streambtw.com/live/stream_8.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",asia.  ဂျပန်   နှင့် ဗီယက်နန်      
 #EXTVLCOPT:
-https://liveh12.vtvcab.vn/hls/ONVTV5_CL/04.m3u8
+https://hls.streambtw.com/live/stream_2.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",asia.  ယူအေအီး   နှင့် ဟောင်ကောင်      
 #EXTVLCOPT:
-https://liveh12.vtvcab.vn/hls/ONVTV5_CL/04.m3u8
+https://hls.streambtw.com/live/stream_2.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",asia.  အီရန်   နှင့် ပါလက်စတိုင်း      
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_2.m3u8
 
-#EXTINF:-1  group-title="Test",Test.        
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",ပေါ်တူဂီ လိဒ်.   ဘင်ဖီကာ  နှင့် ရီယိုအဗီ      
 #EXTVLCOPT:
-https://pull01.rrwes.live/live/stream-991117_lhd.m3u8?txSecret=38c2c98ed8206a7a3b81757da16ef4d3&txTime=65a3e248
+https://hls.streambtw.com/live/stream_4.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",ပေါ်တူဂီ လိဒ်.   ပေါ်တို  နှင့် စပို့တင်းဘရာဂါ      
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_4.m3u8
+
+
+
+
+
+
 
 
