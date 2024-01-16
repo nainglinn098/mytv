@@ -125,15 +125,19 @@ https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",ည.၉.နာရီ.  ထိုင်း   နှင့် ကာဂျစ်ကစ္စတန်      
 #EXTVLCOPT:PM 6:00
-https://hls.streambtw.com/live/stream_2.m3u8
+https://hls.streambtw.com/live/stream_11.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",ည.၁၂.နာရီ.  ဆော်ဒီ   နှင့် အိုမန်      
 #EXTVLCOPT:
-https://hls.streambtw.com/live/stream_2.m3u8
+https://hls.streambtw.com/live/stream_11.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",ည.၂.နာရီ.  ဝုလ်ဗာဟန်တမ်   နှင့် ဘရန့်ဖို့      
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_1.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",ည.၂.၁၅.  အက်စတီလီလေး   နှင့် နယူးပေါ့      
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_2.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",ည.၂.၁၅.  ဘာမင်ဂမ်   နှင့် ဟူးလ်စီးတီး      
 #EXTVLCOPT:
@@ -147,8 +151,33 @@ https://hls.streambtw.com/live/stream_4.m3u8
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_5.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",ည.၂.၁၅.  ယူဗင်တပ်စ်   နှင့် ဆက်ဆူအိုလို      
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",ည.၁.၃၀.  ဂီတာဖေး   နှင့် ဆီဗီလာ      
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_6.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",ည.၂.၃၀.  ဘီဘာအို   နှင့် ဒီပို့တီဗို      
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_7.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",ည.၃.၃၀.  တီနာလီဖီ   နှင့် မာယော့ကာ      
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_8.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",ည.၂.၁၅.  ယူဗင်တပ်စ်   နှင့် ဆက်ဆူအိုလို      
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_9.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",ည.၈.၃၀.  ဘူကီနာဖာဆို   နှင့် မာရီတာနီးယား      
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_10.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",ည.၁၁.၃၀.  တူနီးရှား   နှင့် နမ်ဘီးယား      
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_10.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",ည.၂.၃၀.  မာလီ   နှင့် တောင်အာဖရိက      
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_10.m3u8
+
 
 
