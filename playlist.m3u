@@ -123,31 +123,32 @@ https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
 #EXTVLCOPT:Sony Ten 5
 https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",ည.၂.၁၅.  အတ္တလန်တာ   နှင့် ဖရိုစင်ဝမ်း     
-#EXTVLCOPT:
-https://hls.streambtw.com/live/stream_7.m3u8
-
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",ည.၆.နာရီ.  တောင်ကိုရီးယား   နှင့် ဘာရိန်း     
-#EXTVLCOPT:
-https://hls.streambtw.com/live/stream_2.m3u8
-
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",ည.၉.နာရီ.  အင်ဒိုနီးရှား   နှင့် အီရတ်      
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",ည.၉.နာရီ.  ထိုင်း   နှင့် ကာဂျစ်ကစ္စတန်      
 #EXTVLCOPT:PM 6:00
 https://hls.streambtw.com/live/stream_2.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",ည.၁၂.နာရီ.  မလေးရှား   နှင့် ဂျော်ဒန်      
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",ည.၁၂.နာရီ.  ဆော်ဒီ   နှင့် အိုမန်      
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_2.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",ည.၂.၃၀.  ဒါဘီကောင်တီ   နှင့် ဘာတန်      
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",ည.၂.နာရီ.  ဝုလ်ဗာဟန်တမ်   နှင့် ဘရန့်ဖို့      
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_1.m3u8
 
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",ည.၂.၁၅.  ဘာမင်ဂမ်   နှင့် ဟူးလ်စီးတီး      
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_3.m3u8
 
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",ည.၂.၁၅.  ဘော်တန်   နှင့် လူတန်တောင်း       
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_4.m3u8
 
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",ည.၂.၁၅.  ဘရစ္စတိုး   နှင့် ဝက်ဟမ်း       
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_5.m3u8
 
-
-
-
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",ည.၂.၁၅.  ယူဗင်တပ်စ်   နှင့် ဆက်ဆူအိုလို      
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_7.m3u8
 
 
