@@ -125,15 +125,11 @@ https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ညနေ.၆.နာရီ.  ဆီးရီးယား   နှင့် သြစတေးလျ     
 #EXTVLCOPT:PM 6:00
-https://hls.streambtw.com/live/stream_5.m3u8
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1705585193-0-0-2d74bd50297d4d19542c53abe213ce17
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၉.နာရီ.  အိန္ဒိယ   နှင့်  ဥဇဘက်ကစ္စတန်     
 #EXTVLCOPT:
-https://hls.streambtw.com/live/stream_5.m3u8
-
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၁၂.နာရီ.  ပါလက်စတိုင်း   နှင့် ယူအေအီး      
-#EXTVLCOPT:
-https://hls.streambtw.com/live/stream_5.m3u8
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1705585193-0-0-2d74bd50297d4d19542c53abe213ce17
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၁၂.နာရီ.  ပါလက်စတိုင်း   နှင့် ယူအေအီး      
 #EXTVLCOPT:
