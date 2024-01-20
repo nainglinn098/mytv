@@ -187,11 +187,13 @@ https://hls.streambtw.com/live/stream_6.m3u8
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_7.m3u8
 
-
-#EXTINF:-1  group-title="TEST",Test.    
+#EXTINF:-1  group-title="UFC LIVE",UFC Live 1    
 #EXTVLCOPT:
-http://bddq4.yacinelivetv.com/live/322215008/index.m3u8?t=HdMMYfFg30UWnLR2f7nSYQ&e=1705755529
+https://hls.streambtw.com/live/stream_ufc1.m3u8
 
+#EXTINF:-1  group-title="UFC LIVE",UFC Live 1    
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_ufc1.m3u8
 
 
 
