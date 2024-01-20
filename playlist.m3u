@@ -188,9 +188,9 @@ https://hls.streambtw.com/live/stream_6.m3u8
 https://hls.streambtw.com/live/stream_7.m3u8
 
 
-#EXTINF:-1  group-title="Test",.    
+#EXTINF:-1  group-title="TEST",Test.    
 #EXTVLCOPT:
-https://a1.bath004.site/watch/SPvjuBjC6RpUByHP4XShAw/1705754440/1705754694/1/ssc1_1.m3u8
+https://cdn7.livehd720.com/asia/bein/playlist.m3u8
 
 
 
