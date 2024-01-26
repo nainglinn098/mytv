@@ -124,7 +124,7 @@ https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၂.၃၀.  စပါး   နှင့်   မန်စီးတီး        
 #EXTVLCOPT:
-https://hls.streambtw.com/live/stream_1.m3u8
+https://hls.streambtw.com/live/stream_4.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.၁၅.  ချဲလ်ဆီး   နှင့်   အက်စတွန်ဗီလာ        
 #EXTVLCOPT:
@@ -136,7 +136,7 @@ https://hls.streambtw.com/live/stream_3.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၂.နာရီ.  ဖရန့်ဖတ်   နှင့်   မိန့်ဇ်        
 #EXTVLCOPT:
-https://hls.streambtw.com/live/stream_8.m3u8
+https://hls.streambtw.com/live/stream_9.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၂.၁၅.  ကာဂလီယာရီ   နှင့်   တိုရီနို        
 #EXTVLCOPT:
@@ -146,9 +146,13 @@ https://hls.streambtw.com/live/stream_7.m3u8
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_6.m3u8
 
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.၁၅.  ရှက်ဖီး W   နှင့်   ကိုဗင်ထရီ        
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_1.m3u8
 
-
-
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၂.၃၀.  လိုင်ယွန်   နှင့်   ရန်းနက်        
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_8.m3u8
 
 
 
