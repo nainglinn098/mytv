@@ -150,10 +150,41 @@ https://hls.streambtw.com/live/stream_11.m3u8
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_12.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၂.၃၀.  လိုင်ယွန်   နှင့်   ရန်းနက်        
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၉.၃၀.  လိဒ်ယူနိုက်တက်   နှင့်   ပလိုင်းမောက်        
 #EXTVLCOPT:
-https://hls.streambtw.com/live/stream_8.m3u8
+https://hls.streambtw.com/live/stream_2.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၂.၃၀.  စပါး   နှင့်   မန်စီးတီး        
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၉.၃၀.  ရှက်ဖီး   နှင့်   ဘရိုက်တန်        
 #EXTVLCOPT:
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1706302433-0-0-39cf965d83826ae2aa6f6fee302ad90a
+https://hls.streambtw.com/live/stream_3.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၉.၃၀.  အဲဗာတန်   နှင့်   လူတန်တောင်း         
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_4.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၉.၃၀.  လက်စတာ   နှင့်   ဘာမင်ဂမ်        
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_5.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",f.ည.၉.၄၅.  လက်စ်ပါးမက်   နှင့်   ရီးလ်ရဲမက်ဒရစ်        
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_6.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
