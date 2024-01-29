@@ -142,10 +142,9 @@ https://hls.streambtw.com/live/stream_7.m3u8
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_6.m3u8
 
-
-
-
-
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၆.နာရီ.  အီရတ်   နှင့်   ဂျော်ဒန်         
+#EXTVLCOPT:
+https://headlinessportsfoot.com/chunklist/hlsch27.m3u8
 
 
 
