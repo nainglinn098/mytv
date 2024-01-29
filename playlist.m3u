@@ -146,9 +146,9 @@ https://hls.streambtw.com/live/stream_6.m3u8
 #EXTVLCOPT:
 https://headlinessportsfoot.com/chunklist/hlsch1.m3u8
 
-
-
-
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၂.နာရီ.  ဘလက်ဘန်း   နှင့်   ဝရက်ဟမ်း        
+#EXTVLCOPT:
+https://headlinessportsfoot.com/chunklist/hlsch25.m3u8
 
 
 
