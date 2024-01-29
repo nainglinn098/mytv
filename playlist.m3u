@@ -154,8 +154,9 @@ https://headlinessportsfoot.com/chunklist/hlsch25.m3u8
 #EXTVLCOPT:
 https://headlinessportsfoot.com/chunklist/hlsch2.m3u8
 
-
-
+#EXTINF:-1  group-title="TEST",test.            
+#EXTVLCOPT:
+https://e3.thetvapp.to/hls/CBSSportsNetworkUSA.m3u8?token=fB_tg16mdtHIOKipYVoLwA&expires=1706561570
 
 
 
