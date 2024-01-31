@@ -122,31 +122,19 @@ https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
 #EXTVLCOPT:Sony Ten 5
 https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၆.နာရီ.  ဥဇဘက်ကစ္စတန်   နှင့်   ထိုင်း         
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၆.နာရီ.  ဘာရိန်း   နှင့်   ဂျပန်        
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_5.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၁၀.၃၀.  ဆော်ဒီအာရေဗျ   နှင့်   တောင်ကိုရီးယား          
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၁၀.၃၀.  အီရန်   နှင့်   ဆီးရီးယား          
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_5.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၂.နာရီ.  နော်တင်ဟမ်ဖောရက်စ်   နှင့်   အာဆင်နယ်        
-#EXTVLCOPT:
-https://hls.streambtw.com/live/stream_1.m3u8
-
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၂.၁၅.  ဖူလ်ဟမ်   နှင့်   အဲဗာတန်       
-#EXTVLCOPT:
-https://hls.streambtw.com/live/stream_2.m3u8
-
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၂.၁၅.  လူတန်တောင်း   နှင့်   ဘရိုက်တန်       
-#EXTVLCOPT:
-https://hls.streambtw.com/live/stream_3.m3u8
-
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၆.နာရီ.  ဥဇဘက်ကစ္စတန်   နှင့်   ထိုင်း          
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၆.နာရီ.  ဘာရိန်း   နှင့်   ဂျပန်          
 #EXTVLCOPT:
 https://headlinessportsfoot.com/chunklist/hlsch3.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၁၀.၃၀.  ဆော်ဒီအာရေဗျ   နှင့်   တောင်ကိုရီးယား          
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၁၀.၃၀.  အီရန်   နှင့်   ဆီးရီးယား          
 #EXTVLCOPT:
 https://headlinessportsfoot.com/chunklist/hlsch4.m3u8
 
