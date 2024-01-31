@@ -148,11 +148,11 @@ https://hls.streambtw.com/live/stream_1.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၂.နာရီ.  မန်စီးတီး  နှင့်    ဘန်လေ       
 #EXTVLCOPT:
-https://headlinessportsfoot.com/chunklist/hlsch6.m3u8
-
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၂.နာရီ.  မန်စီးတီး   နှင့်   ဘန်လေ         
-#EXTVLCOPT:
 https://sport.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8|referer=https://oneplayer.online/
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၂.နာရီ.  မန်စီးတီး  နှင့်    ဘန်လေ       
+#EXTVLCOPT:
+https://headlinessportsfoot.com/chunklist/hlsch6.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၂.နာရီ.   စပါး  နှင့်  ဘရန့်ဖို့       
 #EXTVLCOPT:
