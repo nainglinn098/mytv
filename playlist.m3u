@@ -162,6 +162,21 @@ https://hls.streambtw.com/live/stream_2.m3u8
 #EXTVLCOPT:
 https://sport.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8|referer=https://oneplayer.online/
 
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",f.ည.၂.၃၀.   အက်သလက်တီကို   နှင့်  ဗယ်လီကာနို       
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_6.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",g.ည.၂.၄၅.   လီဗာပူးလ်    နှင့်  ချဲလ်ဆီး       
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_3.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",g.ည.၂.၄၅.   လီဗာပူးလ်    နှင့်  ချဲလ်ဆီး       
+#EXTVLCOPT:
+https://headlinessportsfoot.com/chunklist/hlsch5.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",g.ည.၂.၄၅.   လီဗာပူးလ်    နှင့်  ချဲလ်ဆီး       
+#EXTVLCOPT:
+https://ctrl.laotv.la/live/TSport1/index.m3u8
 
 
 
