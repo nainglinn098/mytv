@@ -146,7 +146,7 @@ https://hls.streambtw.com/live/stream_6.m3u8
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_1.m3u8
 
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်ုများ",d.ည.၂.နာရီ. မန်စီးတ  နှင့် ဘန်လေ
+#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၂.နာရီ. မန်စီးတ  နှင့် ဘန်လေ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 
 https://sport.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8|referer=https://oneplayer.online/
 
@@ -159,8 +159,8 @@ https://headlinessportsfoot.com/chunklist/hlsch6.m3u8
 https://hls.streambtw.com/live/stream_2.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၂.နာရီ.   စပါး  နှင့်  ဘရန့်ဖို့       
-#EXTVLCOPT:
-https://sport.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8|referer=https://oneplayer.online/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 
+https://sport.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8|referer=https://oneplayer.online/ 
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",f.ည.၂.၃၀.   အက်သလက်တီကို   နှင့်  ဗယ်လီကာနို       
 #EXTVLCOPT:
