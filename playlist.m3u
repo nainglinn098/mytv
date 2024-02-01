@@ -122,79 +122,31 @@ https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
 #EXTVLCOPT:Sony Ten 5
 https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၆.နာရီ.  ဘာရိန်း   နှင့်   ဂျပန်        
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၁၂.၃၀.   အယ်နာဆာ   နှင့်  အင်တာ မီယာမီ        
 #EXTVLCOPT:
-https://hls.streambtw.com/live/stream_5.m3u8
+https://ctrl.laotv.la/live/Bsport1/index.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၁၀.၃၀.  အီရန်   နှင့်   ဆီးရီးယား          
-#EXTVLCOPT:
-https://hls.streambtw.com/live/stream_5.m3u8
-
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၆.နာရီ.  ဘာရိန်း   နှင့်   ဂျပန်          
-#EXTVLCOPT:
-https://af.ayassport.ir/hls2/ssc1.m3u8
-
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၁၀.၃၀.  အီရန်   နှင့်   ဆီးရီးယား          
-#EXTVLCOPT:
-https://af.ayassport.ir/hls2/ssc1.m3u8
-
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၁၂.၃၀.   ဘာစီလိုနာ   နှင့်  အိုဆာဆူနာ        
-#EXTVLCOPT:
-https://hls.streambtw.com/live/stream_6.m3u8
-
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၂.နာရီ.  မန်စီးတီး  နှင့်    ဘန်လေ       
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.နာရီ.  ဝက်စ်ဟမ်း  နှင့်    ဘုန်းမောက်       
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_2.m3u8
 
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၂.နာရီ. မန်စီးတီး  နှင့် ဘန်လေ
+#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.နာရီ. ဝက်ဟမ်း   နှင့် ဘုန်းမောက်
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 
 https://sport.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8|referer=https://oneplayer.online/
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၂.နာရီ.  မန်စီးတီး  နှင့်    ဘန်လေ       
-#EXTVLCOPT:
-https://headlinessportsfoot.com/chunklist/hlsch3.m3u8
-
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၂.နာရီ.   စပါး  နှင့်  ဘရန့်ဖို့       
-#EXTVLCOPT:
-https://hls.streambtw.com/live/stream_1.m3u8
-
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၂.နာရီ.   စပါး  နှင့်  ဘရန့်ဖို့       
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 
-https://sport.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8|referer=https://oneplayer.online/ 
-
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",f.ည.၂.၃၀.   အက်သလက်တီကို   နှင့်  ဗယ်လီကာနို       
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၂.၃၀.  ဂီတာဖေး  နှင့်    ရီးလ်ရဲမက်ဒရစ်       
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_6.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",g.ည.၂.၄၅.   လီဗာပူးလ်    နှင့်  ချဲလ်ဆီး       
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၂.၄၅.   ဝုလ်ဗာဟန်တမ်   နှင့်  မန်ယူနိုက်တက်      
 #EXTVLCOPT:
-https://hls.streambtw.com/live/stream_3.m3u8
+https://hls.streambtw.com/live/stream_1.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",g.ည.၂.၄၅.   လီဗာပူးလ်    နှင့်  ချဲလ်ဆီး       
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၂.၄၅.   ဝုလ်ဗာဟန်တမ်    နှင့်  မန်ယူနိုက်တက်       
 #EXTVLCOPT:
 https://headlinessportsfoot.com/chunklist/hlsch1.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",g.ည.၂.၄၅.   လီဗာပူးလ်    နှင့်  ချဲလ်ဆီး       
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၂.၄၅.   ဝုလ်ဗာဟန်တမ်    နှင့်  မန်ယူနိုက်တက်      
 #EXTVLCOPT:
 https://ctrl.laotv.la/live/TSport1/index.m3u8
-
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",ည.၁.၁၅.   ရီယိုအဗေး    နှင့်  အက်စ်တိုရေး       
-#EXTVLCOPT:
-https://hls.streambtw.com/live/stream_7.m3u8
-
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",ည.၃.၁၅.   စပို့တင်းဘရာဂါ    နှင့်  ချာဗက်စ်      
-#EXTVLCOPT:
-https://hls.streambtw.com/live/stream_8.m3u8
-
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",ည.၂.၁၅.   ဟာသာဘာလင်    နှင့်  ကိုင်ဇာစလော့တန်       
-#EXTVLCOPT:
-https://hls.streambtw.com/live/stream_9.m3u8
-
-
-
-
-
-
-
-
 
