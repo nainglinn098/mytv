@@ -150,3 +150,14 @@ https://headlinessportsfoot.com/chunklist/hlsch1.m3u8
 #EXTVLCOPT:
 https://ctrl.laotv.la/live/TSport1/index.m3u8
 
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",Ssc Sports.   အာရှဖလား       
+#EXTVLCOPT:
+https://af.ayassport.ir/hls2/ssc1.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",Bein Sports Afc.   အာရှဖလား       
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_5.m3u8
+
+
+
+
