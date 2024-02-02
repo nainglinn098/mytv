@@ -118,40 +118,53 @@ https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
 #EXTVLCOPT:Sony Ten 5
 https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၆.နာရီ.   တာဂျစ်ကစ္စတန်  နှင့်  ဂျော်ဒန်       
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၆.နာရီ.   အီရန်  နှင့်  ဂျပန်       
 #EXTVLCOPT:
 https://af.ayassport.ir/hls2/ssc1.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၆.နာရီ.   တာဂျစ်ကစ္စတန်  နှင့်  ဂျော်ဒန်       
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၆.နာရီ.   အီရန်  နှင့်  ဂျပန်       
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_5.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၁၀.နာရီ.   သြစတေးလျ   နှင့်  တောင်ကိုရီးယား         
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",f.ည.၁၀.နာရီ.   ကာတာ   နှင့်  ဥဇဘက်ကစ္စတန်         
 #EXTVLCOPT:
-https://headlinessportsfoot.com/chunklist/hlsch3.m3u8
+https://hls.streambtw.com/live/stream_5.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၁၀.နာရီ.   သြစတေးလျ   နှင့်  တောင်ကိုရီးယား         
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",f.ည.၁၀.နာရီ.   ကာတာ   နှင့်  ဥဇဘက်ကစ္စတန်         
 #EXTVLCOPT:
 https://af.ayassport.ir/hls2/ssc1.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၂.နာရီ.   ဟီဒမ်ဟိန်း  နှင့်  ဒေါ့မွန်       
-#EXTVLCOPT:
-https://hls.streambtw.com/live/stream_9.m3u8
-
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၂.၁၅.   လက်ဆီ  နှင့်  ဖီအိုရင်တီးနား       
-#EXTVLCOPT:
-https://hls.streambtw.com/live/stream_7.m3u8
-
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၂.၃၀.   ဘီဘာအို  နှင့်  မာယော့ကာ       
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၇.၃၀.   ဗလင်စီယာ  နှင့်  အယ်မားရီးယား      
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_6.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၂.၃၀.   စထရာဘိုး  နှင့်  ပီအက်စ်ဂျီ       
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၈.၃၀.   အမ်ပိုလီ  နှင့်  ဂျီနိုအာ      
 #EXTVLCOPT:
-https://hls.streambtw.com/live/stream_8.m3u8
+https://hls.streambtw.com/live/stream_7.m3u8
 
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၂.၃၀.   အူဒီးနိစ်  နှင့်  မွန်ဇာ       
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_4.m3u8
 
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၉.နာရီ.  ဘိုင်ယန်မြူးနစ်    နှင့်  မိုချန်ဂလာဘတ်       
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_9.m3u8
 
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၉.နာရီ.  ဘိုချမ်    နှင့်  အော့စ်ဘတ်      
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_10.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၉.နာရီ.  ဒမ်းစတက်    နှင့်  လီဗာကူဆင်      
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_11.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၉.နာရီ.  ဖရိုင်းဘတ်   နှင့်  စတုဂတ်      
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_12.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၉.နာရီ.  မိန့်ဇ်    နှင့်  ဝါဒါဘရီမင်       
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_13.m3u8
 
 
 
