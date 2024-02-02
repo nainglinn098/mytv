@@ -118,42 +118,40 @@ https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
 #EXTVLCOPT:Sony Ten 5
 https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၁၂.၃၀.   အယ်နာဆာ   နှင့်  အင်တာ မီယာမီ        
-#EXTVLCOPT:
-https://ctrl.laotv.la/live/Bsport1/index.m3u8
-
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.နာရီ.  ဝက်စ်ဟမ်း  နှင့်    ဘုန်းမောက်       
-#EXTVLCOPT:
-https://hls.streambtw.com/live/stream_1.m3u8
-
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.နာရီ. ဝက်ဟမ်း   နှင့် ဘုန်းမောက်
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 
-https://sport.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8|referer=https://oneplayer.online/
-
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၂.၃၀.  ဂီတာဖေး  နှင့်    ရီးလ်ရဲမက်ဒရစ်       
-#EXTVLCOPT:
-https://hls.streambtw.com/live/stream_6.m3u8
-
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၂.၄၅.   ဝုလ်ဗာဟန်တမ်   နှင့်  မန်ယူနိုက်တက်      
-#EXTVLCOPT:
-https://hls.streambtw.com/live/stream_2.m3u8
-
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၂.၄၅.   ဝုလ်ဗာဟန်တမ်    နှင့်  မန်ယူနိုက်တက်       
-#EXTVLCOPT:
-https://headlinessportsfoot.com/chunklist/hlsch1.m3u8
-
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၂.၄၅.   ဝုလ်ဗာဟန်တမ်    နှင့်  မန်ယူနိုက်တက်      
-#EXTVLCOPT:
-https://ctrl.laotv.la/live/TSport1/index.m3u8
-
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",Ssc Sports.   အာရှဖလား       
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၆.နာရီ.   တာဂျစ်ကစ္စတန်  နှင့်  ဂျော်ဒန်       
 #EXTVLCOPT:
 https://af.ayassport.ir/hls2/ssc1.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",Bein Sports Afc.   အာရှဖလား       
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၆.နာရီ.   တာဂျစ်ကစ္စတန်  နှင့်  ဂျော်ဒန်       
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_5.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၁၂.၃၀.   အယ်နာဆာ   နှင့်  အင်တာ မီယာမီ        
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၁၀.နာရီ.   သြစတေးလျ   နှင့်  တောင်ကိုရီးယား         
 #EXTVLCOPT:
-https://hls.streambtw.com/live/stream_3.m3u8
+https://hls.streambtw.com/live/stream_5.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၁၀.နာရီ.   သြစတေးလျ   နှင့်  တောင်ကိုရီးယား         
+#EXTVLCOPT:
+https://af.ayassport.ir/hls2/ssc1.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၂.နာရီ.   ဟီဒမ်ဟိန်း  နှင့်  ဒေါ့မွန်       
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_9.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၂.၁၅.   လက်ဆီ  နှင့်  ဖီအိုရင်တီးနား       
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_7.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၂.၃၀.   ဘီဘာအို  နှင့်  မာယော့ကာ       
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_6.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၂.၃၀.   စထရာဘိုး  နှင့်  ပီအက်စ်ဂျီ       
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_8.m3u8
+
+
+
+
+
+
