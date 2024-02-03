@@ -166,5 +166,30 @@ https://hls.streambtw.com/live/stream_12.m3u8
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_13.m3u8
 
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၉.၃၀.  နယူးကာဆယ်    နှင့်  လူတန်တောင်း       
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_1.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၉.၃၀.  နယူးကာဆယ်    နှင့်  လူတန်တောင်း       
+#EXTVLCOPT:
+https://ctrl.laotv.la/live/TSport1/index.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၉.၃၀.  ဘရိုက်တန်    နှင့်  ခရစ္စတယ်ပဲလေ့       
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_2.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၉.၃၀.  ဘရိုက်တန်    နှင့်  ခရစ္စတယ်ပဲလေ့       
+#EXTVLCOPT:
+https://ctrl.laotv.la/live/TSport2/index.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၉.၃၀.  ဘန်လေ    နှင့်  ဖူလ်ဟမ်      
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_3.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၉.၃၀.  ဘန်လေ    နှင့်  ဖူလ်ဟမ်       
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 
+https://sport.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8|referer=https://oneplayer.online/
+
+
 
 
