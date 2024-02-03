@@ -230,7 +230,7 @@ https://hls.streambtw.com/live/stream_6.m3u8
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_8.m3u8
 
-#EXTINF:-1  group-title="UFC Live"     
+#EXTINF:-1  group-title="UFC Live",Ufc.    
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_ufc1.m3u8
 
