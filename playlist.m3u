@@ -126,11 +126,11 @@ https://af.ayassport.ir/hls2/ssc1.m3u8
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_5.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",f.ည.၁၀.နာရီ.   ကာတာ   နှင့်  ဥဇဘက်ကစ္စတန်         
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",g.ည.၁၀.နာရီ.   ကာတာ   နှင့်  ဥဇဘက်ကစ္စတန်         
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_5.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",f.ည.၁၀.နာရီ.   ကာတာ   နှင့်  ဥဇဘက်ကစ္စတန်         
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",g.ည.၁၀.နာရီ.   ကာတာ   နှင့်  ဥဇဘက်ကစ္စတန်         
 #EXTVLCOPT:
 https://af.ayassport.ir/hls2/ssc1.m3u8
 
@@ -189,6 +189,25 @@ https://hls.streambtw.com/live/stream_3.m3u8
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၉.၃၀.  ဘန်လေ    နှင့်  ဖူလ်ဟမ်       
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 
 https://sport.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8|referer=https://oneplayer.online/
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",f.ည.၉.၄၅.   ဂရန်နာဒါ  နှင့်  လက်စ်ပါးမက်      
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_6.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",h.ည.၁၀.၃၀.   ရန်းနက်  နှင့်  မောင့်ပယ်လီယာ      
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_8.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",i.ည.၁၁.၃၀.   ဖရိုစင်ဝမ်း  နှင့်  အေစီမီလန်      
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_7.m3u8
+
+
+
+
+
+
+
 
 
 
