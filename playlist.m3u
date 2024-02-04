@@ -242,10 +242,11 @@ https://pull.niues.live/live/stream-9912048_lsd.m3u8?auth_key=1707038048-0-0-237
 #EXTVLCOPT:
 https://pull01.rrwes.live/live/stream-490081_lsd.m3u8?txSecret=3d7c10e890a18846b689973022d03a64&txTime=65bf9bb0
 
+#EXTINF:-1  group-title="TEST",Live 4.        
+#EXTVLCOPT:
+https://pull.niues.live/live/stream-351530_lsd.m3u8?auth_key=1707038228-0-0-839ca70e5be815187867817113deaab9
 
-
-
-
-
-
+#EXTINF:-1  group-title="TEST",Live 5.        
+#EXTVLCOPT:
+https://pull.niues.live/live/stream-9912020_lsd.m3u8?auth_key=1707038228-0-0-cb3984e6d6f2603994e24fca601a09
 
