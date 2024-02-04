@@ -128,11 +128,11 @@ https://hls.streambtw.com/live/stream_6.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၈.၃၀.   နာပိုလီ   နှင့်  ဗီရိုနာ        
 #EXTVLCOPT:
-https://hls.streambtw.com/live/stream_7.m3u8
+https://hls.streambtw.com/live/stream_4.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၈.၃၀.   ဘုန်းမောက်  နှင့်  နော်တင်ဟမ်ဖောရက်စ်       
 #EXTVLCOPT:
-https://hls.streambtw.com/live/stream_3.m3u8
+https://hls.streambtw.com/live/stream_1.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၈.၃၀.   ဘုန်းမောက်  နှင့်  နော်တင်ဟမ်ဖောရက်စ်       
 #EXTVLCOPT:
@@ -148,7 +148,7 @@ https://sport.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8|referer=h
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၈.၃၀.  မန်ယူနိုက်တက်    နှင့်  ဝက်ဟမ်း      
 #EXTVLCOPT:
-https://hls.streambtw.com/live/stream_1.m3u8
+https://hls.streambtw.com/live/stream_3.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၈.၃၀.  မန်ယူနိုက်တက်    နှင့်  ဝက်ဟမ်း      
 #EXTVLCOPT:
@@ -165,6 +165,14 @@ https://hls.streambtw.com/live/stream_8.m3u8
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",f.ည.၈.၃၀.  လိုင်လီ    နှင့်  ကလိမန့်      
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_8.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",f.ည.၈.၃၀.  ရိမ်း    နှင့်  တူးလော့     
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_11.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",f.ည.၈.၃၀.  မက်စ်    နှင့်  လိုရီယန့်      
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_12.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",g.ည.၉.နာရီ.  ဝုလ်ဘတ်    နှင့်  ဟော့ဖန်ဟိန်း       
 #EXTVLCOPT:
