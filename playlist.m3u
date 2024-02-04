@@ -230,6 +230,22 @@ https://hls.streambtw.com/live/stream_6.m3u8
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_6.m3u8
 
+#EXTINF:-1  group-title="TEST",Live 1.        
+#EXTVLCOPT:
+https://ynzbpull2.nbxhth.cn/live/82990958719881457737.m3u8
+
+#EXTINF:-1  group-title="TEST",Live 2.        
+#EXTVLCOPT:
+https://pull.niues.live/live/stream-9912048_lsd.m3u8?auth_key=1707038048-0-0-2379ebe5ea57902ee4201ff9341aa30
+
+#EXTINF:-1  group-title="TEST",Live 3.        
+#EXTVLCOPT:
+https://pull01.rrwes.live/live/stream-490081_lsd.m3u8?txSecret=3d7c10e890a18846b689973022d03a64&txTime=65bf9bb0
+
+
+
+
+
 
 
 
