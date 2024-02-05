@@ -132,11 +132,11 @@ https://hls.streambtw.com/live/stream_6.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.၃၀.   ဗယ်လီကာနို နှင့် ဆီဗီလာ       
 #EXTVLCOPT:
-https://pull01.rrwes.live/live/stream-9912015_lsd.m3u8?txSecret=9e21ea587b57914058f0761fdab62b69&txTime=65c02ce8
+https://ynzbpull2.nbxhth.cn/live/83087471815565296959.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၂.၃၀.   ဘရန့်ဖို့ နှင့် မန်စီးတီး        
 #EXTVLCOPT:
-https://ynzbpull2.nbxhth.cn/live/83086878911714244226.m3u8
+https://ynzbpull2.nbxhth.cn/live/83087437940664627420.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၂.၃၀.   ဘရန့်ဖို့ နှင့် မန်စီးတီး        
 #EXTVLCOPT:
@@ -150,6 +150,9 @@ https://ctrl.laotv.la/live/TSport1/index.m3u8
 #EXTVLCOPT:
 https://ctrl.laotv.la/live/TSport2/index.m3u8
 
+#EXTINF:-1  group-title="TEST",Test 1.         
+#EXTVLCOPT:
+https://ynzbpull2.nbxhth.cn/live/83086878911714244226.m3u8
 
 
 
