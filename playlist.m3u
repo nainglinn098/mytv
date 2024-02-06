@@ -134,7 +134,7 @@ https://hls.streambtw.com/live/stream_1.m3u8
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_2.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.၁၅.   ဆောက်သမ်တန် နှင့် လိဒ်       
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.၁၅.   ဆောက်သမ်တန် နှင့် ဝက်ဖို့      
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_3.m3u8
 
@@ -146,6 +146,27 @@ https://hls.streambtw.com/live/stream_9.m3u8
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_6.m3u8
 
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.၁၅.   ကိုဗင်ထရီ နှင့် ရှက်ဖီးW       
+#EXTVLCOPT:
+https://pull01.rrwes.live/live/stream-342075_lsd.m3u8?txSecret=b4ebe8607a56c1642c07cf3ed83f02fa&txTime=65c06413
 
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.၁၅.   ပလိုင်းမောက် နှင့် လိဒ်       
+#EXTVLCOPT:
+https://ynzbpull2.nbxhth.cn/live/83168728894919102349.m3u8
 
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.၁၅.   ဆောက်သမ်တန် နှင့် ဝက်ဖို့      
+#EXTVLCOPT:
+https://pull.niues.live/live/stream-9912003_lsd.m3u8?auth_key=1707223149-0-0-666dc1894231c534458852bc9397a042
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၂.၁၅.   လီဗာကူဆင် နှင့် စတုဂတ်        
+#EXTVLCOPT:
+https://ynzbpull2.nbxhth.cn/live/83168788591101897513.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၂.၃၀.   မာယော့ကာ နှင့် ဆိုစီဒက်        
+#EXTVLCOPT:
+https://ynzbpull2.nbxhth.cn/live/83168847311568848786.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၂.၁၅.   ဆိုးချော့ နှင့် ရန်းနက်       
+#EXTVLCOPT:
+https://ynzbpull2.nbxhth.cn/live/83168816173571195300.m3u8
 
