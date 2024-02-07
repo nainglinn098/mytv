@@ -134,4 +134,7 @@ https://hls.streambtw.com/live/stream_5.m3u8
 #EXTVLCOPT:
 https://ynzbpull2.nbxhth.cn/live/83258853988057949957.m3u8
 
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၁၁.၃၀.   နိုင်ဂျီးရီးယား နှင့် တောင်အာဖရိ      
+#EXTVLCOPT:
+https://pull.niues.live/live/stream-477560_lsd.m3u8?auth_key=1707278485-0-0-bafc984dcab0ddcee6eb27dafa0bf886
 
