@@ -174,6 +174,30 @@ https://ynzbpull2.nbxhth.cn/live/83259211691377975830.m3u8
 #EXTVLCOPT:
 https://ynzbpull2.nbxhth.cn/live/83259247631657838295.m3u8
 
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",f.ည.၂.၃၀.   အက်စတွန်ဗီလာ နှင့် ချဲလ်ဆီး    
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_1.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",f.ည.၂.နာရီ.   နော်တင်ဟမ်ဖောရက်စ် နှင့် ဘရစ္စတိုး   
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_2.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",h.ည.၃.နာရီ.   အက်သလက်တီကို နှင့် ဘီဘာအို   
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_6.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၁၂.နာရီ.   မိန့်ဇ် နှင့် အူယွန်းဘာလင်      
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_9.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၁၂.နာရီ.   လိုင်ယွန် နှင့် လိုင်လီ      
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_8.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",g.ည.၂.၄၀.   ပီအက်စ်ဂျီ နှင့် ဘရက်စ်   
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_8.m3u8
+
 
 
 
