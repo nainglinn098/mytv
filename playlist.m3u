@@ -130,9 +130,9 @@ https://ctrl.laotv.la/live/Bsport1/index.m3u8
 #EXTVLCOPT:
 https://ynzbpull2.nbxhth.cn/live/83339746635447290541.m3u8
 
-
-
-
+#EXTINF:-1  group-title="TEST",Test.        
+#EXTVLCOPT:
+https://pull01.rrwes.live/live/stream-201313_lsd.m3u8?txSecret=325c584e8e50f6924fec62ce1229cf2b&txTime=65c59042
 
 
 
