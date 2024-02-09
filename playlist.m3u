@@ -118,17 +118,37 @@ https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
 #EXTVLCOPT:Sony Ten 5
 https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၁၂.၃၀.   အယ် ဟိုင်းလယ် နှင့် အယ် နယ်ဆာ       
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၂.နာရီ.   ဒေါ့မွန် နှင့် ဖရိုင်းဘတ်   
 #EXTVLCOPT:
-https://pull.niues.live/live/stream-9912086_lsd.m3u8?auth_key=1707373093-0-0-a490d5277456ba1d80bd1f1c602f1eed
+https://hls.streambtw.com/live/stream_9.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၁၂.၃၀.   အယ် ဟိုင်းလယ် နှင့် အယ် နယ်ဆာ       
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၂.နာရီ.   ဒေါ့မွန် နှင့် ဖရိုင်းဘတ်   
 #EXTVLCOPT:
-https://ctrl.laotv.la/live/Bsport1/index.m3u8
+https://hls.streambtw.com/live/stream_9.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.၁၅.   ရူအန် နှင့် မိုနာကို     
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၂.၃၀.   ကာဒစ် နှင့် ရီးလ်ရဲဘက်တစ်      
 #EXTVLCOPT:
-https://ynzbpull2.nbxhth.cn/live/83339746635447290541.m3u8
+https://hls.streambtw.com/live/stream_6.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၂.၃၀.   ကာဒစ် နှင့် ရီးလ်ရဲဘက်တစ်      
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_6.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၂.၃၀.   မာဆေးလ် နှင့် မက်စ်      
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_8.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၂.၃၀.   မာဆေးလ် နှင့် မက်စ်      
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_8.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.၁၅.   ဆလာနီတာနာ နှင့် အမ်ပိုလီ     
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_7.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.၁၅.   ဆလာနီတာနာ နှင့် အမ်ပိုလီ     
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_7.m3u8
 
 #EXTINF:-1  group-title="TEST",Test.        
 #EXTVLCOPT:
