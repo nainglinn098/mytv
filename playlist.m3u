@@ -132,7 +132,7 @@ https://hls.streambtw.com/live/stream_6.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၂.၃၀.   ကာဒစ် နှင့် ရီးလ်ရဲဘက်တစ်      
 #EXTVLCOPT:
-https://hls.streambtw.com/live/stream_6.m3u8
+https://pull.niues.live/live/stream-490081_lsd.m3u8?auth_key=1707432906-0-0-adca3baaa4b6dd38d170e1ef314ed9cb
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၂.၃၀.   မာဆေးလ် နှင့် မက်စ်      
 #EXTVLCOPT:
@@ -140,7 +140,7 @@ https://hls.streambtw.com/live/stream_8.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၂.၃၀.   မာဆေးလ် နှင့် မက်စ်      
 #EXTVLCOPT:
-https://hls.streambtw.com/live/stream_8.m3u8
+https://pull.niues.live/live/stream-9912006_lsd.m3u8?auth_key=1707448629-0-0-10e22f2ef9444cbe9c7769f3d81c323c
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.၁၅.   ဆလာနီတာနာ နှင့် အမ်ပိုလီ     
 #EXTVLCOPT:
@@ -148,14 +148,11 @@ https://hls.streambtw.com/live/stream_7.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.၁၅.   ဆလာနီတာနာ နှင့် အမ်ပိုလီ     
 #EXTVLCOPT:
-https://hls.streambtw.com/live/stream_7.m3u8
+https://pull.niues.live/live/stream-9912045_lsd.m3u8?auth_key=1707477789-0-0-981e5699f39574385be9ad1d9196a821
 
 #EXTINF:-1  group-title="TEST",Test.        
 #EXTVLCOPT:
-https://pull01.rrwes.live/live/stream-201313_lsd.m3u8?txSecret=325c584e8e50f6924fec62ce1229cf2b&txTime=65c59042
-
-
-
+https://pull01.rrwes.live/live/stream-201313_lsd.m3u8?txSecret=c0f120def833813cd3f7fedc5ff314d9&txTime=65c65221
 
 
 
