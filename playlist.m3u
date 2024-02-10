@@ -270,10 +270,12 @@ https://hls.streambtw.com/live/stream_6.m3u8
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_6.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",k.ည.၁၂.နာရီ.  လီဗာကူဆင်  နှင့် ဘိုင်ယန်မြူးနစ်      #EXTVLCOPT:
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",k.ည.၁၂.နာရီ.  လီဗာကူဆင်  နှင့် ဘိုင်ယန်မြူးနစ်      
+#EXTVLCOPT:
 https://hls.streambtw.com/live/stream_9.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",k.ည.၁၂.နာရီ.  လီဗာကူဆင်  နှင့် ဘိုင်ယန်မြူးနစ်      #EXTVLCOPT:
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",k.ည.၁၂.နာရီ.  လီဗာကူဆင်  နှင့် ဘိုင်ယန်မြူးနစ်      
+#EXTVLCOPT:
 https://hls.streambtw.com/live/stream_9.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",l.ည.၂.၁၅.   ဆက်ဆူအိုလို နှင့် တိုရီနို      
