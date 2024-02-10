@@ -296,9 +296,9 @@ https://hls.streambtw.com/live/stream_8.m3u8
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_8.m3u8
 
-
-
-
+#EXTINF:-1  group-title="TEST",Test 1.
+#EXTVLCOPT:
+https://play1nm.hnyongshun.cn/live/sd-23xmvkh83p44qg8.m3u8
 
 
 
