@@ -128,20 +128,19 @@ https://pull.niues.live/live/stream-490081_lsd.m3u8?auth_key=1707432906-0-0-adca
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၇.နာရီ.   မန်စီးတီး နှင့် အဲဗာတန်  
 #EXTVLCOPT:
-https://pull.niues.live/live/stream-9912006_lsd.m3u8?auth_key=1707260562-0-0-4b634b4d87e357ffcb68054f5896d026
+https://ctrl.laotv.la/live/TSport1/index.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၇.နာရီ.   မန်စီးတီး နှင့် အဲဗာတန်   
+#EXTVLCOPT:
+https://ctrl.laotv.la/live/TSport2/index.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၇.နာရီ.   မန်စီးတီး နှင့် အဲဗာတန်   
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_1.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၇.နာရီ.   မန်စီးတီး နှင့် အဲဗာတန်   
 #EXTVLCOPT:
 https://ynzbpull2.nbxhth.cn/live/83259175091291287779.m3u8
-
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၇.နာရီ.   မန်စီးတီး နှင့် အဲဗာတန်   
-#EXTVLCOPT:
-https://ynzbpull2.nbxhth.cn/live/83259175091291287779.m3u8
-
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၇.နာရီ.   မန်စီးတီး နှင့် အဲဗာတန်   
-#EXTVLCOPT:
-https://ynzbpull2.nbxhth.cn/live/83259175091291287779.m3u8
-
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၇.၃၀.   ဒီပို့တီဗို နှင့် ဗီလာရီးရဲ    
 #EXTVLCOPT:
@@ -166,6 +165,7 @@ https://hls.streambtw.com/live/stream_2.m3u8
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၉.နာရီ.   မိုချန်ဂလာဘတ် နှင့် ဒမ်းစ်တက်  
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_2.m3u8
+
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၉.နာရီ.   ဖရန့်ဖတ် နှင့် ဘိုချမ်  
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_2.m3u8
@@ -188,11 +188,11 @@ https://hls.streambtw.com/live/stream_2.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၉.၃၀.   လီဗာပူးလ် နှင့် ဘန်လေ 
 #EXTVLCOPT:
-https://hls.streambtw.com/live/stream_2.m3u8
+https://ctrl.laotv.la/live/TSport1/index.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၉.၃၀.   လီဗာပူးလ် နှင့် ဘန်လေ 
 #EXTVLCOPT:
-https://hls.streambtw.com/live/stream_2.m3u8
+https://ctrl.laotv.la/live/TSport2/index.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၉.၃၀.   လီဗာပူးလ် နှင့် ဘန်လေ 
 #EXTVLCOPT:
@@ -252,11 +252,11 @@ https://hls.streambtw.com/live/stream_7.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",i.ည.၁၂.နာရီ.   နော်တင်ဟမ်ဖောရက်စ် နှင့် နယူးကာဆယ်   
 #EXTVLCOPT:
-https://hls.streambtw.com/live/stream_1.m3u8
+https://ctrl.laotv.la/live/TSport1/index.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",i.ည.၁၂.နာရီ.   နော်တင်ဟမ်ဖောရက်စ် နှင့် နယူးကာဆယ်   
 #EXTVLCOPT:
-https://hls.streambtw.com/live/stream_1.m3u8
+https://ctrl.laotv.la/live/TSport2/index.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",i.ည.၁၂.နာရီ.   နော်တင်ဟမ်ဖောရက်စ် နှင့် နယူးကာဆယ်   
 #EXTVLCOPT:
