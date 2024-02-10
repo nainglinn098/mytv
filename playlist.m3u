@@ -312,3 +312,6 @@ https://pull.niues.live/live/stream-9912043_lsd.m3u8?auth_key=1707490665-0-0-bd1
 #EXTVLCOPT:
 https://pull01.rrwes.live/live/stream-9912086_lsd.m3u8?txSecret=1aaf3ae7cf243f155f5deff9f5fc0b3b&txTime=65c64be3
 
+#EXTINF:-1  group-title="UFC",Ufc Live.
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_ufc1.m3u8
