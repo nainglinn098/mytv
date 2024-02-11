@@ -152,7 +152,7 @@ https://play1nm.hnyongshun.cn/live/hd-zh-dn1m1ghpj681moe.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၈.၃၀.   ဘိုလော့နာ နှင့် လက်ဆီ  
 #EXTVLCOPT:
-https://pull.niues.live/live/stream-427562_lsd.m3u8?auth_key=1707585977-0-0-9ad899ba673a415a9135df55acb39d26
+https://play1nm.hnyongshun.cn/live/hd-zh-jw2r09h6e1kgrz8.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၈.၃၀.   ဘိုလော့နာ နှင့် လက်ဆီ  
 #EXTVLCOPT:
@@ -164,7 +164,7 @@ https://hls.streambtw.com/live/stream_7.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၈.၃၀.   မွန်ဇာ နှင့် ဗီရိုနာ  
 #EXTVLCOPT:
-https://pull.niues.live/live/stream-115447_lsd.m3u8?auth_key=1707586269-0-0-cffda36d87acbb9678853081e0e26b77
+https://play1nm.hnyongshun.cn/live/hd-zh-y0or5jhzv194qwz.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၉.နာရီ.   စတုဂတ် နှင့် မိန့်ဇ်
 #EXTVLCOPT:
@@ -172,7 +172,7 @@ https://hls.streambtw.com/live/stream_9.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၉.နာရီ.   စတုဂတ် နှင့် မိန့်ဇ်  
 #EXTVLCOPT:
-https://pull.niues.live/live/stream-9911957_lsd.m3u8?auth_key=1707597231-0-0-dc5979faae4c1dc8fa7040393f03eba4
+https://play1nm.hnyongshun.cn/live/hd-zh-jw2r09h6ov7nrz8.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",f.ည.၉.၄၅.   မာယော့ကာ နှင့် ဗယ်လီကာနို 
 #EXTVLCOPT:
@@ -270,7 +270,11 @@ https://pull.niues.live/live/stream-9912077_lsd.m3u8?auth_key=1707605844-0-0-a85
 #EXTVLCOPT:
 https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1707597532-0-0-9354b83cd12d87ee52b9e40fda26f44
 
+#EXTINF:-1  group-title="TEST",Test 2.   
+#EXTVLCOPT:
+https://pull.niues.live/live/stream-115447_lsd.m3u8?auth_key=1707586269-0-0-cffda36d87acbb9678853081e0e26b77
 
-
-
+#EXTINF:-1  group-title="TEST",Test 3.   
+#EXTVLCOPT:
+https://pull.niues.live/live/stream-427562_lsd.m3u8?auth_key=1707585977-0-0-9ad899ba673a415a9135df55acb39d26
 
