@@ -180,7 +180,7 @@ https://hls.streambtw.com/live/stream_6.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",f.ည.၉.၄၅.   မာယော့ကာ နှင့် ဗယ်လီကာနို
 #EXTVLCOPT:
-https://pull.niues.live/live/stream-9912084_lsd.m3u8?auth_key=1707597476-0-0-b4cd14d3931d9c24686a725498d24f34
+https://play1nm.hnyongshun.cn/live/hd-zh-l5ergphl1gn2r8k.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၆.၃၀.   လီဟာဗေး နှင့် ရန်းနက် 
 #EXTVLCOPT:
@@ -200,7 +200,7 @@ https://pull.niues.live/live/stream-434982_lsd.m3u8?auth_key=1707472449-0-0-78bd
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",g.ည.၁၀.၃၅.   မောင့်ပယ်လီယာ နှင့် လိုင်ယွန်
 #EXTVLCOPT:
-https://hls.streambtw.com/live/stream_8.m3u8
+https://play1nm.hnyongshun.cn/live/hd-zh-dn1m1ghpw9wvmoe.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",h.ည.၁၁.နာရီ.   ဟော့ဖန်ဟိန်း နှင့် ကိုလုံး
 #EXTVLCOPT:
@@ -232,11 +232,11 @@ https://hls.streambtw.com/live/stream_6.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",j.ည.၁၂.နာရီ.   ဆီဗီလာ နှင့် အက်သလက်တီကို  
 #EXTVLCOPT:
-https://pull01.rrwes.live/live/stream-9912056_lsd.m3u8?txSecret=f7f9ce5318e5f19d87cf599359ae6ef3&txTime=65c76ec9
+https://pull.niues.live/live/stream-9912045_lsd.m3u8?auth_key=1707604929-0-0-923015d33dcfd892cf96d8953afa491c
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",k.ည.၂.၁၅. အေစီမီလန် နှင့် နာပိုလီ 
 #EXTVLCOPT:
-https://play1nm.hnyongshun.cn/live/hd-zh-y39mp1h02dl2moj.m3u8
+https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1707606041-0-0-e8c3d734a21545973e95e9a5d27c4ce0
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",k.ည.၂.၁၅. အေစီမီလန် နှင့် နာပိုလီ 
 #EXTVLCOPT:
@@ -252,7 +252,7 @@ https://hls.streambtw.com/live/stream_6.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",l.ည.၂.၃၀.   ဘာစီလိုနာ နှင့် ဂရန်နာဒါ   
 #EXTVLCOPT:
-https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1707518848-0-0-bb28e670537965e154282f18ecb7b807
+https://pull.niues.live/live/stream-9912077_lsd.m3u8?auth_key=1707653349-0-0-fd629fc7c877b7e2ba4e7795b2460ec3
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",l.ည.၂.၃၀.   နိုင်ဂျီရီးယား နှင့် အိုင်ဗီကို့   
 #EXTVLCOPT:
@@ -260,7 +260,7 @@ https://hls.streambtw.com/live/stream_9.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",l.ည.၂.၃၀.   နိုင်ဂျီရီးယား နှင့် အိုင်ဗီကို့   
 #EXTVLCOPT:
-https://hls.streambtw.com/live/stream_9.m3u8
+https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1707653529-0-0-70e653ed8d9ebf0efe9c83390d9e154f
 
 #EXTINF:-1  group-title="TEST",Test 1.   
 #EXTVLCOPT:
@@ -275,6 +275,9 @@ https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1707597532-0-0-9354
 https://pull.niues.live/live/stream-115447_lsd.m3u8?auth_key=1707586269-0-0-cffda36d87acbb9678853081e0e26b77
 
 #EXTINF:-1  group-title="TEST",Test 3.   
-#EXTVLCOPT:
+#EXTVLC:
 https://pull.niues.live/live/stream-427562_lsd.m3u8?auth_key=1707585977-0-0-9ad899ba673a415a9135df55acb39d26
 
+#EXTINF:-1  group-title="TEST",women fa.   
+#EXTVLC:
+https://play1nm.hnyongshun.cn/live/sd-dn1m1gh21o25moe.m3u8
