@@ -262,6 +262,13 @@ https://hls.streambtw.com/live/stream_9.m3u8
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_9.m3u8
 
+#EXTINF:-1  group-title="TEST",Test 1.   
+#EXTVLCOPT:
+https://pull01.rrwes.live/live/stream-201313_lsd.m3u8?txSecret=1e69de9bb2af03bc586cbc51f0f18aac&txTime=65c8ae4e
+
+#EXTINF:-1  group-title="TEST",Test 1.   
+#EXTVLCOPT:
+https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1707597532-0-0-9354b83cd12d87ee52b9e40fda26f44
 
 
 
