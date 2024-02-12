@@ -169,3 +169,12 @@ https://play1nm.hnyongshun.cn/live/sd-x7lm7phz5owzm2w.m3u8
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၂.၄၅.   အေရူကာ နှင့် ပေါ်တို
 #EXTVLCOPT:
 https://ynzbpull2.nbxhth.cn/live/83677661007815975100.m3u8
+
+#EXTINF:-1  group-title="အိန္ဒိယ လိဒ်",Test 1.   
+#EXTVLC:
+https://play1nm.hnyongshun.cn/live/sd-dn1m1gh2o3eomoe.m3u8
+
+#EXTINF:-1  group-title="အိန္ဒိယ လိဒ်",Test 2.   
+#EXTVLC:
+https://ynzbpull2.nbxhth.cn/live/83737899093177987193.m3u8
+
