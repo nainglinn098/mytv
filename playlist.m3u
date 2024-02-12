@@ -166,4 +166,6 @@ https://pull.niues.live/live/stream-9912007_lsd.m3u8?auth_key=1707732216-0-0-0b8
 #EXTVLC:
 https://play1nm.hnyongshun.cn/live/sd-x7lm7phz5owzm2w.m3u8
 
-
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၂.၄၅.   အေရူကာ နှင့် ပေါ်တို
+#EXTVLCOPT:
+https://ynzbpull2.nbxhth.cn/live/83677661007815975100.m3u8
