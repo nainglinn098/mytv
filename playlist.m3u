@@ -162,3 +162,8 @@ https://pull.niues.live/live/stream-9912011_lsd.m3u8?auth_key=1707683217-0-0-cad
 #EXTVLC:
 https://ynzbpull2.nbxhth.cn/live/83677314688299781661.m3u8
 
+#EXTINF:-1  group-title="TEST",Test 4.   
+#EXTVLC:
+https://pull.niues.live/live/stream-334434_lsd.m3u8?auth_key=1707452196-0-0-62488f6532ab9861bdb25e733b7602bc
+
+
