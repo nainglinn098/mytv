@@ -118,63 +118,36 @@ https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
 #EXTVLCOPT:Sony Ten 5
 https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၂.၁၅.   ယူဗင်တပ်စ် နှင့် အူဒီးနိစ်      
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ညနေ.၄.၃၀.   ရှန်ဒေါင်း နှင့် ကာဝါဆာကီ     
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_7.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၂.၁၅.   ယူဗင်တပ်စ် နှင့် အူဒီးနိစ်      
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ညနေ.၄.၃၀.   ရှန်ဒေါင်း နှင့် ကာဝါဆာကီ     
 #EXTVLCOPT:
 https://ynzbpull2.nbxhth.cn/live/83677537726903983120.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.၃၀.  ခရစ္စတယ်ပဲ့လေ့  နှင့် ချဲလ်ဆီး 
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.၃၀.  ကိုပင်ဟေဂင်  နှင့် မန်စီးတီး  
 #EXTVLCOPT:
 https://ctrl.laotv.la/live/TSport1/index.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.၃၀.   ခရစ္စတယ်ပဲလေ့ နှင့် ချဲလ်ဆီး   
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.၃၀.  ကိုပင်ဟေဂင်  နှင့် မန်စီးတီး  
 #EXTVLCOPT:
 https://ctrl.laotv.la/live/TSport2/index.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.၃၀.   ခရစ္စတယ်ပဲလေ့ နှင့် ချဲလ်ဆီး   
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.၃၀.  ကိုပင်ဟေဂင်  နှင့် မန်စီးတီး  
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_1.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.၃၀.   ခရစ္စတယ်ပဲလေ့ နှင့် ချဲလ်ဆီး   
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.၃၀.   လိုက်ဇစ် နှင့် ရီးလ်ရဲမက်ဒရစ်  
 #EXTVLCOPT:
 https://ynzbpull2.nbxhth.cn/live/83677596051874135297.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၂.၃၀.   အယ်မာရီးယား နှင့် ဘီဘာအို  
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.၃၀.   လိုက်ဇစ် နှင့် ရီးလ်ရဲမက်ဒရစ်  
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_6.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၂.၃၀.   အယ်မာရီးယား နှင့် ဘီဘာအို 
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.၃၀.   လိုက်ဇစ် နှင့် ရီးလ်ရဲမက်ဒရစ်  
 #EXTVLCOPT:
 https://ynzbpull2.nbxhth.cn/live/83677628275113508896.m3u8
 
-#EXTINF:-1  group-title="TEST",Test 1.   
-#EXTVLCOPT:
-https://pull.niues.live/live/stream-237299_lsd.m3u8?auth_key=1707692518-0-0-bfcd8d7b4e87d0a0ba5d35e4978175a2
-
-#EXTINF:-1  group-title="TEST",Test 2.   
-#EXTVLCOPT:
-https://play1nm.hnyongshun.cn/live/sd-y0or5jhn0438qwz.m3u8
-
-#EXTINF:-1  group-title="TEST",Test 3.   
-#EXTVLC:
-https://pull.niues.live/live/stream-9912007_lsd.m3u8?auth_key=1707732216-0-0-0b8733b6f833e8aa8f762451c01cae76
-
-#EXTINF:-1  group-title="TEST",Test 4.   
-#EXTVLC:
-https://play1nm.hnyongshun.cn/live/sd-x7lm7phz5owzm2w.m3u8
-
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၂.၄၅.   အေရူကာ နှင့် ပေါ်တို
-#EXTVLCOPT:
-https://ynzbpull2.nbxhth.cn/live/83677661007815975100.m3u8
-
-#EXTINF:-1  group-title="အိန္ဒိယ လိဒ်",Test 1.   
-#EXTVLC:
-https://play1nm.hnyongshun.cn/live/sd-dn1m1gh2o3eomoe.m3u8
-
-#EXTINF:-1  group-title="အိန္ဒိယ လိဒ်",Test 2.   
-#EXTVLC:
-https://ynzbpull2.nbxhth.cn/live/83737899093177987193.m3u8
 
