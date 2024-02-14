@@ -161,3 +161,24 @@ https://hls.streambtw.com/live/stream_7.m3u8
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၁၂.၃၀.   ဘိုလော့နာ နှင့် ဖီအိုရင်တီးနား
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_7.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ညနေ.၄.၃၀.   အာရှချန်ပီယံလိဒ်    
+#EXTVLCOPT:
+https://ctrl.laotv.la/live/TrueSport3/index.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ညနေ.၆.၃၀.   အာရှချန်ပီယံလိဒ်    
+#EXTVLCOPT:
+https://ctrl.laotv.la/live/TrueSport2/index.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၈.၃၀.  အာရှချန်ပီယံလိဒ်
+#EXTVLCOPT:
+https://ctrl.laotv.la/live/TrueSport2/index.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၁၂.၃၀.  အာရှချန်ပီယံလိဒ်
+#EXTVLCOPT:
+https://ctrl.laotv.la/live/TrueSport2/index.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၁၂.၃၀.  အာရှချန်ပီယံလိဒ်
+#EXTVLCOPT:
+https://ctrl.laotv.la/live/TrueSport2/index.m3u8
+
