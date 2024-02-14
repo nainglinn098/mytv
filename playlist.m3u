@@ -118,35 +118,31 @@ https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
 #EXTVLCOPT:Sony Ten 5
 https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ညနေ.၄.၃၀.   ရှန်ဒေါင်း နှင့် ကာဝါဆာကီ     
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ညနေ.၄.၃၀.   အာရှချန်ပီယံလိဒ်    
 #EXTVLCOPT:
-https://pull.niues.live/live/stream-9912052_lsd.m3u8?auth_key=1707777834-0-0-56ac86ae856d339022308cba6e7fdd9d
+https://ynzbpull2.nbxhth.cn/live/83860806623493856259.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ညနေ.၄.၃၀.   ရှန်ဒေါင်း နှင့် ကာဝါဆာကီ     
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ညနေ.၆.၃၀.   အာရှချန်ပီယံလိဒ်    
 #EXTVLCOPT:
 https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1707821049-0-0-fb28142bcb3714c5af65c309bb9ff144
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.၃၀.  ကိုပင်ဟေဂင်  နှင့် မန်စီးတီး  
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၈.၃၀.  အာရှချန်ပီယံလိဒ်
 #EXTVLCOPT:
 https://ynzbpull2.nbxhth.cn/live/83810215385938258997.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.၃၀.  ကိုပင်ဟေဂင်  နှင့် မန်စီးတီး  
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၂.၃၀.  လာဇီယို  နှင့် ဘိုင်ယန်မြူးနစ်  
 #EXTVLCOPT:
 https://ynzbpull2.nbxhth.cn/live/83810215385938258997.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.၃၀.  ကိုပင်ဟေဂင်  နှင့် မန်စီးတီး  
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၂.၃၀.  လာဇီယို  နှင့် ဘိုင်ယန်မြူးနစ်  
 #EXTVLCOPT:
-https://hls.streambtw.com/live/stream_1.m3u8
+https://ynzbpull2.nbxhth.cn/live/83810215385938258997.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.၃၀.   လိုက်ဇစ် နှင့် ရီးလ်ရဲမက်ဒရစ်  
-#EXTVLCOPT:
-https://ynzbpull2.nbxhth.cn/live/83810172860994285968.m3u8
-
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.၃၀.   လိုက်ဇစ် နှင့် ရီးလ်ရဲမက်ဒရစ်  
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၂.၃၀.   ပီအက်စ်ဂျီ နှင့် ဆိုစီဒက် 
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_6.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.၃၀.   လိုက်ဇစ် နှင့် ရီးလ်ရဲမက်ဒရစ်  
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၂.၃၀.   ပီအက်စ်ဂျီ နှင့် ဆိုစီဒက် 
 #EXTVLCOPT:
 https://ynzbpull2.nbxhth.cn/live/83810172860994285968.m3u8
 
