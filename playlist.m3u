@@ -158,5 +158,13 @@ https://ynzbpull2.nbxhth.cn/live/83945158795402863600.m3u8
 #EXTVLCOPT:
 https://ynzbpull2.nbxhth.cn/live/83945192645777528210.m3u8
 
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၁၂.၁၅.  ရှက်တာဒိုးနက်  နှင့် မာဆေးလ်
+#EXTVLCOPT:
+https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၁၂.၁၅.  ဂါလာတာစာရေး  နှင့် စပါတာ
+#EXTVLCOPT:
+https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
+
 
 
