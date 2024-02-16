@@ -118,10 +118,42 @@ https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
 #EXTVLCOPT:Sony Ten 5
 https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
 
-#EXTINF:-1  group-title="ခြေစမ်းပွဲ",.   ခြေစမ်းပွဲ  
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၁၂.၃၀.   တိုရီနို  နှင့်  လက်ဆီ 
 #EXTVLCOPT:
-https://mcdn.mrgamingstreams.com/messi.m3u8
+https://hls.streambtw.com/live/stream_7.m3u8
 
-#EXTINF:-1  group-title="ခြေစမ်းပွဲ",.   ခြေစမ်းပွဲ  
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၁၂.၃၀.   တိုရီနို  နှင့်  လက်ဆီ 
 #EXTVLCOPT:
-https://pull.niues.live/live/stream-499765_lsd.m3u8?auth_key=1708045689-0-0-73a6b7599ecc16d5b8a5d48c4e30709a
+https://ynzbpull2.nbxhth.cn/live/84034029739973651377.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.နာရီ.   ကိုလုံး  နှင့်  ဝါဒါဘရီမင် 
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_9.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.နာရီ.   ကိုလုံး  နှင့်  ဝါဒါဘရီမင် 
+#EXTVLCOPT:
+https://ynzbpull2.nbxhth.cn/live/84034092090353872401.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၂.၃၀.   ဗီလာရီးရဲ  နှင့်  ဂီတာဖေး
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_6.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၂.၃၀.   ဗီလာရီးရဲ  နှင့်  ဂီတာဖေး
+#EXTVLCOPT:
+https://ynzbpull2.nbxhth.cn/live/84034141887237428134.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၂.၃၀.   လိုင်ယွန်  နှင့်  နိုက်စ်
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_8.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၂.၃၀.   လိုင်ယွန်  နှင့်  နိုက်စ်
+#EXTVLCOPT:
+https://ynzbpull2.nbxhth.cn/live/84034228560727076418.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၂.၃၀.   အင်တာမီလန်  နှင့်  ဆလာနီတာနား
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_7.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၂.၃၀.   အင်တာမီလန်  နှင့်  ဆလာနီတာနား
+#EXTVLCOPT:
+https://ynzbpull2.nbxhth.cn/live/84034178640800020947.m3u8
