@@ -122,4 +122,6 @@ https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
 #EXTVLCOPT:
 https://bp1.mrgamingstreams.com/bt3.m3u8
 
-
+#EXTINF:-1  group-title="ခြေစမ်းပွဲ",.   ခြေစမ်းပွဲ  
+#EXTVLCOPT:
+https://pull.niues.live/live/stream-499765_lsd.m3u8?auth_key=1708045689-0-0-73a6b7599ecc16d5b8a5d48c4e30709a
