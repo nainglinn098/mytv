@@ -177,3 +177,54 @@ https://hls.streambtw.com/live/stream_7.m3u8
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၉.နာရီ.   ဝုလ်ဘတ်  နှင့်  ဒေါ့မွန်
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_9.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၉.၃၀.   ဘန်လေ  နှင့်  အာဆင်နယ်
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_1.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၉.၃၀.   ဘန်လေ  နှင့်  အာဆင်နယ်
+#EXTVLCOPT:
+https://ctrl.laotv.la/live/TSport2/index.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၉.၃၀.   ဘန်လေ  နှင့်  အာဆင်နယ်
+#EXTVLCOPT:
+https://ctrl.laotv.la/live/TSport2/index.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၉.၃၀.   ဖူလ်ဟမ်  နှင့်  အက်စတွန်ဗီလာ
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_1.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၉.၃၀.   ဖူလ်ဟမ်  နှင့်  အက်စတွန်ဗီလာ
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_1.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၉.၃၀.   နယူးကာဆယ်  နှင့်  ဘုန်းမောက်
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_1.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၉.၃၀.   နယူးကာဆယ်  နှင့်  ဘုန်းမောက်
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_1.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၉.၃၀.   နော်တင်ဟမ်ဖောရက်စ်  နှင့်  ဝက်စ်ဟမ်း
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_1.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၉.၃၀.   နော်တင်ဟမ်ဖောရက်စ်  နှင့်  ဝက်စ်ဟမ်း
+#EXTVLCOPT:
+https://ctrl.laotv.la/live/TrueSport2/index.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၉.၃၀.   စပါး  နှင့်  ဝုလ်ဗာဟန်တမ် 
+#EXTVLCOPT:
+https://ctrl.laotv.la/live/TSport1/index.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၉.၃၀.   စပါး  နှင့်  ဝုလ်ဗာဟန်တမ် 
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_1.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၉.၃၀.   စပါး  နှင့်  ဝုလ်ဗာဟန်တမ် 
+#EXTVLCOPT:
+https://ctrl.laotv.la/live/TSport1/index.m3u8
+
+
+
