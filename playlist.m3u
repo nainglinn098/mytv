@@ -306,13 +306,36 @@ https://hls.streambtw.com/live/stream_8.m3u8
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_8.m3u8
 
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၉.နာရီ.   ဒမ်းစတက်  နှင့်  စတုဂတ်
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_13.m3u8
 
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၉.နာရီ.   မိန့်ဇ်  နှင့်  အော့စ်ဘတ်
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_10.m3u8
 
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၉.နာရီ.   ဟော့ဖန်ဟိန်း  နှင့်  အူယွန်းဘာလင်
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_11.m3u8
 
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၉.နာရီ.   ဟီဒမ်ဟိန်း  နှင့်  လီဗာကူဆင်
+#EXTVLCOPT:
+https://ynzbpull2.nbxhth.cn/live/84120864028302031614.m3u8
 
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၉.နာရီ.   ဝုလ်ဘတ်  နှင့်  ဒေါ့မွန်
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_12.m3u8
 
+#EXTINF:-1  group-title="သြစတေးလျ A League",a.နေ့လယ်.၁.၃၀.   
+#EXTVLCOPT:
+https://play1nm.hnyongshun.cn/live/sd-k82rekhwv03wrep.m3u8
 
+#EXTINF:-1  group-title="သြစတေးလျ A League",a.ညနေ.၃.၁၅.   
+#EXTVLCOPT:
+https://ynzbpull2.nbxhth.cn/live/84120408775729157122.m3u8
 
-
+#EXTINF:-1  group-title="သြစတေးလျ A League",a.ညနေ.၅.၁၅.   
+#EXTVLCOPT:
+https://ynzbpull2.nbxhth.cn/live/84120491973538517982.m3u8
 
 
