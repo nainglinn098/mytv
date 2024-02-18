@@ -118,18 +118,6 @@ https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
 #EXTVLCOPT:Sony Ten 5
 https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
 
-#EXTINF:-1  group-title="UFC LIVE",UFC Live.   Ufc Live 1
-#EXTVLCOPT:
-https://ctrl.laotv.la/live/TrueSport3/index.m3u8
-
-#EXTINF:-1  group-title="UFC LIVE",UFC Live.   Ufc Live 2
-#EXTVLCOPT:
-https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
-
-#EXTINF:-1  group-title="UFC LIVE",UFC Live.   Ufc Live 3
-#EXTVLCOPT:
-https://hls.streambtw.com/live/stream_ufc1.m3u8
-
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၇.နာရီ.   ဘရန့်ဖို့  နှင့်  လီဗာပူးလ် 
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_1.m3u8
