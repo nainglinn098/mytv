@@ -118,34 +118,61 @@ https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
 #EXTVLCOPT:Sony Ten 5
 https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.၃၀.   ဘီဘာအို  နှင့်  ဂီရိုနာ
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.အာရှချန်ပီယံလိဒ်.   ကာဝါဆာကီ  နှင့်  ရှန်ဒွန်း
 #EXTVLCOPT:
-https://hls.streambtw.com/live/stream_6.m3u8
+https://ctrl.laotv.la/live/TrueSport2/index.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.၃၀.   ဘီဘာအို  နှင့်  ဂီရိုနာ
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.အာရှချန်ပီယံလိဒ်.   ကာဝါဆာကီ  နှင့်  ရှန်ဒွန်း
 #EXTVLCOPT:
-https://xmvtakdywcbqsrju.cdnorange.net:8443/hls/iubkxytogk0uw.m3u8?s=lsYyhvUdRu9_FwTTouLO5w&e=1708361181
+https://ynzbpull2.nbxhth.cn/live/84393804591238653110.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.၃၀.   ဘီဘာအို  နှင့်  ဂီရိုနာ
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.အာရှချန်ပီယံလိဒ်.   ပိုဟန်း  နှင့်  ဂျောင်ဘွတ်ဟွန်ဒိုင်း
 #EXTVLCOPT:
-https://ynzbpull2.nbxhth.cn/live/84298763736995248893.m3u8
+https://ctrl.laotv.la/live/TrueSport3/index.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၂.၃၀.   အဲဗာတန်  နှင့်  ခရစ္စတယ်ပဲလေ့
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.အာရှချန်ပီယံလိဒ်.   ပိုဟန်း  နှင့်  ဂျောင်ဘွတ်ဟွန်ဒိုင်း
+#EXTVLCOPT:
+https://ynzbpull2.nbxhth.cn/live/84393855449847893513.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၂.နာရီ.   မန်စီးတီး  နှင့်  ဘရန့်ဖို့
 #EXTVLCOPT:
 https://ctrl.laotv.la/live/TSport1/index.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၂.၃၀.   အဲဗာတန်  နှင့်  ခရစ္စတယ်ပဲလေ့
-#EXTVLCOPT:
-https://ctrl.laotv.la/live/TSport2/index.m3u8
-
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၂.၃၀.   အဲဗာတန်  နှင့်  ခရစ္စတယ်ပဲလေ့
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၂.နာရီ.   မန်စီးတီး  နှင့်  ဘရန့်ဖို့
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_1.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၂.၃၀.   အဲဗာတန်  နှင့်  ခရစ္စတယ်ပဲလေ့
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၂.နာရီ.   မန်စီးတီး  နှင့်  ဘရန့်ဖို့
 #EXTVLCOPT:
-https://ynzbpull2.nbxhth.cn/live/84298738503855428539.m3u8
+https://ctrl.laotv.la/live/TSport2/index.m3u8
 
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၂.နာရီ.   မန်စီးတီး  နှင့်  ဘရန့်ဖို့
+#EXTVLCOPT:
+https://ctrl.laotv.la/live/TSport2/index.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၂.၃၀.   အင်တာမီလန်  နှင့်  အက်သလက်တီကို
+#EXTVLCOPT:
+https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၂.၃၀.   အင်တာမီလန်  နှင့်  အက်သလက်တီကို
+#EXTVLCOPT:
+https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၂.၃၀.   အင်တာမီလန်  နှင့်  အက်သလက်တီကို
+#EXTVLCOPT:
+https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၂.၃၀.   ပီအက်စ်ပွီ  နှင့်  ဒေါ့မွန်
+#EXTVLCOPT:
+https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၂.၃၀.   ပီအက်စ်ပွီ  နှင့်  ဒေါ့မွန်
+#EXTVLCOPT:
+https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၂.၃၀.   ပီအက်စ်ပွီ  နှင့်  ဒေါ့မွန်
+#EXTVLCOPT:
+https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
 
 
 
