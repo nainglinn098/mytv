@@ -124,7 +124,7 @@ https://ctrl.laotv.la/live/TrueSport3/index.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ညနေ.၃.၃၀.   အာရှချန်ပီယံလိဒ်
 #EXTVLCOPT:
-https://hls.streambtw.com/live/stream_3.m3u8
+https://ynzbpull2.nbxhth.cn/live/84468451353045019584.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ညနေ.၅.၃၀.   အာရှချန်ပီယံလိဒ်
 #EXTVLCOPT:
@@ -132,15 +132,19 @@ https://ctrl.laotv.la/live/TrueSport2/index.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ညနေ.၅.၃၀.   အာရှချန်ပီယံလိဒ်
 #EXTVLCOPT:
-https://ynzbpull2.nbxhth.cn/live/84394805558112414443.m3u8
+https://ynzbpull2.nbxhth.cn/live/84468559264575342609.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၁၀.၃၀.   အာရှချန်ပီယံလိဒ်
 #EXTVLCOPT:
-https://ctrl.laotv.la/live/TrueSport1/index.m3u8
+https://ynzbpull2.nbxhth.cn/live/84468688053580603743.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၁၀.၃၀.   အာရှချန်ပီယံလိဒ်
 #EXTVLCOPT:
-https://hls.streambtw.com/live/stream_e10.m3u8
+https://ynzbpull2.nbxhth.cn/live/84468688053580603743.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၁၂.၁၅.   ဂျန့်  နှင့်  မက္ကာဘီဟိုင်ဖာ
+#EXTVLCOPT:
+https://ynzbpull2.nbxhth.cn/live/84468755033598357612.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၁၂.၃၀.   အာရှချန်ပီယံလိဒ်
 #EXTVLCOPT:
@@ -148,11 +152,11 @@ https://ctrl.laotv.la/live/TrueSport2/index.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၁၂.၃၀.   အာရှချန်ပီယံလိဒ်
 #EXTVLCOPT:
-https://ctrl.laotv.la/live/TrueSport2/index.m3u8
+https://ynzbpull2.nbxhth.cn/live/84468789402192701666.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၂.နာရီ.   လီဗာပူးလ်  နှင့်  လူတန်တောင်း
 #EXTVLCOPT:
-https://ynzbpull2.nbxhth.cn/live/84394934201942829933.m3u8
+https://ctrl.laotv.la/live/TSport1/index.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၂.နာရီ.   လီဗာပူးလ်  နှင့်  လူတန်တောင်း
 #EXTVLCOPT:
@@ -160,7 +164,7 @@ https://hls.streambtw.com/live/stream_1.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၂.နာရီ.   လီဗာပူးလ်  နှင့်  လူတန်တောင်း
 #EXTVLCOPT:
-https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
+https://ctrl.laotv.la/live/TSport2/index.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၂.နာရီ.   လီဗာပူးလ်  နှင့်  လူတန်တောင်း
 #EXTVLCOPT:
