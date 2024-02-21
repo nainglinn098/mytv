@@ -146,6 +146,10 @@ https://ynzbpull2.nbxhth.cn/live/84468688053580603743.m3u8
 #EXTVLCOPT:
 https://ynzbpull2.nbxhth.cn/live/84468755033598357612.m3u8
 
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၁၂.၁၅.   ဂျန့်  နှင့်  မက္ကာဘီဟိုင်ဖာ
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_5.m3u8
+
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၁၂.၃၀.   အာရှချန်ပီယံလိဒ်
 #EXTVLCOPT:
 https://ctrl.laotv.la/live/TrueSport2/index.m3u8
@@ -160,7 +164,7 @@ https://ctrl.laotv.la/live/TSport1/index.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၂.နာရီ.   လီဗာပူးလ်  နှင့်  လူတန်တောင်း
 #EXTVLCOPT:
-https://hls.streambtw.com/live/stream_1.m3u8
+https://hls.streambtw.com/live/stream_3.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၂.နာရီ.   လီဗာပူးလ်  နှင့်  လူတန်တောင်း
 #EXTVLCOPT:
@@ -176,7 +180,7 @@ https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",f.ည.၂.၃၀.   ပေါ်တို  နှင့်  အာဆင်နယ်
 #EXTVLCOPT:
-https://hls.streambtw.com/live/stream_2.m3u8
+https://hls.streambtw.com/live/stream_1.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",f.ည.၂.၃၀.   ပေါ်တို  နှင့်  အာဆင်နယ်
 #EXTVLCOPT:
@@ -198,3 +202,6 @@ https://ynzbpull2.nbxhth.cn/live/84468975160282073565.m3u8
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_2.m3u8
 
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၁၂.၃၀.   အာရှချန်ပီယံလိဒ်
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_6.m3u8
