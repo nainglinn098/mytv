@@ -117,13 +117,15 @@ https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
 #EXTINF:-1 group-title="SPORTS",sony ten 5
 #EXTVLCOPT:Sony Ten 5
 https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
+
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၁၀.၃၀.   အာရှချန်ပီယံလိဒ်
 #EXTVLCOPT:
-https://hls.streambtw.com/live/stream_1.m3u8
+https://ctrl.laotv.la/live/TrueSport2/index.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၁၀.၃၀.   အာရှချန်ပီယံလိဒ်
 #EXTVLCOPT:
 https://ynzbpull2.nbxhth.cn/live/84561757319849140554.m3u8
+
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၁၂.၃၀.   အာရှချန်ပီယံလိဒ်
 #EXTVLCOPT:
@@ -215,8 +217,8 @@ https://hls.streambtw.com/live/stream_6.m3u8
 https://ynzbpull2.nbxhth.cn/live/84562113861648839604.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၂.၃၀.   ဖရန့်ဖတ်  နှင့် ယူနီယံစိန့်
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 
-https://sport.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8|referer=https://oneplayer.online/
+#EXTVLCOPT:
+https://ctrl.laotv.la/live/TSport2/index.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၂.၁၅.   တိုရီနို  နှင့် လာဇီယို
 #EXTVLCOPT:
