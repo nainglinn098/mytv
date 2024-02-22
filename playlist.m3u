@@ -128,7 +128,7 @@ https://ynzbpull2.nbxhth.cn/live/84561757319849140554.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၁၂.၃၀.   အာရှချန်ပီယံလိဒ်
 #EXTVLCOPT:
-https://ctrl.laotv.la/live/TrueSport1/index.m3u8
+https://hls.streambtw.com/live/stream_1.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၁၂.၃၀.   အာရှချန်ပီယံလိဒ်
 #EXTVLCOPT:
@@ -142,6 +142,10 @@ https://ynzbpull2.nbxhth.cn/live/84594171721869610557.m3u8
 #EXTVLCOPT:
 https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
 
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၁၂.၁၅.   ဖရိုင်းဘတ်  နှင့်  လန်းစ်
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_5.m3u8
+
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၁၂.၁၅.   ကာရာဘတ်  နှင့်  ဘရာဂါ
 #EXTVLCOPT:
 https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
@@ -154,13 +158,21 @@ https://ynzbpull2.nbxhth.cn/live/84561819921106028337.m3u8
 #EXTVLCOPT:
 https://ynzbpull2.nbxhth.cn/live/84594135912250927532.m3u8
 
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၁၂.၁၅.   ကာရာဘတ်  နှင့်  ဘရာဂါ
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_6.m3u8
+
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၁၂.၁၅.   ရန်းနက်  နှင့်  အေစီမီလန် 
 #EXTVLCOPT:
 https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
 
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၁၂.၁၅.   ရန်းနက်  နှင့်  အေစီမီလန် 
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_8.m3u8
+
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၁၂.၁၅.   တူးလော့  နှင့်  ဘင်ဖီကာ
 #EXTVLCOPT:
-https://ctrl.laotv.la/live/TSport2/index.m3u8
+https://hls.streambtw.com/live/stream_9.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၁၂.၁၅.   တူးလော့  နှင့်  ဘင်ဖီကာ
 #EXTVLCOPT:
@@ -174,9 +186,13 @@ https://pull.niues.live/live/stream-9912003_lsd.m3u8?auth_key=1708603330-0-0-01c
 #EXTVLCOPT:
 https://pull.niues.live/live/stream-9912028_lsd.m3u8?auth_key=1708601904-0-0-a6a0586ed9bbd1d50a34cd2e36a51a67
 
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၁၂.၁၅.   ဘိုဒိုဂလင့်  နှင့်  အိုင်းယက်စ်
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_2.m3u8
+
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၁၂.၁၅.   ဒီနမိုဇာဂရက်  နှင့်  ရီးလ်ရဲဘက်တစ်
 #EXTVLCOPT:
-https://ynzbpull2.nbxhth.cn/live/84468949204090089936.m3u8
+https://hls.streambtw.com/live/stream_3.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၁၂.၁၅.   ဒီနမိုဇာဂရက်  နှင့်  ရီးလ်ရဲဘက်တစ်
 #EXTVLCOPT:
@@ -190,6 +206,10 @@ https://ynzbpull2.nbxhth.cn/live/84562086676859245245.m3u8
 #EXTVLCOPT:
 https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
 
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၂.၃၀.   မာဆေးလ်  နှင့်  ရှက်တာဒိုးနက်
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_5.m3u8
+
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၂.၃၀.   ရိုမာ  နှင့်  ဖယင်နု
 #EXTVLCOPT:
 https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
@@ -197,6 +217,10 @@ https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၂.၃၀.   ရိုမာ  နှင့်  ဖယင်နု
 #EXTVLCOPT:
 https://ynzbpull2.nbxhth.cn/live/84562057720679261873.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၂.၃၀.   ရိုမာ  နှင့်  ဖယင်နု
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_6.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၂.၃၀.   စပါတာ  နှင့်  ဂါလာတာစာရေး
 #EXTVLCOPT:
@@ -206,9 +230,13 @@ https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
 #EXTVLCOPT:
 https://ynzbpull2.nbxhth.cn/live/84562146673775702901.m3u8
 
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၂.၃၀.   စပါတာ  နှင့်  ဂါလာတာစာရေး
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_8.m3u8
+
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၂.၃၀.   စပို့တင်း  နှင့်  ယန်းဘွိုင်း
 #EXTVLCOPT:
-https://hls.streambtw.com/live/stream_6.m3u8
+https://hls.streambtw.com/live/stream_9.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၂.၃၀.   စပို့တင်း  နှင့်  ယန်းဘွိုင်း
 #EXTVLCOPT:
@@ -218,6 +246,10 @@ https://ynzbpull2.nbxhth.cn/live/84562113861648839604.m3u8
 #EXTVLCOPT:
 https://ctrl.laotv.la/live/TSport2/index.m3u8
 
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၂.၃၀.   ဖရန့်ဖတ်  နှင့် ယူနီယံစိန့်
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_2.m3u8
+
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၂.၁၅.   တိုရီနို  နှင့် လာဇီယို
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_7.m3u8
@@ -225,5 +257,14 @@ https://hls.streambtw.com/live/stream_7.m3u8
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၂.၁၅.   တိုရီနို  နှင့် လာဇီယို
 #EXTVLCOPT:
 https://ynzbpull2.nbxhth.cn/live/84562030520281747464.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၂.၃၀.   လီဂီယာဝါဆော  နှင့် မိုဒီ
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_3.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၂.၁၅.   လူဒူဂိုရက်  နှင့် ဆဗက်တီ
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_4.m3u8
+
 
 
