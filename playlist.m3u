@@ -174,8 +174,13 @@ https://ctrl.laotv.la/live/TSport2/index.m3u8
 #EXTVLCOPT:
 https://ynzbpull2.nbxhth.cn/live/84935809452364505671.m3u8
 
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.၁၅.   ကိုဗင်ထရီ  နှင့်  မိတ်စတုန်း
+#EXTVLCOPT:
+https://ynzbpull2.nbxhth.cn/live/84935777093495042714.m3u8
 
-
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.၁၅.   ကိုဗင်ထရီ  နှင့်  မိတ်စတုန်း
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_2.m3u8
 
 
 
