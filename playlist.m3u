@@ -193,9 +193,11 @@ https://ctrl.laotv.la/live/Bsport1/index.m3u8
 https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",f.ည.၂.၃၀.   လီဗာပူးလ်  နှင့်  ဆောက်သမ်တန်
+#EXTVLCOPT:
 https://ynzbpull2.nbxhth.cn/live/85075347997068213622.m3u8
 
-
+#EXTINF:-1  group-title="test",f.ည.၂.၃၀.   လီဗာပူးလ်  နှင့်  
+https://pull01.rrwes.live/live/stream-462413_lsd.m3u8?txSecret=91800fc182b61a758b25b3d4502195c1&txTime=65df5146
 
 
 
