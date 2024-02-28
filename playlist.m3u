@@ -155,6 +155,10 @@ https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
 #EXTVLCOPT:
 https://pull.niues.live/live/stream-9912048_lsd.m3u8?auth_key=1709074367-0-0-7e6b4b751ee4ad86adf3a43a53536700
 
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၂.၁၅.   နော်တင်ဟမ်ဖောရက်စ်  နှင့်  မန်ယူ
+#EXTVLCOPT:
+https://pull.niues.live/live/stream-9912085_lsd.m3u8?auth_key=1709118332-0-0-39babbf6d4cae5b0751a1a8c513a592c
+
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၂.၁၅.   ဝုလ်ဗာဟန်တမ်  နှင့်  ဘရိုက်တန်
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_2.m3u8
