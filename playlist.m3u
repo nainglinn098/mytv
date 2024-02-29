@@ -118,19 +118,27 @@ https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
 #EXTVLCOPT:Sony Ten 5
 https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၂.၁၅.   အော်ဗာနီ  နှင့်  ရန်းနက်စ်
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၁၁.၃၀.   အယ်နာဆာ  နှင့်  အယ်ဟာဇမ်
+#EXTVLCOPT:
+https://sportsleading.online/live/stream_1.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၁၁.၃၀.   အယ်နာဆာ  နှင့်  အယ်ဟာဇမ်
+#EXTVLCOPT:
+https://ynzbpull2.nbxhth.cn/live/85200494677208063328.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.၁၅.   အော်ဗာနီ  နှင့်  ရန်းနက်စ်
 #EXTVLCOPT:
 https://ynzbpull2.nbxhth.cn/live/85200684851673136791.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၃.နာရီ.   ဘီဘာအို  နှင့်  အက်သလက်တီကို
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၃.နာရီ.   ဘီဘာအို  နှင့်  အက်သလက်တီကို
 #EXTVLCOPT:
 https://sportsleading.online/live/stream_7.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၃.နာရီ.   ဘီဘာအို  နှင့်  အက်သလက်တီကို
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၃.နာရီ.   ဘီဘာအို  နှင့်  အက်သလက်တီကို
 #EXTVLCOPT:
 https://ynzbpull2.nbxhth.cn/live/85201684800223487231.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၃.၁၅.   စပို့တင်းလစ္စဘွန်း  နှင့်  ဘင်ဖီကာ
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၃.၁၅.   စပို့တင်းလစ္စဘွန်း  နှင့်  ဘင်ဖီကာ
 #EXTVLCOPT:
 https://ynzbpull2.nbxhth.cn/live/85200835027372072798.m3u8
 
