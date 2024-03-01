@@ -147,6 +147,10 @@ https://sportsleading.online/live/stream_8.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၂.နာရီ.   ဖရိုင်းဘတ်  နှင့်  ဘိုင်ယန်မြူးနစ် 
 #EXTVLCOPT:
+https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၂.နာရီ.   ဖရိုင်းဘတ်  နှင့်  ဘိုင်ယန်မြူးနစ် 
+#EXTVLCOPT:
 https://ynzbpull2.nbxhth.cn/live/85292952564095040908.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၂.၁၅.   လာဇီယို  နှင့်  အေစီမီလန် 
@@ -157,6 +161,10 @@ https://sportsleading.online/live/stream_7.m3u8
 #EXTVLCOPT:
 https://ynzbpull2.nbxhth.cn/live/85292991445508156890.m3u8
 
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၂.၁၅.   လာဇီယို  နှင့်  အေစီမီလန် 
+#EXTVLCOPT:
+https://ctrl.laotv.la/live/Bsport1/index.m3u8
+
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၂.၃၀.   ဆယ်တာဗီဂို  နှင့်  အယ်မာရီးယား
 #EXTVLCOPT:
 https://sportsleading.online/live/stream_6.m3u8
@@ -165,6 +173,10 @@ https://sportsleading.online/live/stream_6.m3u8
 #EXTVLCOPT:
 https://ynzbpull2.nbxhth.cn/live/85293024692346469175.m3u8
 
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၂.၃၀.   ဆယ်တာဗီဂို  နှင့်  အယ်မာရီးယား
+#EXTVLCOPT:
+http://bananatv.org:25461/play/F_cCfu-TJq91VVDewuxSUx4TiD8SJ8mk4ERzdq3fTrM/ts
+
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၂.၃၀.   မိုနာကို  နှင့်  ပီအက်စ်ဂျီ
 #EXTVLCOPT:
 https://sportsleading.online/live/stream_8.m3u8
@@ -172,6 +184,10 @@ https://sportsleading.online/live/stream_8.m3u8
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၂.၃၀.   မိုနာကို  နှင့်  ပီအက်စ်ဂျီ
 #EXTVLCOPT:
 https://ynzbpull2.nbxhth.cn/live/85293068422296910691.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၂.၃၀.   မိုနာကို  နှင့်  ပီအက်စ်ဂျီ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 
+https://sport.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8|referer=https://oneplayer.online/ 
 
 #EXTINF:-1  group-title="ONE LIVE",LIVE.   
 #EXTVLCOPT:
