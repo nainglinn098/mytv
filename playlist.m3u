@@ -126,14 +126,44 @@ https://ynzbpull2.nbxhth.cn/live/85247438946025417883.m3u8
 #EXTVLCOPT:
 https://pull.niues.live/live/stream-499765_lsd.m3u8?auth_key=1709273117-0-0-d85f67ba6a9f6a8f31ab4d70f0a9dc93
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၁၁.၃၀.   ဆော်ဒီလိဒ် 
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၁၁.၃၀.   ဆော်ဒီလိဒ် 
 #EXTVLCOPT:
 https://pull.niues.live/live/stream-499765_lsd.m3u8?auth_key=1709273117-0-0-d85f67ba6a9f6a8f31ab4d70f0a9dc93
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၁၁.၃၀.   ဆော်ဒီလိဒ် 
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၁၁.၃၀.   ဆော်ဒီလိဒ် 
 https://pull.niues.live/live/stream-9912086_lsd.m3u8?auth_key=1709237418-0-0-18eab27b3b661d38f78613380acef3da
 
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၂.နာရီ.   ဖရိုင်းဘတ်  နှင့်  ဘိုင်ယန်မြူးနစ် 
+#EXTVLCOPT:
+https://sportsleading.online/live/stream_8.m3u8
 
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၂.နာရီ.   ဖရိုင်းဘတ်  နှင့်  ဘိုင်ယန်မြူးနစ် 
+#EXTVLCOPT:
+https://sportsleading.online/live/stream_8.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၂.၁၅.   လာဇီယို  နှင့်  အေစီမီလန် 
+#EXTVLCOPT:
+https://sportsleading.online/live/stream_7.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၂.၁၅.   လာဇီယို  နှင့်  အေစီမီလန် 
+#EXTVLCOPT:
+https://sportsleading.online/live/stream_7.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၂.၃၀.   ဆယ်တာဗီဂို  နှင့်  အယ်မာရီးယား
+#EXTVLCOPT:
+https://sportsleading.online/live/stream_6.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၂.၃၀.   ဆယ်တာဗီဂို  နှင့်  အယ်မာရီးယား
+#EXTVLCOPT:
+https://sportsleading.online/live/stream_6.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၂.၃၀.   မိုနာကို  နှင့်  ပီအက်စ်ဂျီ
+#EXTVLCOPT:
+https://sportsleading.online/live/stream_8.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၂.၃၀.   မိုနာကို  နှင့်  ပီအက်စ်ဂျီ
+#EXTVLCOPT:
+https://sportsleading.online/live/stream_8.m3u8
 
 
 
