@@ -122,13 +122,15 @@ https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
 #EXTVLCOPT:
 https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
 
-#EXTINF:-1  group-title="UFC LIVE",a. Live 2
+#EXTINF:-1  group-title="UFC LIVE",b. Live 2
 #EXTVLCOPT:
 https://ctrl.laotv.la/live/TrueSport3/index.m3u8
 
-#EXTINF:-1  group-title="UFC LIVE",a. Live 3
+#EXTINF:-1  group-title="UFC LIVE",c. Live 3
 #EXTVLCOPT:
 http://bananatv.org:25461/play/F_cCfu-TJq91VVDewuxSUx4TiD8SJ8mk4ERzdq3fTrM/ts
 
-
+#EXTINF:-1  group-title="UFC LIVE",d. Live 4
+#EXTVLCOPT:
+https://live.mocdn.tv:443/out/v1/664dce1a02dd4cd7a748d6eb9b719425/manifest_L1.mpd
 
