@@ -389,3 +389,7 @@ https://pull.niues.live/live/stream-9912007_lsd.m3u8?auth_key=1709374354-0-0-1b7
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",k.မနက်.၄.နာရီ.   အင်တာမီယာမီ  နှင့်  အော်လန်ဒိုစီးတီး
 #EXTVLCOPT:
 https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1709375670-0-0-ccd8d8ec4de2faaf02d9a8ce559cd119
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၆.၃၀.   မန်စီးတီးအမျိုးသမီး  နှင့်  အဲဗာတန်အမျိုးသမီး
+#EXTVLCOPT:
+https://play.aomeila.cn/live/sd-x7lm7phzkgz8m2w.m3u8
