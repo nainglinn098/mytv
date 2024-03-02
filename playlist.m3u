@@ -393,3 +393,7 @@ https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1709375670-0-0-ccd8
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၆.၃၀.   မန်စီးတီးအမျိုးသမီး  နှင့်  အဲဗာတန်အမျိုးသမီး
 #EXTVLCOPT:
 https://play.aomeila.cn/live/sd-x7lm7phzkgz8m2w.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၆.၃၀.   မန်စီးတီးအမျိုးသမီး  နှင့်  အဲဗာတန်အမျိုးသမီး
+#EXTVLCOPT:
+http://bananatv.org:25461/play/F_cCfu-TJq91VVDewuxSU-FPX8r4b1nOWdFlriCZyog/ts
