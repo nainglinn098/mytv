@@ -118,4 +118,46 @@ https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
 #EXTVLCOPT:Sony Ten 5
 https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
 
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၁၀.၃၀.   အဲလ်အိန်း  နှင့်  အယ်လ်နာဆာ
+#EXTVLCOPT:
+https://ctrl.laotv.la/live/TrueSport2/index.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၁၀.၃၀.   အဲလ်အိန်း  နှင့်  အယ်လ်နာဆာ
+#EXTVLCOPT:
+https://ynzbpull2.nbxhth.cn/live/85534218769076192239.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.၁၅.   အင်တာမီလန်  နှင့်  ဂျီနိုအာ 
+#EXTVLCOPT:
+https://ctrl.laotv.la/live/Bsport1/index.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.၁၅.   အင်တာမီလန်  နှင့်  ဂျီနိုအာ 
+#EXTVLCOPT:
+https://ynzbpull2.nbxhth.cn/live/85535215661430753514.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၂.၃၀.   အိုဆာဆူနာ  နှင့်  ဒီပို့တီဗို
+#EXTVLCOPT:
+https://sportsleading.online/live/stream_6.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၂.၃၀.   အိုဆာဆူနာ  နှင့်  ဒီပို့တီဗို
+#EXTVLCOPT:
+https://ynzbpull2.nbxhth.cn/live/85535296688727636588.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၂.၃၀.   ရှက်ဖီး  နှင့်  အာဆင်နယ် 
+#EXTVLCOPT:
+https://ctrl.laotv.la/live/TSport1/index.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၂.၃၀.   ရှက်ဖီး  နှင့်  အာဆင်နယ် 
+#EXTVLCOPT:
+https://ctrl.laotv.la/live/TSport2/index.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၂.၃၀.   ရှက်ဖီး  နှင့်  အာဆင်နယ် 
+#EXTVLCOPT:
+https://ynzbpull2.nbxhth.cn/live/85535260261245561524.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၂.၃၀.   ရှက်ဖီး  နှင့်  အာဆင်နယ် 
+#EXTVLCOPT:
+https://sportsleading.online/live/stream_1.m3u8
+
+
+
 
