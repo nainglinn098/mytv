@@ -126,35 +126,39 @@ https://ctrl.laotv.la/live/TrueSport2/index.m3u8
 #EXTVLCOPT:
 https://ynzbpull2.nbxhth.cn/live/85607060529359706954.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၁၂.၃၀.   အာရှချန်ပီယံလိဒ်
-#EXTVLCOPT:
-https://ctrl.laotv.la/live/TrueSport2/index.m3u8
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.၃၀.   မန်စီးတီး  နှင့်  ကိုပင်ဟေဂင်
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 
+https://sport.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8|referer=https://oneplayer.online/ 
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၁၂.၃၀.   အာရှချန်ပီယံလိဒ်
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.၃၀.   မန်စီးတီး  နှင့်  ကိုပင်ဟေဂင်
 #EXTVLCOPT:
-https://ynzbpull2.nbxhth.cn/live/85607289152736168962.m3u8
+https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၂.၃၀.   ဆိုစီဒက်  နှင့်  ပီအက်စ်ဂျီ
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.၃၀.   မန်စီးတီး  နှင့်  ကိုပင်ဟေဂင်
 #EXTVLCOPT:
 https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၂.၃၀.   ဆိုစီဒက်  နှင့်  ပီအက်စ်ဂျီ
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.၃၀.   မန်စီးတီး  နှင့်  ကိုပင်ဟေဂင်
 #EXTVLCOPT:
 https://sportsleading.online/live/stream_1.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၂.၃၀.   ဆိုစီဒက်  နှင့်  ပီအက်စ်ဂျီ
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.၃၀.   မန်စီးတီး  နှင့်  ကိုပင်ဟေဂင်
 #EXTVLCOPT:
 https://ynzbpull2.nbxhth.cn/live/85607579382633810923.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၂.၃၀.   ဘိုင်ယန်မြူးနစ်  နှင့်  လာဇီယို
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၂.၃၀.   ရီးရဲလ်မက်ဒရစ်  နှင့်  လိုက်ဇစ်
+#EXTVLCOPT:
+https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၂.၃၀.   ရီးရဲလ်မက်ဒရစ်  နှင့်  လိုက်ဇစ်
 #EXTVLCOPT:
 https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၂.၃၀.   ဘိုင်ယန်မြူးနစ်  နှင့်  လာဇီယို
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၂.၃၀.   ရီးရဲလ်မက်ဒရစ်  နှင့်  လိုက်ဇစ်
 #EXTVLCOPT:
 https://sportsleading.online/live/stream_2.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၂.၃၀.   ဘိုင်ယန်မြူးနစ်  နှင့်  လာဇီယို
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၂.၃၀.   ရီးရဲလ်မက်ဒရစ်  နှင့်  လိုက်ဇစ်
 #EXTVLCOPT:
 https://ynzbpull2.nbxhth.cn/live/85607550129152296185.m3u8
 
