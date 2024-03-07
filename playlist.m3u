@@ -150,6 +150,13 @@ https://ynzbpull2.nbxhth.cn/live/85773219818441493506.m3u8
 #EXTVLCOPT:
 https://ynzbpull2.nbxhth.cn/live/85695826116576086689.m3u8
 
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၁၂.၁၅.   အေဂျက်  နှင့်  အက်စတွန်ဗီလာ
+#EXTVLCOPT:
+https://pull.niues.live/live/stream-9912011_lsd.m3u8?auth_key=1709755319-0-0-825d2ddacf0655ad14a9b2e0bfe9cc36
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၁၂.၁၅.   အေဂျက်  နှင့်  အက်စတွန်ဗီလာ
+#EXTVLCOPT:
+https://pull.niues.live/live/stream-9912016_lsd.m3u8?auth_key=1709782099-0-0-a442af510fe16a576626b67a87214ac9
+
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၂.၃၀.   အေစီမီလန်  နှင့်  ဆလားဗီးယား
 #EXTVLCOPT:
 https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
@@ -198,3 +205,18 @@ https://ynzbpull2.nbxhth.cn/live/85773444738873893756.m3u8
 #EXTVLCOPT:
 https://dai.google.com/linear/hls/event/r-
 
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",h.ည.၂.၃၀.   ယူနီယံစိန့်  နှင့်  ဖီနာဘာချီ
+#EXTVLCOPT:
+https://pull.niues.live/live/stream-308080_lsd.m3u8?auth_key=1709814062-0-0-481a8e344d2e3005fd7f7f71aa2cd7c3
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",h.ည.၂.၃၀.   ယူနီယံစိန့်  နှင့်  ဖီနာဘာချီ
+#EXTVLCOPT:
+https://pull.niues.live/live/stream-261808_lsd.m3u8?auth_key=1709764829-0-0-f21446294e682e7fe042fa0ae8ffdc33
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",h.ည.၂.၃၀.   မက္ကာဖီဟိုင်ဖာ  နှင့်  ဖီအိုရင်တီးနား
+#EXTVLCOPT:
+https://pull.niues.live/live/stream-346184_lsd.m3u8?auth_key=1709814242-0-0-9fdd805ae41155fd15f4765321053daf
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",h.ည.၂.၃၀.   မက္ကာဖီဟိုင်ဖာ  နှင့်  ဖီအိုရင်တီးနား
+#EXTVLCOPT:
+https://pull.niues.live/live/stream-9912081_lsd.m3u8?auth_key=1709766891-0-0-2bea5562aae6f9381e017a037cebec32
