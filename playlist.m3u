@@ -118,6 +118,14 @@ https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
 #EXTVLCOPT:Sony Ten 5
 https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8 
 
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၁၁.၃၀.   အယ်လ်နာဆာ  နှင့်  အယ်လ်ရာရိ
+#EXTVLCOPT:
+https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၁၁.၃၀.   အယ်လ်နာဆာ  နှင့်  အယ်လ်ရာရိ
+#EXTVLCOPT:
+https://ynzbpull2.nbxhth.cn/live/85773147172344696683.m3u8
+
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၁၂.၁၅.   ကာရာဘတ်  နှင့်  လီဗာကူဆင်
 #EXTVLCOPT:
 https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
