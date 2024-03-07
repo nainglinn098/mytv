@@ -116,49 +116,37 @@ https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
 
 #EXTINF:-1 group-title="SPORTS",sony ten 5
 #EXTVLCOPT:Sony Ten 5
-https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
+https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8 
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ညနေ.၄.၃၀.   အာရှချန်ပီယံလိဒ်
-#EXTVLCOPT:
-https://ctrl.laotv.la/live/TrueSport2/index.m3u8
-
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ညနေ.၄.၃၀.   အာရှချန်ပီယံလိဒ်
-#EXTVLCOPT:
-https://ynzbpull2.nbxhth.cn/live/85692612098232050662.m3u8
-
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၂.၃၀.   မန်စီးတီး  နှင့်  ကိုပင်ဟေဂင်
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 
-https://sport.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8|referer=https://oneplayer.online/ 
-
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၂.၃၀.   မန်စီးတီး  နှင့်  ကိုပင်ဟေဂင်
-#EXTVLCOPT:
-https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
-
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၂.၃၀.   မန်စီးတီး  နှင့်  ကိုပင်ဟေဂင်
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၁၂.၁၅.   ကာရာဘတ်  နှင့်  လီဗာကူဆင်
 #EXTVLCOPT:
 https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၂.၃၀.   မန်စီးတီး  နှင့်  ကိုပင်ဟေဂင်
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၁၂.၁၅.   ကာရာဘတ်  နှင့်  လီဗာကူဆင်
 #EXTVLCOPT:
-https://sportsleading.online/live/stream_1.m3u8
+https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၂.၃၀.   မန်စီးတီး  နှင့်  ကိုပင်ဟေဂင်
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၁၂.၁၅.   စပါတာပရာဟာ  နှင့်  လီဗာပူး 
+#EXTVLCOPT:
+https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၁၂.၁၅.   စပါတာပရာဟာ  နှင့်  လီဗာပူး 
 #EXTVLCOPT:
 https://ynzbpull2.nbxhth.cn/live/85695858301659018797.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၂.၃၀.   ရီးရဲလ်မက်ဒရစ်  နှင့်  လိုက်ဇစ်
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၁၂.၁၅.   စပါတာပရာဟာ  နှင့်  လီဗာပူး 
 #EXTVLCOPT:
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၂.၃၀.   ရီးရဲလ်မက်ဒရစ်  နှင့်  လိုက်ဇစ်
-#EXTVLCOPT:
-https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၁၂.၁၅.   ရိုးမား  နှင့်  ဘရိုက်တန်
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 
+https://sport.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8|referer=https://oneplayer.online/ 
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၂.၃၀.   ရီးရဲလ်မက်ဒရစ်  နှင့်  လိုက်ဇစ်
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၁၂.၁၅.   ရိုးမား  နှင့်  ဘရိုက်တန်
 #EXTVLCOPT:
 https://sportsleading.online/live/stream_2.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၂.၃၀.   ရီးရဲလ်မက်ဒရစ်  နှင့်  လိုက်ဇစ်
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၁၂.၁၅.   ရိုးမား  နှင့်  ဘရိုက်တန်
 #EXTVLCOPT:
 https://ynzbpull2.nbxhth.cn/live/85695826116576086689.m3u8
 
