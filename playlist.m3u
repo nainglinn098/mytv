@@ -120,13 +120,16 @@ https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.မနက်.၈.၃၀.   နရှဗီးလ် sc နှင် အင်တာမီယာမီ
 #EXTVLCOPT:
-https://v1.thetvapp.to/hls/FoxSports2.m3u8?token=XOldxdaEtzqrQMO1AYFcrA&expires=1709879235
+https://mcdn.mrgamingstreams.com/fs2.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.မနက်.၈.၃၀.   နရှဗီးလ် sc နှင် အင်တာမီယာမီ
 #EXTVLCOPT:
-https://pull06.scstream.net/live/stream-400798_lsd.m3u8?auth_key=1709835828-0-0-d055cf6dbb37687f4f13df6de130e8b1
+https://mcdn.mrgamingstreams.com/tudn.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.မနက်.၈.၃၀.   နရှဗီးလ် sc နှင် အင်တာမီယာမီ
 #EXTVLCOPT:
 https://pull.niues.live/live/stream-278654_lsd.m3u8?auth_key=1709859603-0-0-9d35edad6991381b76fd8c7c1e2e0d51
 
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.မနက်.၈.၃၀.   နရှဗီးလ် sc နှင် အင်တာမီယာမီ
+#EXTVLCOPT:
+https://play2nm.hnyongshun.cn/live/sd-318q66hwnz2gqo9.m3u8
