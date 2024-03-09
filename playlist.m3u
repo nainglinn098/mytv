@@ -330,6 +330,3 @@ https://gpo.zcast720.com:8034/view/hls/kYkAwB37nbMHka-KLwVKxw/1709993661/skysfot
 #EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://cat.zcast720.com:8034/view/hls/Ouhu7keaY7Qx6vId2BFFcw/1709994436/superlaliga.m3u8?|referer=https://escast.xyz/
 
-#EXTINF:-1  group-title="TEST",test 3
-#EXTVLCOPT:
-https://cat.zcast720.com:8034/view/hls/Ouhu7keaY7Qx6vId2BFFcw/1709994436/superlaliga.m3u8
