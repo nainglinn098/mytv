@@ -147,9 +147,9 @@ https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@trauSD/playlist.m3u8
 https://ynzbpull2.nbxhth.cn/live/85938687074981269988.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၇.၃၀.   ဗလင်စီယာ နှင့် ဂီတာဖေး
-#EXTVLCOPT:
-https://sportsleading.online/live/stream_6.m3u8
-
+#EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://sportsleading.online/live/stream_6.m3u8?|referer=https://streambtw.com/
+ 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၇.၃၀.   ဗလင်စီယာ နှင့် ဂီတာဖေး
 #EXTVLCOPT:
 https://ynzbpull2.nbxhth.cn/live/85938730075821706953.m3u8
