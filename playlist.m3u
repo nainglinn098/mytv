@@ -330,6 +330,4 @@ https://bbm.zcast720.com:8034/view/hls/9rcOLpqA46PTZLlkfzIbcQ/1709998291/bbtsp2.
 #EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://abo.zcast720.com:8034/view/hls/HtUnlFWRA3-SEdEriEKk-w/1709998183/bbtsp2.m3u8?|referer=https://escast.xyz/
 
-#EXTINF:-1  group-title="Test",a.UFC LIVE 5
-#EXTVLCOPT:
-https://sportsleading.online/live/stream_1.m3u8
+
