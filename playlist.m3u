@@ -324,10 +324,6 @@ https://ynzbpull2.nbxhth.cn/live/85939622626028783813.m3u8
 
 #EXTINF:-1  group-title="UFC LIVE",a.UFC LIVE 4
 #EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://bbm.zcast720.com:8034/view/hls/9rcOLpqA46PTZLlkfzIbcQ/1709998291/bbtsp2.m3u8?|referer=https://escast.xyz/
-
-#EXTINF:-1  group-title="UFC LIVE",a.UFC LIVE 5
-#EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://abo.zcast720.com:8034/view/hls/HtUnlFWRA3-SEdEriEKk-w/1709998183/bbtsp2.m3u8?|referer=https://escast.xyz/
+https://hls.streambtw.com/live/stream_ufc1.m3u8?|referer=https://streambtw.com/
 
 
