@@ -322,7 +322,7 @@ https://sportsleading.online/live/stream_6.m3u8
 #EXTVLCOPT:
 https://ynzbpull2.nbxhth.cn/live/85939622626028783813.m3u8
 
-#EXTINF:-1  group-title="test"test
+#EXTINF:-1  group-title="test",test
 #EXTVLCOPT:
 https://hls.streambtw.com/live/stream_box1.m3u8
 
