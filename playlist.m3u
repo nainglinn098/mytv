@@ -130,7 +130,51 @@ https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1710164883-0-0-6ec
 #EXTVLCOPT:
 https://pull.niues.live/live/stream-9912084_lsd.m3u8?auth_key=1710164883-0-0-a2a842069a74f4ff8a3b44f84b21bd0d
 
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.၁၅.   လာဇီယို နှင့် အူဒီးနိစ်
+#EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://sportsleading.online/live/stream_7.m3u8?|referer=https://streambtw.com/
 
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.၁၅.   လာဇီယို နှင့် အူဒီးနိစ်
+#EXTVLCOPT:
+https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1710165243-0-0-fe1577e9871723a3c7bb50058c234eb7
 
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.၁၅.   လာဇီယို နှင့် အူဒီးနိစ်
+#EXTVLCOPT:
+https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1710165243-0-0-c67be7e588cdf538cf5e2de8258792ef
 
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၂.၃၀.   အယ်မားရီးယား နှင့် ဆီဗီလာ
+#EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://sportsleading.online/live/stream_6.m3u8?|referer=https://streambtw.com/
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၂.၃၀.   အယ်မားရီးယား နှင့် ဆီဗီလာ
+#EXTVLCOPT:
+https://pull.niues.live/live/stream-479849_lsd.m3u8?auth_key=1710115810-0-0-0baedd8023dd31248d38502bf5a78950
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၂.၃၀.   အယ်မားရီးယား နှင့် ဆီဗီလာ
+#EXTVLCOPT:
+https://pull.niues.live/live/stream-400798_lsd.m3u8?auth_key=1710129710-0-0-c966c42bb063c664e31e680630cbd617
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၂.၃၀.   ချဲလ်ဆီး နှင့် နယူးကာဆယ်
+#EXTVLCOPT:
+https://ctrl.laotv.la/live/TSport1/index.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၂.၃၀.   ချဲလ်ဆီး နှင့် နယူးကာဆယ်
+#EXTVLCOPT:
+https://ctrl.laotv.la/live/TSport2/index.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၂.၃၀.   ချဲလ်ဆီး နှင့် နယူးကာဆယ်
+#EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://sportsleading.online/live/stream_1.m3u8?|referer=https://streambtw.com/
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၂.၃၀.   ချဲလ်ဆီး နှင့် နယူးကာဆယ်
+#EXTVLCOPT:
+https://pull.niues.live/live/stream-9912047_lsd.m3u8?auth_key=1710165433-0-0-bb16e792a830703daac7237d27c2048b
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၂.၃၀.   ချဲလ်ဆီး နှင့် နယူးကာဆယ်
+#EXTVLCOPT:
+https://pull.niues.live/live/stream-9912048_lsd.m3u8?auth_key=1710158407-0-0-a87a224ac47e6aeb48690ab384c0e9b8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၂.၃၀.   ချဲလ်ဆီး နှင့် နယူးကာဆယ်
+#EXTVLCOPT:
+https://pull.niues.live/live/stream-9912050_lsd.m3u8?auth_key=1710158951-0-0-5035e016f645e3e38b0a6f76f9dfe21d
 
