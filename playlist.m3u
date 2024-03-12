@@ -150,9 +150,9 @@ https://sportsleading.online/live/stream_2.m3u8?|referer=https://streambtw.com/
 #EXTVLCOPT:
 http://bananatv.org:25461/play/JMwy-SzlAoDhA9DTXAlD3HUTrnE0pDCiXOuVcRz9TUI/ts
 
-#EXTINF:-1  group-title="TEST",test 1
+#EXTINF:-1  group-title="TEST",test 
 #EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://ones.fghyrtbnkn.com/hls/68.m3u8?md5=VaXrHisEFx6QFtvbU7k5Hw&expires=1710263659?|referer=https://fullassia.com/
+https://ones.fghyrtbnkn.com/hls/68.m3u8?md5=VaXrHisEFx6QFtvbU7k5Hw&expires=https://fullassia.com/
 
 
 
