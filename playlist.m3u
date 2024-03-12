@@ -122,7 +122,7 @@ https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
 #EXTVLCOPT:
 https://ctrl.laotv.la/live/TrueSport2/index.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၂.နာရီ.   ဆာဘရက်ကန် နှင့် မိုချင်ဂလာဘတ်
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.နာရီ.   ဆာဘရက်ကန် နှင့် မိုချင်ဂလာဘတ်
 #EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://sportsleading.online/live/stream_3.m3u8?|referer=https://streambtw.com/
 
@@ -135,8 +135,8 @@ https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
 https://sportsleading.online/live/stream_1.m3u8?|referer=https://streambtw.com/
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.၃၀.   အာဆင်နယ် နှင့် ပေါ်တို
-#EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://cat.zcast720.com:8034/view/hls/9N5lKujj2AMsSQqNFqmdzQ/1710252114/bbtsp1.m3u8?|referer=https://escast.xyz/
+#EXTVLCOPT:
+http://bananatv.org:25461/play/JMwy-SzlAoDhA9DTXAlD3Is-LypyXd_VOsaoKi3NYPE/ts
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.၃၀.   ဘာစီလိုနာ နှင့် နာပိုလီ
 #EXTVLCOPT:
@@ -147,6 +147,6 @@ https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
 https://sportsleading.online/live/stream_2.m3u8?|referer=https://streambtw.com/
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.၃၀.   ဘာစီလိုနာ နှင့် နာပိုလီ
-#EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://dan.zcast720.com:8034/view/hls/sOHsInsRHmFxGOjk_ADijA/1710251228/bbtsp2.m3u8?|referer=https://escast.xyz/
+#EXTVLCOPT:
+http://bananatv.org:25461/play/JMwy-SzlAoDhA9DTXAlD3HUTrnE0pDCiXOuVcRz9TUI/ts
 
