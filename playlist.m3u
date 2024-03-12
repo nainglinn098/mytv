@@ -118,17 +118,13 @@ https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
 #EXTVLCOPT:Sony Ten 5
 https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8 
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၁.၃၀.   အယ်လ်နာဆာ နှင့် အဲလ်အိန်း
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၁.၃၀.   အာရှချန်ပီယံလိဒ်
 #EXTVLCOPT:
 https://ctrl.laotv.la/live/TrueSport2/index.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၁.၃၀.   အယ်လ်နာဆာ နှင့် အဲလ်အိန်း
-#EXTVLCOPT:
-https://ynzbpull2.nbxhth.cn/live/86160586782052163333.m3u8
-
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၁.၃၀.   အယ်လ်နာဆာ နှင့် အဲလ်အိန်း
-#EXTVLCOPT:
-https://pull.niues.live/live/stream-9912084_lsd.m3u8?auth_key=1710164883-0-0-a2a842069a74f4ff8a3b44f84b21bd0d
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၂.နာရီ.   ဆာဘရက်ကန် နှင့် မိုချင်ဂလာဘတ်
+#EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://sportsleading.online/live/stream_3.m3u8?|referer=https://streambtw.com/
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.၃၀.   အာဆင်နယ် နှင့် ပေါ်တို
 #EXTVLCOPT:
