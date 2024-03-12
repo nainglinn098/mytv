@@ -138,9 +138,9 @@ https://sportsleading.online/live/stream_7.m3u8?|referer=https://streambtw.com/
 #EXTVLCOPT:
 https://ynzbpull2.nbxhth.cn/live/86160645565579895845.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.၁၅.   လာဇီယို နှင့် အူဒီးနိစ်
-#EXTVLCOPT:
-https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1710165243-0-0-c67be7e588cdf538cf5e2de8258792ef
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.၃၀.   အာဆင်နယ် နှင့် ပေါ်တို
+#EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://gpo.zcast720.com:8034/view/hls/kYkAwB37nbMHka-KLwVKxw/1709993661/skysfott.m3u8?|referer=https://escast.xyz/
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၂.၃၀.   အယ်မားရီးယား နှင့် ဆီဗီလာ
 #EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
