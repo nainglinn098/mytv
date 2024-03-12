@@ -132,7 +132,7 @@ https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.၃၀.   အာဆင်နယ် နှင့် ပေါ်တို
 #EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://sportsleading.online/live/stream_1.m3u8?|referer=https://streambtw.com/
+https://sportslea.online/live/stream_1.m3u8?|referer=https://streambtw.com/
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.၃၀.   အာဆင်နယ် နှင့် ပေါ်တို
 #EXTVLCOPT:
@@ -146,14 +146,17 @@ https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://sportsleading.online/live/stream_2.m3u8?|referer=https://streambtw.com/
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.၃၀.   ဘာစီလိုနာ နှင့် နာပိုလီ
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၂.၃၀.   အက်သလက်တီကို နှင့် အင်တာမီလန်
 #EXTVLCOPT:
-http://bananatv.org:25461/play/JMwy-SzlAoDhA9DTXAlD3HUTrnE0pDCiXOuVcRz9TUI/ts
+https://gg.hls2.xyz/live/IR%20-%20Varzish%20TV/playlist.m3u8
 
-#EXTINF:-1  group-title="TEST",test 1
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၂.၃၀.   အက်သလက်တီကို နှင့် အင်တာမီလန်
 #EXTVLCOPT:
 https://af.ayas.ir/hls2/persiana.m3u8
 
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၂.၃၀.   အက်သလက်တီကို နှင့် အင်တာမီလန်
+#EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://sportsleading.online/live/stream_1.m3u8?|referer=https://streambtw.com/
 
 
 
