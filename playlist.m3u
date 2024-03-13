@@ -124,7 +124,11 @@ https://ctrl.laotv.la/live/TrueSport2/index.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ညနေ.၄.၃၀.   ယိုကိုဟားမား နှင့် ရှန်ဒေါင်းတိုင်ရှန်
 #EXTVLCOPT:
-https://ctrl.laotv.la/live/TrueSport2/index.m3u8
+https://play2nm.hnyongshun.cn/live/sd-pxwrxlh520jgryk.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ညနေ.၄.၃၀.   ယိုကိုဟားမား နှင့် ရှန်ဒေါင်းတိုင်ရှန်
+#EXTVLCOPT:
+https://pull.niues.live/live/stream-9912050_lsd.m3u8?auth_key=1710284923-0-0-f114565c06922ea9c523c198f3f04888
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.နာရီ.   ဘုန်းမောက် နှင့် လူတန်တောင်း
 #EXTVLCOPT:
