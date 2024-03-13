@@ -118,33 +118,41 @@ https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
 #EXTVLCOPT:Sony Ten 5
 https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8 
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၁.၃၀.   အာရှချန်ပီယံလိဒ်
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ညနေ.၄.၃၀.   ယိုကိုဟားမား နှင့် ရှန်ဒေါင်းတိုင်ရှန်
 #EXTVLCOPT:
 https://ctrl.laotv.la/live/TrueSport2/index.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.နာရီ.   ဆာဘရက်ကန် နှင့် မိုချင်ဂလာဘတ်
-#EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://sportsleading.online/live/stream_3.m3u8?|referer=https://streambtw.com/
-
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.၃၀.   အာဆင်နယ် နှင့် ပေါ်တို
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ညနေ.၄.၃၀.   ယိုကိုဟားမား နှင့် ရှန်ဒေါင်းတိုင်ရှန်
 #EXTVLCOPT:
-https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
+https://ctrl.laotv.la/live/TrueSport2/index.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.၃၀.   အာဆင်နယ် နှင့် ပေါ်တို
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.နာရီ.   ဘုန်းမောက် နှင့် လူတန်တောင်း
+#EXTVLCOPT:
+https://ctrl.laotv.la/live/TSport1/index.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.နာရီ.   ဘုန်းမောက် နှင့် လူတန်တောင်း
+#EXTVLCOPT:
+https://ctrl.laotv.la/live/TSport2/index.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.နာရီ.   ဘုန်းမောက် နှင့် လူတန်တောင်း
 #EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://sportslea.online/live/stream_1.m3u8?|referer=https://streambtw.com/
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.၃၀.   အာဆင်နယ် နှင့် ပေါ်တို
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.နာရီ.   ဘုန်းမောက် နှင့် လူတန်တောင်း
 #EXTVLCOPT:
 http://bananatv.org:25461/play/JMwy-SzlAoDhA9DTXAlD3Is-LypyXd_VOsaoKi3NYPE/ts
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.၃၀.   ဘာစီလိုနာ နှင့် နာပိုလီ
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၂.၃၀.   ဒေါ့မွန် နှင့် ပီအက်စ်ပွီ
 #EXTVLCOPT:
 https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.၃၀.   ဘာစီလိုနာ နှင့် နာပိုလီ
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၂.၃၀.   ဒေါ့မွန် နှင့် ပီအက်စ်ပွီ
 #EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://sportsleading.online/live/stream_2.m3u8?|referer=https://streambtw.com/
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၂.၃၀.   ဒေါ့မွန် နှင့် ပီအက်စ်ပွီ
+#EXTVLCOPT:
+https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၂.၃၀.   အက်သလက်တီကို နှင့် အင်တာမီလန်
 #EXTVLCOPT:
