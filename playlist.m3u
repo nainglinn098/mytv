@@ -130,6 +130,10 @@ https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
 #EXTVLCOPT:
 https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
 
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၁၂.၁၅.   ဝက်စ်ဟမ်း နှင့် ဖရိုင်းဘတ်
+#EXTVLCOPT:
+https://pull.niues.live/live/stream-9912050_lsd.m3u8?auth_key=1710386176-0-0-297193e836541b14fdbe2748ed8a4415
+
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.၃၀.   လီဗာကူဆင် နှင့် ကွာရာဘတ်
 #EXTVLCOPT:
 https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
