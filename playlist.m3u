@@ -132,6 +132,10 @@ https://pull.niues.live/live/stream-9912050_lsd.m3u8?auth_key=1710377043-0-0-d1c
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.မနက်.၆.၄၅.   အင်တာမိုင်ယာမီ နှင့် နရှဗီးလ်လီ sc
 #EXTVLCOPT:
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1710396504/ei/-D_yZYWHG6Lf4-EP_7ye8AE/ip/210.14.102.209/id/LK6p9zoeWh8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/gcr/mm/siu/1/spc/UWF9fx4Es1q8xoIrGsnEj3DFMDo8Fv2EXC8-_T2cL-1qU8ZW4nqU4nHgvwA9Epo/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cgcr%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgFZ5DA5e0Gtwsb-J3s1ktU9kUvccA7aWUxbQQVxWqk-wCIQDral8eF92qSXhFESzuVJ1KrQdtjMHxZ9wh7-4cCwX5qA%3D%3D/file/index.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.မနက်.၆.၄၅.   အင်တာမိုင်ယာမီ နှင့် နရှဗီးလ်လီ sc
+#EXTVLCOPT:
 https://pull.niues.live/live/stream-9912048_lsd.m3u8?auth_key=1710373597-0-0-9160c6b3afe32e3aca304aa1c2bdb021
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.မနက်.၆.၄၅.   အင်တာမိုင်ယာမီ နှင့် နရှဗီးလ်လီ sc
