@@ -178,6 +178,10 @@ https://ynzbpull2.nbxhth.cn/live/86398277368953140251.m3u8
 #EXTVLCOPT:
 https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
 
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.၃၀.   အက်စတွန်ဗီလာ နှင့် အေဂျက်
+#EXTVLCOPT:
+https://pull.niues.live/live/stream-344370_lsd.m3u8?auth_key=1710355548-0-0-4de031266f092c46899b532ae200b993
+
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.၃၀.   အတ္တလန်တာ နှင့် စပို့တင်းcp
 #EXTVLCOPT:
 https://ynzbpull2.nbxhth.cn/live/86398302600576133580.m3u8
