@@ -314,7 +314,13 @@ https://sportsleading.online/live/stream_8.m3u8?|referer=https://streambtw.com/
 #EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://sportsleading.online/live/stream_8.m3u8?|referer=https://streambtw.com/
 
+#EXTINF:-1  group-title="UFC LIVE",UFC LIVE 1
+#EXTVLCOPT:
+https://hls.streambtw.com/live/stream_ufc1.m3u8
 
+#EXTINF:-1  group-title="UFC LIVE",UFC LIVE 1
+#EXTVLCOPT:
+https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
 
 
 
