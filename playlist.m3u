@@ -342,3 +342,16 @@ https://ynzbpull2.nbxhth.cn/live/86562032367601165476.m3u8
 #EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://sportsleading.online/live/stream_5.m3u8?|referer=https://streambtw.com/
 
+#EXTINF:-1  group-title="UFC LIVE",BOXING LIVE 1
+#EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://hls.streambtw.com/live/stream_box1.m3u8?|referer=https://streambtw.com/
+
+#EXTINF:-1  group-title="UFC LIVE",BOXING LIVE 2
+#EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://hls.streambtw.com/live/stream_box2.m3u8?|referer=https://streambtw.com/
+
+
+#EXTINF:-1  group-title="UFC LIVE",BOXING LIVE 3
+#EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://hls.streambtw.com/live/stream_box3.m3u8?|referer=https://streambtw.com/
+
