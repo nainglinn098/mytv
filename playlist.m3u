@@ -124,37 +124,33 @@ https://ctrl.laotv.la/live/Bsport1/index.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၆.၄၅.   ဝုလ်ဗာဟမ်တန် နှင့် ကိုဗင်ထရီ
 #EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://sportsleading.online/live/stream_9.m3u8?|referer=https://streambtw.com/
+https://sportsleading.online/live/stream_1.m3u8?|referer=https://streambtw.com/
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၆.၄၅.   ဝုလ်ဗာဟမ်တန် နှင့် ကိုဗင်ထရီ
 #EXTVLCOPT:
 https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.နာရီ.   ကိုလုံး နှင့် လိုက်ဇစ်
-#EXTVLCOPT:
-https://ynzbpull2.nbxhth.cn/live/86484623080201620285.m3u8
-
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.နာရီ.   ကိုလုံး နှင့် လိုက်ဇစ်
-#EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://sportsleading.online/live/stream_9.m3u8?|referer=https://streambtw.com/
-
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၂.၁၅.   အမ်ပိုလီ နှင့် ဘိုလော့နာ
-#EXTVLCOPT:
-https://ynzbpull2.nbxhth.cn/live/86484646063196372592.m3u8
-
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၂.၁၅.   အမ်ပိုလီ နှင့် ဘိုလော့နာ
-#EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://sportsleading.online/live/stream_7.m3u8?|referer=https://streambtw.com/
-
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၂.၃၀.   ဆိုစီဒက် နှင့် ကာဒစ်
-#EXTVLCOPT:
-https://ynzbpull2.nbxhth.cn/live/86484671895092102494.m3u8 
-
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၂.၃၀.   ဆိုစီဒက် နှင့် ကာဒစ်
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၇.၃၀.   မာယော့ကာ နှင့် ဂရန်နာဒါ
 #EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://sportsleading.online/live/stream_6.m3u8?|referer=https://streambtw.com/
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၂.၃၀.   တူးလော့ နှင့် လိုင်ယွန်
+EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၇.၃၀.   မာယော့ကာ နှင့် ဂရန်နာဒါ
+#EXTVLCOPT:
+https://ynzbpull2.nbxhth.cn/live/86484646063196372592.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၈.၃၀.   မွန်ဇာ နှင့် ကာရလီယာရီ
+#EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://sportsleading.online/live/stream_7.m3u8?|referer=https://streambtw.com/
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၈.၃၀.   မွန်ဇာ နှင့် ကာရလီယာရီ
+#EXTVLCOPT:
+https://ynzbpull2.nbxhth.cn/live/86484671895092102494.m3u8 
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၈.၃၀.   အူဒီးနိစ် နှင့် တိုရီနို
+#EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://sportsleading.online/live/stream_7.m3u8?|referer=https://streambtw.com/
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၈.၃၀.   အူဒီးနိစ် နှင့် တိုရီနို
 #EXTVLCOPT:
 https://ynzbpull2.nbxhth.cn/live/86484705917805815496.m3u8
 
