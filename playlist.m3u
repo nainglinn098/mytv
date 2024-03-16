@@ -130,6 +130,10 @@ https://sportsleading.online/live/stream_4.m3u8?|referer=https://streambtw.com/
 #EXTVLCOPT:
 https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=43bc8326bbcc660082870c7d236f6c03&txTime=65f5e0b8
 
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၆.၄၅.   ဝုလ်ဗာဟမ်တန် နှင့် ကိုဗင်ထရီ
+#EXTVLCOPT:
+https://ynzbpull2.nbxhth.cn/live/86560888685114133594.m3u8
+
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၇.၃၀.   မာယော့ကာ နှင့် ဂရန်နာဒါ
 #EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://sportsleading.online/live/stream_6.m3u8?|referer=https://streambtw.com/
