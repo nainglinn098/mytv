@@ -170,15 +170,19 @@ https://ctrl.laotv.la/live/Bsport1/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://hls.streambtw.com/live/stream_11.m3u8?|referer=https://streambtw.com/
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၈.၃၀.   မိန့်ဇ် နှင့် ဘိုချမ်
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၈.၃၀.   ဝက်စ်ဟမ်း နှင့် အက်စတွန်ဗီလာ
 #EXTVLCOPT:
-https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1710534962-0-0-48475d8636de51833392e4fc39af2210
+https://ctrl.laotv.la/live/TSport1/index.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၉.နာရီ.   ယူနီယံဘာလင် နှင့် ဝါဒါဘရီမင်
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၈.၃၀.   ဝက်စ်ဟမ်း နှင့် အက်စတွန်ဗီလာ
+#EXTVLCOPT:
+https://ctrl.laotv.la/live/TSport2/index.m3u8
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၈.၃၀.   ဝက်စ်ဟမ်း နှင့် အက်စတွန်ဗီလာ
 #EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://sportsleading.online/live/stream_9.m3u8?|referer=https://streambtw.com/
+https://sportsleading.online/live/stream_2.m3u8?|referer=https://streambtw.com/
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၉.နာရီ.   ယူနီယံဘာလင် နှင့် ဝါဒါဘရီမင်
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၈.၃၀.   ဝက်စ်ဟမ်း နှင့် အက်စတွန်ဗီလာ
 #EXTVLCOPT:
 https://pull.niues.live/live/stream-9912020_lsd.m3u8?auth_key=1710574204-0-0-289393de91bd2205bef65e95d7c3f26f
 
