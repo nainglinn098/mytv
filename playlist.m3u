@@ -128,7 +128,11 @@ https://sportsleading.online/live/stream_7.m3u8?|referer=https://streambtw.com/
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၆.နာရီ.   ဂျူဗင်တပ်စ် နှင့် ဂျီနိုအာ
 #EXTVLCOPT:
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=43bc8326bbcc660082870c7d236f6c03&txTime=65f5e0b8
+https://pull.niues.live/live/stream-9912050_lhd.m3u8?auth_key=1710652324-0-0-75b523e903a8711ba7ce8ad346582174
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၆.နာရီ.   ဂျူဗင်တပ်စ် နှင့် ဂျီနိုအာ
+#EXTVLCOPT:
+https://pull.niues.live/live/stream-9912050_lsd.m3u8?auth_key=1710652324-0-0-0f83bdf23f22f3031d17ca1d918d6c3e
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၆.၃၀.   ဘရက်စ် နှင့် လိုင်လီ
 #EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
