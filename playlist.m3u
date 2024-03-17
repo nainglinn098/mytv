@@ -175,8 +175,12 @@ https://hls.streambtw.com/live/stream_7.m3u8?|referer=https://streambtw.com/
 https://ctrl.laotv.la/live/Bsport1/index.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၈.၃၀.   ဗီရိုနာ နှင့် အေစီမီလန် 
-#EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://hls.streambtw.com/live/stream_11.m3u8?|referer=https://streambtw.com/
+#EXTVLCOPT:
+https://pull.niues.live/live/stream-9912007_lhd.m3u8?auth_key=1710671884-0-0-9ddde3d4bed657dde55042d7dcdde1ed
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၈.၃၀.   ဗီရိုနာ နှင့် အေစီမီလန် 
+#EXTVLCOPT:
+https://pull.niues.live/live/stream-9912007_lsd.m3u8?auth_key=1710671884-0-0-d50aa2bcbcf7f058cf0fe06fcf9a5c4e
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၈.၃၀.   ဝက်စ်ဟမ်း နှင့် အက်စတွန်ဗီလာ
 #EXTVLCOPT:
