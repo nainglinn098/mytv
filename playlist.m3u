@@ -196,7 +196,11 @@ https://sportsleading.online/live/stream_1.m3u8?|referer=https://streambtw.com/
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၈.၃၀.   ဝက်စ်ဟမ်း နှင့် အက်စတွန်ဗီလာ
 #EXTVLCOPT:
-https://pull.niues.live/live/stream-9912020_lsd.m3u8?auth_key=1710574204-0-0-289393de91bd2205bef65e95d7c3f26f
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1710674104-0-0-ea608848ba75aed12d998f2c928ec299
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၈.၃၀.   ဝက်စ်ဟမ်း နှင့် အက်စတွန်ဗီလာ
+#EXTVLCOPT:
+https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1710674104-0-0-c597318fa7f62819f2c9f8a17d24e4a7
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",f.ည.၈.၃၀.   ကလီမန့် နှင့် လီဟာ​ဗေး
 #EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
