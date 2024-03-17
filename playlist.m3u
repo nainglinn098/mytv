@@ -158,19 +158,19 @@ https://hls.streambtw.com/live/stream_7.m3u8?|referer=https://streambtw.com/
 #EXTVLCOPT:
 https://ynzbpull2.nbxhth.cn/live/86561143341388907513.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၉.နာရီ.   ဟီဒမ်ဟိန်း နှင့် မိုချင်ဂလာဘတ်
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၈.၃၀.   ဗီရိုနာ နှင့် အေစီမီလန် 
 #EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://hls.streambtw.com/live/stream_12.m3u8?|referer=https://streambtw.com/
+https://hls.streambtw.com/live/stream_7.m3u8?|referer=https://streambtw.com/
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၉.နာရီ.   ဟီဒမ်ဟိန်း နှင့် မိုချင်ဂလာဘတ်
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၈.၃၀.   ဗီရိုနာ နှင့် အေစီမီလန် 
 #EXTVLCOPT:
-https://pull.niues.live/live/stream-9912043_lsd.m3u8?auth_key=1710574204-0-0-257c38d3ef84cd67a679c6740b0d59e6
+https://ctrl.laotv.la/live/Bsport1/index.m3u8
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၉.နာရီ.   မိန့်ဇ် နှင့် ဘိုချမ်
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၈.၃၀.   ဗီရိုနာ နှင့် အေစီမီလန် 
 #EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://hls.streambtw.com/live/stream_11.m3u8?|referer=https://streambtw.com/
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၉.နာရီ.   မိန့်ဇ် နှင့် ဘိုချမ်
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၈.၃၀.   မိန့်ဇ် နှင့် ဘိုချမ်
 #EXTVLCOPT:
 https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1710534962-0-0-48475d8636de51833392e4fc39af2210
 
