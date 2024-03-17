@@ -252,16 +252,15 @@ https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",i.ည.၁၀.နာရီ.   မန်ယူ နှင့် လီဗာပူးလ် 
 #EXTVLCOPT:
-https://ctrl.laotv.la/live/TSport1/index.m3u8
+https://pull.niues.live/live/stream-9912085_lhd.m3u8?auth_key=1710668584-0-0-1d9de3c2583272a669d7fed55d51f245
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",i.ည.၁၀.နာရီ.   မန်ယူ နှင့် လီဗာပူးလ် 
 #EXTVLCOPT:
-https://ctrl.laotv.la/live/TSport2/index.m3u8
+https://pull.niues.live/live/stream-9912047_lhd.m3u8?auth_key=1710668644-0-0-490d138d65c71ae1e325dddd4fcd96a4
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",i.ည.၁၀.နာရီ.   မန်ယူ နှင့် လီဗာပူးလ် 
 #EXTVLCOPT:
-:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://sportsleading.online/live/stream_2.m3u8?|referer=https://streambtw.com/
+https://pull.niues.live/live/stream-9912047_lsd.m3u8?auth_key=1710668644-0-0-0bee2ef6646153e864efe2b67e82fd2e
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",j.ည.၁၀.၃၅.   ရန်းနက်စ် နှင့် မာဆေးလ်
 #EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
