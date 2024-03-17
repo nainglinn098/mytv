@@ -150,25 +150,13 @@ https://ynzbpull2.nbxhth.cn/live/86561040157909710182.m3u8
 #EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://sportsleading.online/live/stream_7.m3u8?|referer=https://streambtw.com/
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၈.၃၀.   အူဒီးနိစ် နှင့် တိုရီနို
-#EXTVLCOPT:
-https://ynzbpull2.nbxhth.cn/live/86561066374754191926.m3u8
-
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၉.နာရီ.   ဒမ်းစတက် နှင့် ဘိုင်ယန်မြူးနစ် 
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၇.၃၀.   ဆီဗီလာ နှင့် ဆယ်လ်တာဗီဂို
 #EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://hls.streambtw.com/live/stream_13.m3u8?|referer=https://streambtw.com/
+https://hls.streambtw.com/live/stream_7.m3u8?|referer=https://streambtw.com/
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၉.နာရီ.   ဒမ်းစတက် နှင့် ဘိုင်ယန်မြူးနစ် 
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၇.၃၀.   ဆီဗီလာ နှင့် ဆယ်လ်တာဗီဂို
 #EXTVLCOPT:
 https://ynzbpull2.nbxhth.cn/live/86561143341388907513.m3u8
-
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၉.နာရီ.   ဒမ်းစတက် နှင့် ဘိုင်ယန်မြူးနစ် 
-#EXTVLCOPT:
-https://pull.niues.live/live/stream-9912078_lhd.m3u8?auth_key=1710595924-0-0-eb1b49f5cf68438a3d83592fd6151385
-
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၉.နာရီ.   ဒမ်းစတက် နှင့် ဘိုင်ယန်မြူးနစ် 
-#EXTVLCOPT:
-https://pull.niues.live/live/stream-9912050_lhd.m3u8?auth_key=1710595984-0-0-9721b1ed83da0cd1a33f3a1b0f0d7216
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၉.နာရီ.   ဟီဒမ်ဟိန်း နှင့် မိုချင်ဂလာဘတ်
 #EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
