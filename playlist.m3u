@@ -288,7 +288,11 @@ https://sportsleading.online/live/stream_9.m3u8?|referer=https://streambtw.com/
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",k.ည.၁၁.နာရီ.   ဒေါ့မွန် နှင့် ဖရန့်ဖတ်
 #EXTVLCOPT:
-https://ynzbpull2.nbxhth.cn/live/86561406704102603413.m3u8
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1710686404-0-0-5c30fb2867acd4eb8176d5691ebf23af
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",k.ည.၁၁.နာရီ.   ဒေါ့မွန် နှင့် ဖရန့်ဖတ်
+#EXTVLCOPT:
+https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1710686404-0-0-7711effe099d5ac7d1c969648d150b79
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",l.ည.၁၁.၃၀.   အတ္တလန်တာ နှင့် ဖီအိုရင်တီးနား
 #EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
