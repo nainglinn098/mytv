@@ -218,19 +218,19 @@ https://sportsleading.online/live/stream_9.m3u8?|referer=https://streambtw.com/
 #EXTVLCOPT:
 http://bananatv.org:25461/play/F_cCfu-TJq91VVDewuxSUx4TiD8SJ8mk4ERzdq3fTrM/ts
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",f.ည.၉.၄၅.   အိုဆာဆူနာ နှင့် ရီးရဲလ်မက်ဒရစ်
-#EXTVLCOPT:
-https://ynzbpull2.nbxhth.cn/live/86561232622051229461.m3u8
-
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",f.ည.၉.၄၅.   အိုဆာဆူနာ နှင့် ရီးရဲလ်မက်ဒရစ်
-#EXTVLCOPT:
-https://pull.niues.live/live/stream-9912085_lhd.m3u8?auth_key=1710595444-0-0-4ef839ebeb96fff476c61fd42bdf751d
-
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",g.ည.၁၀.၃၀.   နန့်တက် နှင့် စထရာဘိုး
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",h.ည.၉.၄၅.   လက်စ်ပါးမက် နှင့် အယ်မာရီးယား
 #EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://sportsleading.online/live/stream_8.m3u8?|referer=https://streambtw.com/
 
-#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",g.ည.၁၀.၃၀.   နန့်တက် နှင့် စထရာဘိုး
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",h.ည.၉.၄၅.   လက်စ်ပါးမက် နှင့် အယ်မာရီးယား
+#EXTVLCOPT:
+https://pull.niues.live/live/stream-9912085_lhd.m3u8?auth_key=1710595444-0-0-4ef839ebeb96fff476c61fd42bdf751d
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",h.ည.၉.၄၅.   ဗီလာရီးရဲလ် နှင့် ဗလင်စီယာ
+#EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://sportsleading.online/live/stream_6.m3u8?|referer=https://streambtw.com/
+
+#EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",h.ည.၉.၄၅.   ဗီလာရီးရဲလ် နှင့် ဗလင်စီယာ
 #EXTVLCOPT:
 https://pull.niues.live/live/stream-308080_lsd.m3u8?auth_key=1710534648-0-0-9ac1f6579bf94546737f1df4593cfd95
 
