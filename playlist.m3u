@@ -309,11 +309,11 @@ https://ctrl.laotv.la/live/Bsport1/index.m3u8
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",n.ည.၂.၁၅.   အင်တာမီလန် နှင့် နာပိုလီ
 #EXTVLCOPT:
-https://ctrl.laotv.la/live/Bsport1/index.m3u8
+https://pull.niues.live/live/stream-9912084_lhd.m3u8?auth_key=1710656224-0-0-836cc2c12389e0ea1557f4340fc949af
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",n.ည.၂.၁၅.   အင်တာမီလန် နှင့် နာပိုလီ
 #EXTVLCOPT:
-https://ctrl.laotv.la/live/Bsport1/index.m3u8
+https://pull.niues.live/live/stream-9912084_lsd.m3u8?auth_key=1710656224-0-0-06dfdc726cfa1fefedeeb661e2764698
 
 #EXTINF:-1  group-title="ယနေ့ညပွဲစဥ်များ",n.ည.၂.၁၅.   မောင့်ပယ်လီယာ နှင့် ပီအက်စ်ဂျီ
 #EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
