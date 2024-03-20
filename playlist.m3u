@@ -139,8 +139,12 @@ https://pull.niues.live/live/stream-9912080_lhd.m3u8?auth_key=1710898565-0-0-b84
 https://pull.niues.live/live/stream-9912078_lsd.m3u8?auth_key=1710898505-0-0-c9cefec0d13a826578adbc656f1041b6
 
 #EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",b.ညနေ.၄.၅၃. ဂျပန် နှင့် မြောက်ကိုရီးယား
-#EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://sportsleading.online/live/stream_1.m3u8?|referer=https://streambtw.com/
+#EXTVLCOPT:
+https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1710913925-0-0-a7f45fe3ccbec529a9ab47992f4ffa88
+
+#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",b.ညနေ.၄.၅၃. ဂျပန် နှင့် မြောက်ကိုရီးယား
+#EXTVLCOPT:
+https://pull.niues.live/live/stream-427562_lsd.m3u8?auth_key=1710913925-0-0-df23fdbc82e5da4b35a09a755e9ae09e
 
 #EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",c.ညနေ.၅.၃၀. တောင်ကိုရီးယား နှင့် ထိုင်း
 #EXTVLCOPT:
