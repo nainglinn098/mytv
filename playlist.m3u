@@ -155,8 +155,24 @@ https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1710898745-0-0-3db
 https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1710898745-0-0-60986d65243b1e2de03a68684b3afeac
 
 #EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",d.ညနေ.၆.နာရီ. မြန်မာ နှင့် ဆီးရီးယား
-#EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://sportsleading.online/live/stream_3.m3u8?|referer=https://streambtw.com/
+#EXTVLCOPT:
+https://pull.niues.live/live/stream-416420_lhd.m3u8?auth_key=1710914285-0-0-06c919017e8e6a58242199c521bc7c9a
+
+#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",d.ညနေ.၆.နာရီ. မြန်မာ နှင့် ဆီးရီးယား
+#EXTVLCOPT:
+https://pull.niues.live/live/stream-9912016_lhd.m3u8?auth_key=1710914345-0-0-4d465245801f164afa4384d6be0ebc72
+
+#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",d.ညနေ.၆.နာရီ. မြန်မာ နှင့် ဆီးရီးယား
+#EXTVLCOPT:
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1710914165-0-0-ee086b352893d4528d1e1699cf5f5c5f
+
+#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",d.ညနေ.၆.နာရီ. မြန်မာ နှင့် ဆီးရီးယား
+#EXTVLCOPT:
+https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1710914165-0-0-f90681c06b614702bf3a23a23140da94
+
+#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",d.ညနေ.၆.နာရီ. မြန်မာ နှင့် ဆီးရီးယား
+#EXTVLCOPT:
+https://pull.niues.live/live/stream-416420_lsd.m3u8?auth_key=1710914285-0-0-ab273882b1eed7e66cafcfaed83f11e1
 
 #EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၇.နာရီ. စင်ကာပူ နှင့် တရုတ်
 #EXTVLCOPT:
