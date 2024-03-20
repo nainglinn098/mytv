@@ -144,6 +144,10 @@ https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1710913925-0-0-a7f4
 
 #EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",b.ညနေ.၄.၅၃. ဂျပန် နှင့် မြောက်ကိုရီးယား
 #EXTVLCOPT:
+https://pull.niues.live/live/stream-9912084_lhd.m3u8?auth_key=1710953885-0-0-194b19f57c693f51c49281457d3558ad
+
+#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",b.ညနေ.၄.၅၃. ဂျပန် နှင့် မြောက်ကိုရီးယား
+#EXTVLCOPT:
 https://pull.niues.live/live/stream-427562_lsd.m3u8?auth_key=1710913925-0-0-df23fdbc82e5da4b35a09a755e9ae09e
 
 #EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",c.ညနေ.၅.၃၀. တောင်ကိုရီးယား နှင့် ထိုင်း
