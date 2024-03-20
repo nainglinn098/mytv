@@ -135,8 +135,12 @@ https://pull.niues.live/live/stream-9912078_lsd.m3u8?auth_key=1710898505-0-0-c9c
 https://sportsleading.online/live/stream_1.m3u8?|referer=https://streambtw.com/
 
 #EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",c.ညနေ.၅.၃၀. တောင်ကိုရီးယား နှင့် ထိုင်း
-#EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://sportsleading.online/live/stream_2.m3u8?|referer=https://streambtw.com/
+#EXTVLCOPT:
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1710898745-0-0-3dbe21dd09718c523592ecb8c35b01ec
+
+#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",c.ညနေ.၅.၃၀. တောင်ကိုရီးယား နှင့် ထိုင်း
+#EXTVLCOPT:
+https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1710898745-0-0-60986d65243b1e2de03a68684b3afeac
 
 #EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",d.ညနေ.၆.နာရီ. မြန်မာ နှင့် ဆီးရီးယား
 #EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
