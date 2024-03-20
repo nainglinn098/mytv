@@ -167,8 +167,12 @@ https://pull.niues.live/live/stream-9912080_lhd.m3u8?auth_key=1710899045-0-0-723
 https://pull.niues.live/live/stream-9911957_lsd.m3u8?auth_key=1710898925-0-0-20a0edd7a5593b8206e1831fb7828f4c
 
 #EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",f.ည.၈.နာရီ. အင်ဒိုနီးရှား နှင့် ဗီယက်နမ်
-#EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://sportsleading.online/live/stream_5.m3u8?|referer=https://streambtw.com/
+#EXTVLCOPT:
+https://pull.niues.live/live/stream-9912086_lhd.m3u8?auth_key=1710902525-0-0-f4bb16344d0f7e2c558fad63bbdc40af
+
+#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",f.ည.၈.နာရီ. အင်ဒိုနီးရှား နှင့် ဗီယက်နမ်
+#EXTVLCOPT:
+https://pull.niues.live/live/stream-9912086_lsd.m3u8?auth_key=1710902525-0-0-cec9ad62642d9907e637f7b4596e568e
 
 #EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",g.ည.၁၀.၃၀. အီရန် နှင့် တာမင့်နစ္စတန်
 #EXTVLCOPT:
