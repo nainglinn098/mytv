@@ -118,6 +118,14 @@ https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
 #EXTVLCOPT:Sony Ten 5
 https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8 
 
+#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",a.ညနေ.၃.၃၀. ပါကစ္စတန် နှင့် ဂျော်ဒန်
+#EXTVLCOPT:
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1710899945-0-0-49b89c1e59bac2ebe9899a9ae0c5bd75
+
+#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",a.ညနေ.၃.၃၀. ပါကစ္စတန် နှင့် ဂျော်ဒန်
+#EXTVLCOPT:
+https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1710900065-0-0-c428ea95fe2a142b8c7c08abee5206f0
+
 #EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",a.ညနေ.၃.၄၀. သြစတေးလျ နှင့် လက်ဘနွန်
 #EXTVLCOPT:
 https://pull.niues.live/live/stream-9912078_lhd.m3u8?auth_key=1710898505-0-0-40296c71d8a3411095d6e65147d7048b
