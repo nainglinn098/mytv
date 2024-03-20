@@ -119,8 +119,16 @@ https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
 https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8 
 
 #EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",a.ညနေ.၃.၄၀. သြစတေးလျ နှင့် လက်ဘနွန်
-#EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://sportsleading.online/live/stream_1.m3u8?|referer=https://streambtw.com/
+#EXTVLCOPT:
+https://pull.niues.live/live/stream-9912078_lhd.m3u8?auth_key=1710898505-0-0-40296c71d8a3411095d6e65147d7048b
+
+#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",a.ညနေ.၃.၄၀. သြစတေးလျ နှင့် လက်ဘနွန်
+#EXTVLCOPT:
+https://pull.niues.live/live/stream-9912080_lhd.m3u8?auth_key=1710898565-0-0-b8436ae1c2a4ee9ec4571742772b136c
+
+#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",a.ညနေ.၃.၄၀. သြစတေးလျ နှင့် လက်ဘနွန်
+#EXTVLCOPT:
+https://pull.niues.live/live/stream-9912078_lsd.m3u8?auth_key=1710898505-0-0-c9cefec0d13a826578adbc656f1041b6
 
 #EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",b.ညနေ.၄.၅၃. ဂျပန် နှင့် မြောက်ကိုရီးယား
 #EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
