@@ -156,6 +156,10 @@ https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1710898745-0-0-3db
 
 #EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",c.ညနေ.၅.၃၀. တောင်ကိုရီးယား နှင့် ထိုင်း
 #EXTVLCOPT:
+https://pull.niues.live/live/stream-499765_lhd.m3u8?auth_key=1710954005-0-0-76cde68abc852d972062a12dc059f414
+
+#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",c.ညနေ.၅.၃၀. တောင်ကိုရီးယား နှင့် ထိုင်း
+#EXTVLCOPT:
 https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1710898745-0-0-60986d65243b1e2de03a68684b3afeac
 
 #EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",d.ညနေ.၆.နာရီ. မြန်မာ နှင့် ဆီးရီးယား
@@ -196,7 +200,11 @@ https://pull.niues.live/live/stream-9912086_lhd.m3u8?auth_key=1710902525-0-0-f4b
 
 #EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",f.ည.၈.နာရီ. အင်ဒိုနီးရှား နှင့် ဗီယက်နမ်
 #EXTVLCOPT:
-https://pull.niues.live/live/stream-9912086_lsd.m3u8?auth_key=1710902525-0-0-cec9ad62642d9907e637f7b4596e568e
+https://pull.niues.live/live/stream-499765_lhd.m3u8?auth_key=1710954125-0-0-7a239a9ce1e6049a6cf478c31b777c03
+
+#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",f.ည.၈.နာရီ. အင်ဒိုနီးရှား နှင့် ဗီယက်နမ်
+#EXTVLCOPT:
+https://pull.niues.live/live/stream-499765_lsd.m3u8?auth_key=1710954185-0-0-85ffb6d078dbdf1662b3c86fb9a575be
 
 #EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",g.ည.၁၀.၃၀. အီရန် နှင့် တာမင့်နစ္စတန်
 #EXTVLCOPT:
