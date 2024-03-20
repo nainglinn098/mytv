@@ -147,8 +147,16 @@ https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1710898745-0-0-609
 https://sportsleading.online/live/stream_3.m3u8?|referer=https://streambtw.com/
 
 #EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၇.နာရီ. စင်ကာပူ နှင့် တရုတ်
-#EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://sportsleading.online/live/stream_4.m3u8?|referer=https://streambtw.com/
+#EXTVLCOPT:
+https://pull.niues.live/live/stream-9911957_lhd.m3u8?auth_key=1710898925-0-0-8bd5920927baafc927d34e805cf77c22
+
+#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၇.နာရီ. စင်ကာပူ နှင့် တရုတ်
+#EXTVLCOPT:
+https://pull.niues.live/live/stream-9912080_lhd.m3u8?auth_key=1710899045-0-0-7233954412a789e1c4f043a7cb46108c
+
+#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၇.နာရီ. စင်ကာပူ နှင့် တရုတ်
+#EXTVLCOPT:
+https://pull.niues.live/live/stream-9911957_lsd.m3u8?auth_key=1710898925-0-0-20a0edd7a5593b8206e1831fb7828f4c
 
 #EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",f.ည.၈.နာရီ. အင်ဒိုနီးရှား နှင့် ဗီယက်နမ်
 #EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
