@@ -330,13 +330,6 @@ https://pull.niues.live/live/stream-9912086_lhd.m3u8?auth_key=1710907685-0-0-7d6
 #EXTVLCOPT:
 https://pull.niues.live/live/stream-9912086_lsd.m3u8?auth_key=1710907685-0-0-75a5815f15db66bde650adc94b8f3083
 
-#EXTINF:-1 group-title="TEST",test 1
-#EXTVLCOPT:
-https://pull.niues.live/live/stream-9912028_lhd.m3u8?auth_key=1710898325-0-0-f105abf13c76ae1f504046536325b94c
-
-#EXTINF:-1 group-title="TEST",test 2
-#EXTVLCOPT:
-https://pull.niues.live/live/stream-9912028_lsd.m3u8?auth_key=1710898325-0-0-8ea30892937bc0b4989aaf507dd0c60a
 
 
 
