@@ -124,6 +124,10 @@ https://pull.niues.live/live/stream-9912007_lhd.m3u8?auth_key=1711056306-0-0-566
 
 #EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၇.၃၀. ဘူဂေးရီးယား နှင့် တန်ဇန်းနီးယား
 #EXTVLCOPT:
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1711114806-0-0-f114da4f7958e8d00e7e6de706588c68
+
+#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၇.၃၀. ဘူဂေးရီးယား နှင့် တန်ဇန်းနီးယား
+#EXTVLCOPT:
 https://pull.niues.live/live/stream-9912007_lsd.m3u8?auth_key=1711056306-0-0-0ef29bf86ca24d3aa89145e9a3c6d551
 
 #EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၉.နာရီ. မက်ဆီဒိုးနီးယား နှင့် မော်ဒိုဗာ
