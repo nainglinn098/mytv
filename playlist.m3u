@@ -188,11 +188,11 @@ https://pull.niur.live/live/stream-9912019_lsd.m3u8?txSecret=06cb0097fb28b062319
 
 #EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",g.ည.၃.၃၀. အယ်ဂျီရီးယား နှင့် ဘိုလီဗီယား
 #EXTVLCOPT:
-https://pull.niues.live/live/stream-465110_lhd.m3u8?auth_key=1711100646-0-0-e9c1f3afe169be4bda48a4555d690d7b
-
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",g.ည.၃.၃၀. အယ်ဂျီရီးယား နှင့် ဘိုလီဗီယား
-#EXTVLCOPT:
 https://pull.niues.live/live/stream-465110_lsd.m3u8?auth_key=1711100646-0-0-d69256ea1bae9254ed79feebee7978ac
+
+#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",h.မနက်.၇.နာရီ. အယ်လ်ဆာဗေးဒိုး နှင့် အာဂျင်တီးနား
+#EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://sportsleading.online/live/stream_1.m3u8?|referer=https://streambtw.com/
 
 #EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",h.မနက်.၇.နာရီ. အယ်လ်ဆာဗေးဒိုး နှင့် အာဂျင်တီးနား
 #EXTVLCOPT:
