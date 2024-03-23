@@ -180,6 +180,10 @@ https://pull.niues.live/live/stream-9912084_lhd.m3u8?auth_key=1711176666-0-0-d6d
 
 #EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၂.၃၀. ပြင်သစ် နှင့် ဂျာမနီ
 #EXTVLCOPT:
+https://pull.niues.live/live/stream-9912047_lhd.m3u8?auth_key=1711198746-0-0-599f56cb3303ff56fbcc6e8da94f5b42
+
+#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၂.၃၀. ပြင်သစ် နှင့် ဂျာမနီ
+#EXTVLCOPT:
 https://pull.niues.live/live/stream-9912084_lsd.m3u8?auth_key=1711176666-0-0-5fa8899d76521565254a37c109090c0b
 
 #EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၂.၃၀. တူနီးရှား နှင့် ခရိုအေးရှား
