@@ -186,9 +186,9 @@ https://pull.niur.live/live/stream-9912035_lhd.m3u8?txSecret=1233bb81dde3a31eb5e
 #EXTVLCOPT:
 https://pull.niur.live/live/stream-9912019_lsd.m3u8?txSecret=06cb0097fb28b062319103a1dcd699b6&txTime=65fdc5fa
 
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",g.ည.၃.၃၀. အယ်ဂျီရီးယား နှင့် ဘိုလီဗီယား
+#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",h.မနက်.၇.နာရီ. အယ်လ်ဆာဗေးဒိုး နှင့် အာဂျင်တီးနား
 #EXTVLCOPT:
-https://pull.niues.live/live/stream-465110_lsd.m3u8?auth_key=1711100646-0-0-d69256ea1bae9254ed79feebee7978ac
+https://pull.tangyuan1688.com/live/sd-x7lm7phz5y1jm2w.m3u8
 
 #EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",h.မနက်.၇.နာရီ. အယ်လ်ဆာဗေးဒိုး နှင့် အာဂျင်တီးနား
 #EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
