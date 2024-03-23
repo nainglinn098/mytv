@@ -118,101 +118,15 @@ https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
 #EXTVLCOPT:Sony Ten 5
 https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8 
 
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၇.၃၀. ဘူဂေးရီးယား နှင့် တန်ဇန်းနီးယား
+#EXTINF:-1 group-title="UFC LIVE",UFC LIVE 1
 #EXTVLCOPT:
-https://pull.niues.live/live/stream-9912007_lhd.m3u8?auth_key=1711056306-0-0-5665dd3dfb4e07180839a64d7bb7bd4b
+https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
 
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၇.၃၀. ဘူဂေးရီးယား နှင့် တန်ဇန်းနီးယား
+#EXTINF:-1 group-title="UFC LIVE",UFC LIVE 2
 #EXTVLCOPT:
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1711114806-0-0-f114da4f7958e8d00e7e6de706588c68
+https://ctrl.laotv.la/live/TrueSport3/index.m3u8
 
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၇.၃၀. ဘူဂေးရီးယား နှင့် တန်ဇန်းနီးယား
-#EXTVLCOPT:
-https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1711114926-0-0-d5f11260319c969f8adc6c755e7dbc27
 
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၉.နာရီ. မက်ဆီဒိုးနီးယား နှင့် မော်ဒိုဗာ
-#EXTVLCOPT:
-https://pull.niues.live/live/stream-9912086_lhd.m3u8?auth_key=1711120446-0-0-81d032627672fed923b406b7b14f999c
-
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၉.နာရီ. မက်ဆီဒိုးနီးယား နှင့် မော်ဒိုဗာ
-#EXTVLCOPT:
-https://pull.niues.live/live/stream-9912086_lsd.m3u8?auth_key=1711120446-0-0-d26702ae743498d98abcb771053361b1
-
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၁၀.၃၀. အာမေးနီးယား နှင့် ကိုဆိုဗို
-#EXTVLCOPT:
-https://pull.niues.live/live/stream-9912085_lhd.m3u8?auth_key=1711068666-0-0-4d13b3026560d9433e8fdcfc072a99b0
-
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၁၀.၃၀. အာမေးနီးယား နှင့် ကိုဆိုဗို
-#EXTVLCOPT:
-https://pull.niues.live/live/stream-9912085_lsd.m3u8?auth_key=1711068666-0-0-b4fe47094a48893c52401bd2158070ed
-
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၁၁.၃၀. နော်ဝေ နှင့် ချက်
-#EXTVLCOPT:
-https://pull.niues.live/live/stream-9912048_lhd.m3u8?auth_key=1711068726-0-0-8e2c84f9c6504f933c1824024fe70729
-
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၁၁.၃၀. နော်ဝေ နှင့် ချက်
-#EXTVLCOPT:
-https://pull.niues.live/live/stream-499765_lhd.m3u8?auth_key=1711068786-0-0-75bdacd7eae1a06bd1486a394a8811e2
-
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၁၁.၃၀. နော်ဝေ နှင့် ချက်
-#EXTVLCOPT:
-https://pull.niues.live/live/stream-9912048_lsd.m3u8?auth_key=1711068726-0-0-0327d6a15d19e8247ad357062a40e06b
-
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၁၁.၃၀. နော်ဝေ နှင့် ချက်
-#EXTVLCOPT:
-https://pull.niues.live/live/stream-499765_lsd.m3u8?auth_key=1711068786-0-0-4dc1805bcccf94f026878acbd0daaa2a
-
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၂.၁၅. နယ်သာလန် နှင့် စကော့တလန်
-#EXTVLCOPT:
-https://pull.niues.live/live/stream-9911957_lhd.m3u8?auth_key=1711060506-0-0-b87b1427e22fe9351ac3a10f618c5c53
-
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၂.၁၅. နယ်သာလန် နှင့် စကော့တလန်
-#EXTVLCOPT:
-https://pull.niues.live/live/stream-434982_lhd.m3u8?auth_key=1711066626-0-0-a68749ab7263c5d779503bda41003bf9
-
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၂.၁၅. နယ်သာလန် နှင့် စကော့တလန်
-#EXTVLCOPT:
-https://pull.niues.live/live/stream-9911957_lsd.m3u8?auth_key=1711060506-0-0-1777e97f2b524e9e63af3ed45d231ce0
-
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",f.ည.၃.နာရီ. စပိန် နှင့် ကိုလံဘီယာ
-#EXTVLCOPT:
-https://pull.niur.live/live/stream-9912019_lhd.m3u8?txSecret=1a17fa426335c1ed256f06241f8444fa&txTime=65fdc5fa
-
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",f.ည.၃.နာရီ. စပိန် နှင့် ကိုလံဘီယာ
-#EXTVLCOPT:
-https://pull.niur.live/live/stream-9912035_lhd.m3u8?txSecret=1233bb81dde3a31eb5eba6b3b68a7938&txTime=65fdc636
-
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",f.ည.၃.နာရီ. စပိန် နှင့် ကိုလံဘီယ
-#EXTVLCOPT:
-https://cdnd.thedonato.live/live/live18_amg1.m3u8
-
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",h.မနက်.၇.နာရီ. အယ်လ်ဆာဗေးဒိုး နှင့် အာဂျင်တီးနား
-#EXTVLCOPT:
-https://pull.tangyuan1688.com/live/sd-x7lm7phz5y1jm2w.m3u8
-
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",h.မနက်.၇.နာရီ. အယ်လ်ဆာဗေးဒိုး နှင့် အာဂျင်တီးနား
-#EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://sportsleading.online/live/stream_1.m3u8?|referer=https://streambtw.com/
-
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",h.မနက်.၇.နာရီ. အယ်လ်ဆာဗေးဒိုး နှင့် အာဂျင်တီးနား
-#EXTVLCOPT:
-https://pull.niues.live/live/stream-9912078_lhd.m3u8?auth_key=1711069206-0-0-319c8bf36c54c7b45e8a4e546d655db3
-
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",h.မနက်.၇.နာရီ. အယ်လ်ဆာဗေးဒိုး နှင့် အာဂျင်တီးနား
-#EXTVLCOPT:
-https://pull.niues.live/live/stream-9912048_lhd.m3u8?auth_key=1711069266-0-0-613fd075c7f98e99f91f83466f9ac121
-
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",h.မနက်.၇.နာရီ. အယ်လ်ဆာဗေးဒိုး နှင့် အာဂျင်တီးနား
-#EXTVLCOPT:
-https://pull.niues.live/live/stream-9912085_lhd.m3u8?auth_key=1711069326-0-0-8c428fed169047b770d56c34732a3b05
-
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",h.မနက်.၇.နာရီ. အယ်လ်ဆာဗေးဒိုး နှင့် အာဂျင်တီးနား
-#EXTVLCOPT:
-https://pull.niues.live/live/stream-9912048_lsd.m3u8?auth_key=1711069266-0-0-22304397a4b005c027c4944f166a54c9
-
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",h.မနက်.၇.နာရီ. အယ်လ်ဆာဗေးဒိုး နှင့် အာဂျင်တီးနား
-#EXTVLCOPT:
-https://pull.niues.live/live/stream-9912078_lsd.m3u8?auth_key=1711069206-0-0-b420fe4d707d20d6528436e04802dedc
 
 
 
