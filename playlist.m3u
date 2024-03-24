@@ -142,39 +142,47 @@ https://pull.juqihuo.com/live/stream-259579_lhd.m3u8?auth_key=1711254074-0-0-2c4
 #EXTVLCOPT:
 https://pull.juqihuo.com/live/stream-259579_lsd.m3u8?auth_key=1711254194-0-0-6759e101a76a7e482f8dd69a9df5b28b
 
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၁၁.နာရီ.အမျိုးသမီးပွဲစဥ်. ဝက်ဟမ်း နှင့် ချဲလ်ဆီး
+#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၈.၃၀.အမျိုးသမီးပွဲစဥ်. ဘရစ္စတိုးလ် နှင့် စပါး
+#EXTVLCOPT:
+https://pull.juqihuo.com/live/stream-4569315_lhd.m3u8?auth_key=1711263074-0-0-42b930034b4b58f7c4a40c7f81800b5c
+
+#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၈.၃၀.အမျိုးသမီးပွဲစဥ်. ဘရစ္စတိုးလ် နှင့် စပါး
+#EXTVLCOPT:
+https://pull.juqihuo.com/live/stream-4569315_lsd.m3u8?auth_key=1711263074-0-0-caa16df5a3a24f2e3649dd57ee1c02e3
+
+#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၁၁.နာရီ.အမျိုးသမီးပွဲစဥ်. ဝက်ဟမ်း နှင့် ချဲလ်ဆီး
 #EXTVLCOPT:
 https://pull.juqihuo.com/live/stream-956896_lhd.m3u8?auth_key=1711258634-0-0-0d4d7a0ee298d3b15081b0deac8e6551
 
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၁၁.နာရီ.အမျိုးသမီးပွဲစဥ်. ဝက်ဟမ်း နှင့် ချဲလ်ဆီး
+#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၁၁.နာရီ.အမျိုးသမီးပွဲစဥ်. ဝက်ဟမ်း နှင့် ချဲလ်ဆီး
 #EXTVLCOPT:
 https://pull.juqihuo.com/live/stream-956896_lsd.m3u8?auth_key=1711258634-0-0-8102bdfda1501117ef9518f39b94b928
 
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၂.၃၀. အီတလီ နှင့် အီကွေဒေါ
+#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၂.၃၀. အီတလီ နှင့် အီကွေဒေါ
 #EXTVLCOPT:
 https://pull.niues.live/live/stream-9912080_lhd.m3u8?auth_key=1711253346-0-0-b1f6e877f71e2fba695dff19a5a6e4e3
 
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၂.၃၀. အီတလီ နှင့် အီကွေဒေါ
+#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၂.၃၀. အီတလီ နှင့် အီကွေဒေါ
 #EXTVLCOPT:
 https://pull.juqihuo.com/live/stream-746673_lhd.m3u8?auth_key=1711253835-0-0-1603a8b815c2c9771fc17515279a67a8
 
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၂.၃၀. အီတလီ နှင့် အီကွေဒေါ
+#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၂.၃၀. အီတလီ နှင့် အီကွေဒေါ
 #EXTVLCOPT:
 https://pull.juqihuo.com/live/stream-746673_lsd.m3u8?auth_key=1711253835-0-0-4dd370d0b497d0d63898bc8c43123f33
 
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၂.၃၀. အီတလီ နှင့် အီကွေဒေါ
+#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၂.၃၀. အီတလီ နှင့် အီကွေဒေါ
 #EXTVLCOPT:
 https://pull.niues.live/live/stream-9912080_lsd.m3u8?auth_key=1711253467-0-0-7e31410a7523bef457b132947feb16e1
 
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",d.မနက်.၇.၄၅. အမေရိကန် နှင့် မက္ကဆီကို
+#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",e.မနက်.၇.၄၅. အမေရိကန် နှင့် မက္ကဆီကို
 #EXTVLCOPT:
 https://pull.niues.live/live/stream-9912086_lhd.m3u8?auth_key=1711253587-0-0-e2ffd60da2408d35686230136a8e4a3a
 
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",d.မနက်.၇.၄၅. အမေရိကန် နှင့် မက္ကဆီကို
+#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",e.မနက်.၇.၄၅. အမေရိကန် နှင့် မက္ကဆီကို
 #EXTVLCOPT:
 https://pull.niues.live/live/stream-9912050_lhd.m3u8?auth_key=1711253646-0-0-f51335b7d9e1af6fa94fe70a979c8a82
 
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",d.မနက်.၇.၄၅. အမေရိကန် နှင့် မက္ကဆီကို
+#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",e.မနက်.၇.၄၅. အမေရိကန် နှင့် မက္ကဆီကို
 #EXTVLCOPT:
 https://pull.niues.live/live/stream-9912086_lsd.m3u8?auth_key=1711253587-0-0-0042878b4db6f6482805e2c12cd25a34
 
