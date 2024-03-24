@@ -158,6 +158,9 @@ https://pull.niues.live/live/stream-9912050_lhd.m3u8?auth_key=1711253646-0-0-f51
 #EXTVLCOPT:
 https://pull.niues.live/live/stream-9912086_lsd.m3u8?auth_key=1711253587-0-0-0042878b4db6f6482805e2c12cd25a34
 
+#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၇.၃၀.အမျိုးသမီးပွဲစဥ်. အဲဗာတန် နှင့် လီဗာပူးလ် 
+#EXTVLCOPT:
+https://pull.juqihuo.com/live/stream-259579_lhd.m3u8?auth_key=1711254074-0-0-2c45c17320836a643fec19f40b9742f5
 
 
 
