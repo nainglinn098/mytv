@@ -130,88 +130,10 @@ https://ctrl.laotv.la/live/TrueSport3/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://hls.streambtw.com/live/stream_ufc1.m3u8|referer=https://streambtw.com/
 
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၁၀.၃၀. အိုင်ဗီကို့ နှင့် ဘီနင်
+#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၂.၃၀. အီတလီ နှင့် အီကွေဒေါ
 #EXTVLCOPT:
-https://pull.niues.live/live/stream-9912081_lhd.m3u8?auth_key=1711176426-0-0-780e5f471112489245972395b2b1cf51
+https://pull.niues.live/live/stream-9912080_lhd.m3u8?auth_key=1711253346-0-0-b1f6e877f71e2fba695dff19a5a6e4e3
 
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၁၀.၃၀. အိုင်ဗီကို့ နှင့် ဘီနင်
+#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၂.၃၀. အီတလီ နှင့် အီကွေဒေါ
 #EXTVLCOPT:
-https://pull.niues.live/live/stream-9912081_lsd.m3u8?auth_key=1711176426-0-0-0d985807da18c626b10c48ea3c31108a
-
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၁၁.၃၀. အိုင်ယာလန် နှင့် ဘယ်လ်ဂျီယံ
-#EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://sportsleading.online/live/stream_1.m3u8?|referer=https://streambtw.com/
-
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၁၁.၃၀. အိုင်ယာလန် နှင့် ဘယ်လ်ဂျီယံ
-#EXTVLCOPT:
-https://pull.niues.live/live/stream-499765_lhd.m3u8?auth_key=1711179546-0-0-c3c79209256b1528e4e437b48a8b1f5b
-
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၁၁.၃၀. အိုင်ယာလန် နှင့် ဘယ်လ်ဂျီယံ
-#EXTVLCOPT:
-https://pull.niues.live/live/stream-9912084_lhd.m3u8?auth_key=1711176486-0-0-6c8074cc96e502177ca64786e17e7f3b
-
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၁၁.၃၀. အိုင်ယာလန် နှင့် ဘယ်လ်ဂျီယံ
-#EXTVLCOPT:
-https://pull.niues.live/live/stream-9912084_lsd.m3u8?auth_key=1711176486-0-0-80ab6b9c8facfc68dae3a87d635c458a
-
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၁၁.၃၀. ဆလိုဗက်ကီးယား နှင့် သြစတြီးယား
-#EXTVLCOPT:
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1711176846-0-0-b10c0b4063a25681a02a00c730209c4c
-
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၁၁.၃၀. ဆလိုဗက်ကီးယား နှင့် သြစတြီးယား
-#EXTVLCOPT:
-https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1711176966-0-0-df890a6531320a60a82f67ba236e75be
-
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၁.၃၀. အင်္ဂလန် နှင့် ဘရာဇီး
-#EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://sportsleading.online/live/stream_2.m3u8?|referer=https://streambtw.com/
-
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၁.၃၀. အင်္ဂလန် နှင့် ဘရာဇီး
-#EXTVLCOPT:
-https://pull.niues.live/live/stream-9912048_lhd.m3u8?auth_key=1711193166-0-0-acd7dd2f609d52fea93cd197c8d6ce6a
-
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၁.၃၀. အင်္ဂလန် နှင့် ဘရာဇီး
-#EXTVLCOPT:
-https://pull.niues.live/live/stream-9912048_lsd.m3u8?auth_key=1711193166-0-0-270669710b176a7f8fde7b15e2fef1c2
-
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၁.၃၀. ဒိန်းမက် နှင့် ဆွစ်ဇာလန်
-#EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://sportsleading.online/live/stream_3.m3u8?|referer=https://streambtw.com/
-
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၁.၃၀. ဒိန်းမက် နှင့် ဆွစ်ဇာလန်
-#EXTVLCOPT:
-https://pull.niues.live/live/stream-921508_lhd.m3u8?auth_key=1711173606-0-0-39063d6a9cbd752f93e9c7122e93e80e
-
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၁.၃၀. ဒိန်းမက် နှင့် ဆွစ်ဇာလန်
-#EXTVLCOPT:
-https://pull.niues.live/live/stream-921508_lsd.m3u8?auth_key=1711173606-0-0-353016738613835ae8bb301d70158d44
-
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၂.၃၀. ပြင်သစ် နှင့် ဂျာမနီ
-#EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://sportsleading.online/live/stream_1.m3u8?|referer=https://streambtw.com/
-
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၂.၃၀. ပြင်သစ် နှင့် ဂျာမနီ
-#EXTVLCOPT:
-https://pull.niues.live/live/stream-9912084_lhd.m3u8?auth_key=1711176666-0-0-d6d50c7663331c52c88d8b1f8c7591ae
-
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၂.၃၀. ပြင်သစ် နှင့် ဂျာမနီ
-#EXTVLCOPT:
-https://pull.niues.live/live/stream-9912047_lhd.m3u8?auth_key=1711198746-0-0-599f56cb3303ff56fbcc6e8da94f5b42
-
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၂.၃၀. ပြင်သစ် နှင့် ဂျာမနီ
-#EXTVLCOPT:
-https://pull.niues.live/live/stream-9912084_lsd.m3u8?auth_key=1711176666-0-0-5fa8899d76521565254a37c109090c0b
-
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၂.၃၀. တူနီးရှား နှင့် ခရိုအေးရှား
-#EXTVLCOPT:
-https://pull.niues.live/live/stream-479849_lhd.m3u8?auth_key=1711173486-0-0-d7c31f092e2f82967ce6b8c823f836a6
-
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၂.၃၀. တူနီးရှား နှင့် ခရိုအေးရှား
-#EXTVLCOPT:
-https://pull.tangyuan1688.com/live/sd-2y8m4zh68e46ql0.m3u8
-
-
-
-
-
-
+https://pull.niues.live/live/stream-9912080_lsd.m3u8?auth_key=1711253467-0-0-7e31410a7523bef457b132947feb16e1
