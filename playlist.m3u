@@ -366,6 +366,42 @@ https://pull.juqihuo.com/live/stream-435066_lhd.m3u8?auth_key=1711337894-0-0-0d8
 #EXTVLCOPT:
 https://pull.juqihuo.com/live/stream-435066_lsd.m3u8?auth_key=1711337894-0-0-8d2aac6d8e0d6527afbc46e356c0fefc
 
+#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",j.ည.၁၁.၃၀. လစ်သူယေးနီးယား နှင့် ဂျီဘရော်တာ
+#EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://sportsleading.online/live/stream_1.m3u8?|referer=https://streambtw.com/
+
+#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",j.ည.၁၁.၃၀. ဂျော်ဂျီယာ နှင့် ဂရိ
+#EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://sportsleading.online/live/stream_2.m3u8?|referer=https://streambtw.com/
+
+#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",l.ည.၂.၁၅. ဝေလ နှင့် ပိုလန်
+#EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://sportsleading.online/live/stream_3.m3u8?|referer=https://streambtw.com/
+
+#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",l.ည.၂.၁၅. ယူကရိန်း နှင့် အိုက်စလန်
+#EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://sportsleading.online/live/stream_3.m3u8?|referer=https://streambtw.com/
+
+#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",l.ည.၂.၁၅. အင်္ဂလန် နှင့် ဘယ်လ်ဂျီယံ
+#EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://sportsleading.online/live/stream_4.m3u8?|referer=https://streambtw.com/
+
+#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",l.ည.၂.၁၅. ဂျာမနီ နှင့် နယ်သာလန်
+#EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://sportsleading.online/live/stream_6.m3u8?|referer=https://streambtw.com/
+
+#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",l.ည.၂.၁၅. ဆလိုဗေးနီးယား နှင့် ပေါ်တူဂီ 
+#EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://sportsleading.online/live/stream_5.m3u8?|referer=https://streambtw.com/
+
+#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",m.ည.၂.၃၀. ပြင်သစ် နှင့် ချီလီ
+#EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://sportsleading.online/live/stream_8.m3u8?|referer=https://streambtw.com/
+
+#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",m.ည.၃.နာရီ. စပိန် နှင့် ဘရာဇီးလ်
+#EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://sportsleading.online/live/stream_7.m3u8?|referer=https://streambtw.com/
+
 
 
 
