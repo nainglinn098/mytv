@@ -136,6 +136,10 @@ https://pull.niues.live/live/stream-499765_lhd.m3u8?auth_key=1711517048-0-0-babe
 
 #EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၁၂.၁၅.အမျိုးသမီးချန်ပီယံလိဒ်. လိုင်ယွန် နှင့် ဘင်ဖီကာ
 #EXTVLCOPT:
+https://pull.juqihuo.com/live/stream-2376781_lhd.m3u8?auth_key=1711556294-0-0-daceb47209dc201cf3ed3a7943d4ec88
+
+#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၁၂.၁၅.အမျိုးသမီးချန်ပီယံလိဒ်. လိုင်ယွန် နှင့် ဘင်ဖီကာ
+#EXTVLCOPT:
 https://pull.niues.live/live/stream-499765_lsd.m3u8?auth_key=1711517048-0-0-bfb689398f35b1b28aa1ff3976ba165b
 
 #EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.၃၀.အမျိုးသမီးချန်ပီယံလိဒ်. ချဲလ်ဆီး နှင့် အေဂျက်
@@ -153,3 +157,7 @@ https://pull.juqihuo.com/live/stream-2961254_lsd.m3u8?auth_key=1711521194-0-0-82
 #EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.၃၀.အမျိုးသမီးချန်ပီယံလိဒ်. ချဲလ်ဆီး နှင့် အေဂျက်
 #EXTVLCOPT:
 https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1711556048-0-0-85ecca8eb4afb6b5ad1c177e23f84d68
+
+#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၁၂.၁၅.အမျိုးသမီးချန်ပီယံလိဒ်. လိုင်ယွန် နှင့် ဘင်ဖီကာ
+#EXTVLCOPT:
+https://pull.juqihuo.com/live/stream-2376781_lsd.m3u8?auth_key=1711556294-0-0-a177a50b2a69eee04de497239858d2c4
