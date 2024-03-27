@@ -144,6 +144,12 @@ https://pull.juqihuo.com/live/stream-2961254_lhd.m3u8?auth_key=1711521194-0-0-dd
 
 #EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.၃၀.အမျိုးသမီးချန်ပီယံလိဒ်. ချဲလ်ဆီး နှင့် အေဂျက်
 #EXTVLCOPT:
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1711556048-0-0-b6839632f299649246d28eb6e0cb77d0
+
+#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.၃၀.အမျိုးသမီးချန်ပီယံလိဒ်. ချဲလ်ဆီး နှင့် အေဂျက်
+#EXTVLCOPT:
 https://pull.juqihuo.com/live/stream-2961254_lsd.m3u8?auth_key=1711521194-0-0-82799b9501a09f70e5e81d15b5fda3e0
 
-
+#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.၃၀.အမျိုးသမီးချန်ပီယံလိဒ်. ချဲလ်ဆီး နှင့် အေဂျက်
+#EXTVLCOPT:
+https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1711556048-0-0-85ecca8eb4afb6b5ad1c177e23f84d68
