@@ -130,22 +130,20 @@ https://ctrl.laotv.la/live/TrueSport3/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://hls.streambtw.com/live/stream_ufc1.m3u8|referer=https://streambtw.com/
 
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",n.မနက်.၉.၂၀. အာဂျင်တီးနား နှင့် ကော်စတာရီကာ
+#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၁၂.၁၅.အမျိုးသမီးချန်ပီယံလိဒ်. လိုင်ယွန် နှင့် ဘင်ဖီကာ
 #EXTVLCOPT:
-https://pull.juqihuo.com/live/stream-435066_lhd.m3u8?auth_key=1711337894-0-0-0d86c60622964974dc23c4a9bf2d93a6
+https://pull.niues.live/live/stream-499765_lhd.m3u8?auth_key=1711517048-0-0-babe19b36b9d53201100800acdd92323
 
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",n.မနက်.၉.၂၀. အာဂျင်တီးနား နှင့် ကော်စတာရီကာ
+#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၁၂.၁၅.အမျိုးသမီးချန်ပီယံလိဒ်. လိုင်ယွန် နှင့် ဘင်ဖီကာ
 #EXTVLCOPT:
-https://pull.niur.live/live/stream-9912089_lhd.m3u8?txSecret=f45802d349531c1db3e7abe662288eea&txTime=6603d730
+https://pull.niues.live/live/stream-499765_lsd.m3u8?auth_key=1711517048-0-0-bfb689398f35b1b28aa1ff3976ba165b
 
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",n.မနက်.၉.၂၀. အာဂျင်တီးနား နှင့် ကော်စတာရီကာ
+#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.၃၀.အမျိုးသမီးချန်ပီယံလိဒ်. ချဲလ်ဆီး နှင့် အေဂျက်
 #EXTVLCOPT:
-https://pull.juqihuo.com/live/stream-435066_lsd.m3u8?auth_key=1711337894-0-0-8d2aac6d8e0d6527afbc46e356c0fefc
+https://pull.juqihuo.com/live/stream-2961254_lhd.m3u8?auth_key=1711521194-0-0-dd11aada9c2d4b952c8c84753f768038
 
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",n.မနက်.၉.၂၀. အာဂျင်တီးနား နှင့် ကော်စတာရီကာ
+#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.၃၀.အမျိုးသမီးချန်ပီယံလိဒ်. ချဲလ်ဆီး နှင့် အေဂျက်
 #EXTVLCOPT:
-https://pull.niur.live/live/stream-9912089_lsd.m3u8?txSecret=6331baf6b4d526cd43a65b14d36e75df&txTime=6603d730
-
- 
+https://pull.juqihuo.com/live/stream-2961254_lsd.m3u8?auth_key=1711521194-0-0-82799b9501a09f70e5e81d15b5fda3e0
 
 
