@@ -136,11 +136,15 @@ https://pull.juqihuo.com/live/stream-435066_lhd.m3u8?auth_key=1711337894-0-0-0d8
 
 #EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",n.မနက်.၉.၂၀. အာဂျင်တီးနား နှင့် ကော်စတာရီကာ
 #EXTVLCOPT:
+https://pull.niur.live/live/stream-9912089_lhd.m3u8?txSecret=f45802d349531c1db3e7abe662288eea&txTime=6603d730
+
+#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",n.မနက်.၉.၂၀. အာဂျင်တီးနား နှင့် ကော်စတာရီကာ
+#EXTVLCOPT:
 https://pull.juqihuo.com/live/stream-435066_lsd.m3u8?auth_key=1711337894-0-0-8d2aac6d8e0d6527afbc46e356c0fefc
 
 #EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",n.မနက်.၉.၂၀. အာဂျင်တီးနား နှင့် ကော်စတာရီကာ
 #EXTVLCOPT:
-https://v3.thetvapp.to/hls/CBSSportsNetworkUSA.m3u8?token=mSndiuGQvlNmUgeFcs_XTQ&expires=1711520607
+https://pull.niur.live/live/stream-9912089_lsd.m3u8?txSecret=6331baf6b4d526cd43a65b14d36e75df&txTime=6603d730
 
  
 
