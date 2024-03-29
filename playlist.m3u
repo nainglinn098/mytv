@@ -130,35 +130,3 @@ https://ctrl.laotv.la/live/TrueSport3/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://hls.streambtw.com/live/stream_ufc1.m3u8|referer=https://streambtw.com/
 
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၁၂.၁၅.အမျိုးသမီးချန်ပီယံလိဒ်. ဘာစီလိုနာ နှင့် ဘရန်း
-#EXTVLCOPT:
-https://pull.niues.live/live/stream-499765_lhd.m3u8?auth_key=1711517048-0-0-babe19b36b9d53201100800acdd92323
-
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၁၂.၁၅.အမျိုးသမီးချန်ပီယံလိဒ်. ဘာစီလိုနာ နှင့် ဘရန်း
-#EXTVLCOPT:
-https://pull.juqihuo.com/live/stream-2376781_lhd.m3u8?auth_key=1711556294-0-0-daceb47209dc201cf3ed3a7943d4ec88
-
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၁၂.၁၅.အမျိုးသမီးချန်ပီယံလိဒ်. ဘာစီလိုနာ နှင့် ဘရန်း
-#EXTVLCOPT:
-https://pull.niues.live/live/stream-499765_lsd.m3u8?auth_key=1711517048-0-0-bfb689398f35b1b28aa1ff3976ba165b
-
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၁၂.၁၅.အမျိုးသမီးချန်ပီယံလိဒ်. ဘာစီလိုနာ နှင့် ဘရန်း
-#EXTVLCOPT:
-https://pull.niues.live/live/stream-499765_lsd.m3u8?auth_key=1711517048-0-0-bfb689398f35b1b28aa1ff3976ba165b
-
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.၃၀.အမျိုးသမီးချန်ပီယံလိဒ်. ပီအက်စ်ဂျီ နှင့် ဟက်ကမ်
-#EXTVLCOPT:
-https://pull.juqihuo.com/live/stream-2961254_lhd.m3u8?auth_key=1711521194-0-0-dd11aada9c2d4b952c8c84753f768038
-
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.၃၀.အမျိုးသမီးချန်ပီယံလိဒ်. ပီအက်စ်ဂျီ နှင့် ဟက်ကမ်
-#EXTVLCOPT:
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1711556048-0-0-b6839632f299649246d28eb6e0cb77d0
-
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.၃၀.အမျိုးသမီးချန်ပီယံလိဒ်. ပီအက်စ်ဂျီ နှင့် ဟက်ကမ်
-#EXTVLCOPT:
-https://pull.juqihuo.com/live/stream-2961254_lsd.m3u8?auth_key=1711521194-0-0-82799b9501a09f70e5e81d15b5fda3e0
-
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၂.၃၀.အမျိုးသမီးချန်ပီယံလိဒ်. ပီအက်စ်ဂျီ နှင့် ဟက်ကမ်
-#EXTVLCOPT:
-https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1711556048-0-0-85ecca8eb4afb6b5ad1c177e23f84d68
-
