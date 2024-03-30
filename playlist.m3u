@@ -230,9 +230,9 @@ https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1711642268-0-0-9541
 #EXTVLCOPT:
 https://pull.niues.live/live/stream-427562_lsd.m3u8?auth_key=1711642268-0-0-a067c0e103bcde81d35ea81214f73412
 
+#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၉.နာရီ. လိုက်ဇစ် နှင့် မိန့်ဇ်
 #EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://sportsleading.online/live/stream_9.m3u8?|referer=https://streambtw.com/
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၉.နာရီ. လိုက်ဇစ် နှင့် မိန့်ဇ်
 
 #EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၉.နာရီ. လိုက်ဇစ် နှင့် မိန့်ဇ်
 #EXTVLCOPT:
@@ -255,6 +255,10 @@ https://pull.niues.live/live/stream-334434_lhd.m3u8?auth_key=1711642388-0-0-3114
 https://pull.niues.live/live/stream-334434_lsd.m3u8?auth_key=1711642388-0-0-bab7be5f89363b6dd7834a69c5a81722
 
 #EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",f.ည.၉.၃၀. ဘုန်းမောက် နှင့် အဲဗာတန်
+#EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://sportsleading.online/live/stream_2.m3u8?|referer=https://streambtw.com/
+
+#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",f.ည.၉.၃၀. ဘုန်းမောက် နှင့် အဲဗာတန်
 #EXTVLCOPT:
 https://pull.niues.live/live/stream-9912080_lhd.m3u8?auth_key=1711630928-0-0-6d8a7eca1d05c3fc85d4730e78ff9d41
 
@@ -267,6 +271,10 @@ https://pull.niues.live/live/stream-9912080_lsd.m3u8?auth_key=1711630928-0-0-f3f
 https://ctrl.laotv.la/live/TSport1/index.m3u8
 
 #EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",f.ည.၉.၃၀. ချဲလ်ဆီး နှင့် ဘန်လေ
+#EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://sportsleading.online/live/stream_3.m3u8?|referer=https://streambtw.com/
+
+#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",f.ည.၉.၃၀. ချဲလ်ဆီး နှင့် ဘန်လေ
 #EXTVLCOPT:
 https://pull.niues.live/live/stream-9912084_lhd.m3u8?auth_key=1711630988-0-0-f412156fa963cf6beb5392569f0df44d
 
@@ -275,12 +283,20 @@ https://pull.niues.live/live/stream-9912084_lhd.m3u8?auth_key=1711630988-0-0-f41
 https://pull.niues.live/live/stream-9912084_lsd.m3u8?auth_key=1711630988-0-0-ed6a1bc495c0f3dca820e3811a252128
 
 #EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",f.ည.၉.၃၀. နော်တင်ဟမ်ဖောရက် နှင့် ပဲလေ့
+#EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://sportsleading.online/live/stream_1.m3u8?|referer=https://streambtw.com/
+
+#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",f.ည.၉.၃၀. နော်တင်ဟမ်ဖောရက် နှင့် ပဲလေ့
 #EXTVLCOPT:
 https://pull.niues.live/live/stream-9911957_lhd.m3u8?auth_key=1711631048-0-0-007b9b4d96affb0827f7bd9aa6b41ecd
 
 #EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",f.ည.၉.၃၀. နော်တင်ဟမ်ဖောရက် နှင့် ပဲလေ့
 #EXTVLCOPT:
 https://pull.niues.live/live/stream-9911957_lsd.m3u8?auth_key=1711631048-0-0-5c893ba8c1748d8ffcca2e535f975aa1
+
+#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",f.ည.၉.၃၀. ရှက်ဖီး နှင့် ဖူလ်ဟမ်
+#EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://sportsleading.online/live/stream_4.m3u8?|referer=https://streambtw.com/
 
 #EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",f.ည.၉.၃၀. ရှက်ဖီး နှင့် ဖူလ်ဟမ်
 #EXTVLCOPT:
