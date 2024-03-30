@@ -171,12 +171,20 @@ https://pull.niues.live/live/stream-434982_lhd.m3u8?auth_key=1711630748-0-0-dab0
 https://pull.niues.live/live/stream-434982_lsd.m3u8?auth_key=1711630748-0-0-216faba0a8efedf93b27c32271e34669
 
 #EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၈.၃၀. ဂျီနိုအာ နှင့် ဖရိုစင်ဝမ်း
+#EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://hls.streambtw.com/live/stream_10.m3u8?|referer=https://streambtw.com/
+
+#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၈.၃၀. ဂျီနိုအာ နှင့် ဖရိုစင်ဝမ်း
 #EXTVLCOPT:
 https://pull.niues.live/live/stream-921508_lhd.m3u8?auth_key=1711642148-0-0-2241af87fbdb0a6d80ddbf05f55411b5
 
 #EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၈.၃၀. ဂျီနိုအာ နှင့် ဖရိုစင်ဝမ်း
 #EXTVLCOPT:
 https://pull.niues.live/live/stream-921508_lsd.m3u8?auth_key=1711642148-0-0-623a16814bb3c034d1d28eb9e7ec7cea
+
+#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၈.၃၀. တိုရီနို နှင့် မွန်ဇာ
+#EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://sportsleading.online/live/stream_7.m3u8?|referer=https://streambtw.com/
 
 #EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၈.၃၀. တိုရီနို နှင့် မွန်ဇာ
 #EXTVLCOPT:
@@ -199,12 +207,20 @@ https://pull.niues.live/live/stream-9912078_lhd.m3u8?auth_key=1711630868-0-0-619
 https://pull.niues.live/live/stream-9912078_lsd.m3u8?auth_key=1711630868-0-0-5516a7646633a53c7b5d970e87672cff
 
 #EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၉.နာရီ. မိုချင်ဂလာဘတ် နှင့် ဖရိုင်းဘတ်
+#EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://hls.streambtw.com/live/stream_12.m3u8?|referer=https://streambtw.com/
+
+#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၉.နာရီ. မိုချင်ဂလာဘတ် နှင့် ဖရိုင်းဘတ်
 #EXTVLCOPT:
 https://pull.niues.live/live/stream-9912016_lhd.m3u8?auth_key=1711642208-0-0-93cce75bfe113ea5a763be5d9e92082e
 
 #EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၉.နာရီ. မိုချင်ဂလာဘတ် နှင့် ဖရိုင်းဘတ်
 #EXTVLCOPT:
 https://pull.niues.live/live/stream-9912016_lsd.m3u8?auth_key=1711642208-0-0-469ce1be41591d09538d304c4e15ecf7
+
+#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၉.နာရီ. ဖရန့်ဖတ် နှင့် ယူနီယံဘာလင်
+#EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://hls.streambtw.com/live/stream_11.m3u8?|referer=https://streambtw.com/
 
 #EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၉.နာရီ. ဖရန့်ဖတ် နှင့် ယူနီယံဘာလင်
 #EXTVLCOPT:
@@ -214,6 +230,10 @@ https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1711642268-0-0-9541
 #EXTVLCOPT:
 https://pull.niues.live/live/stream-427562_lsd.m3u8?auth_key=1711642268-0-0-a067c0e103bcde81d35ea81214f73412
 
+#EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://sportsleading.online/live/stream_9.m3u8?|referer=https://streambtw.com/
+#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၉.နာရီ. လိုက်ဇစ် နှင့် မိန့်ဇ်
+
 #EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၉.နာရီ. လိုက်ဇစ် နှင့် မိန့်ဇ်
 #EXTVLCOPT:
 https://pull.niues.live/live/stream-9912043_lhd.m3u8?auth_key=1711642328-0-0-11fe46f0f4f1c64022a3e5271acdebe1
@@ -221,6 +241,10 @@ https://pull.niues.live/live/stream-9912043_lhd.m3u8?auth_key=1711642328-0-0-11f
 #EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၉.နာရီ. လိုက်ဇစ် နှင့် မိန့်ဇ်
 #EXTVLCOPT:
 https://pull.niues.live/live/stream-9912043_lsd.m3u8?auth_key=1711642328-0-0-3f339bc7934ded7f42161430d7edfa7d
+
+#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၉.နာရီ. ဝါဒါဘရီမင် နှင့် ဝုလ်ဘတ်
+#EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://hls.streambtw.com/live/stream_13.m3u8?|referer=https://streambtw.com/
 
 #EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၉.နာရီ. ဝါဒါဘရီမင် နှင့် ဝုလ်ဘတ်
 #EXTVLCOPT:
