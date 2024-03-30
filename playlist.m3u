@@ -307,6 +307,10 @@ https://pull.juqihuo.com/live/stream-459976_lhd.m3u8?auth_key=1711702335-0-0-e26
 https://pull.juqihuo.com/live/stream-459976_lsd.m3u8?auth_key=1711702335-0-0-c120688da428070262bb293b849b40b8
 
 #EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",f.ည.၉.၃၀. စပါး နှင့် လူတန်တောင်း
+#EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://sportsleading.online/live/stream_5.m3u8?|referer=https://streambtw.com/
+
+#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",f.ည.၉.၃၀. စပါး နှင့် လူတန်တောင်း
 #EXTVLCOPT:
 https://pull.niues.live/live/stream-9912048_lhd.m3u8?auth_key=1711642508-0-0-44101be75d814b75f7109bcbd542f7eb
 
