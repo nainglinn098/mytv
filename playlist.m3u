@@ -322,4 +322,6 @@ https://pull.juqihuo.com/live/stream-317957_lhd.m3u8?auth_key=1711815795-0-0-3dc
 #EXTVLCOPT:
 https://pull.juqihuo.com/live/stream-317957_lsd.m3u8?auth_key=1711815795-0-0-98708c432823d9eef5f89d19caa5a025
 
-
+#EXTINF:-1 group-title="Test",test
+#EXTVLCOPT:
+http://bananatv.org:25461/play/F_cCfu-TJq91VVDewuxSUwqi6vIsffIFXAo4cX5nDEg/ts
