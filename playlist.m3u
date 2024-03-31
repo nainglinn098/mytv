@@ -175,12 +175,20 @@ https://pull.juqihuo.com/live/stream-308116_lhd.m3u8?auth_key=1711814715-0-0-21a
 https://pull.juqihuo.com/live/stream-308116_lsd.m3u8?auth_key=1711814715-0-0-6db3b56ab9f35a864629b214908122d1
 
 #EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၇.၃၀. ကလိမန့် နှင့် တူးလော့
+#EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://hls.streambtw.com/live/stream_10.m3u8?|referer=https://streambtw.com/
+
+#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၇.၃၀. ကလိမန့် နှင့် တူးလော့
 #EXTVLCOPT:
 https://pull.juqihuo.com/live/stream-719786_lhd.m3u8?auth_key=1711814775-0-0-caec440a713d97df39956b30d5b0a8af
 
 #EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၇.၃၀. ကလိမန့် နှင့် တူးလော့
 #EXTVLCOPT:
 https://pull.juqihuo.com/live/stream-719786_lsd.m3u8?auth_key=1711814775-0-0-ab8c2902f10978eec0cfa3e187dbae04
+
+#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၇.၃၀. လီဟာဗေး နှင့် မောင့်ပယ်လီယာ
+#EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://hls.streambtw.com/live/stream_11.m3u8?|referer=https://streambtw.com/
 
 #EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၇.၃၀. လီဟာ​ဗေး နှင့် မောင့်ပယ်လီယာ
 #EXTVLCOPT:
@@ -189,6 +197,10 @@ https://pull.juqihuo.com/live/stream-540088_lhd.m3u8?auth_key=1711814835-0-0-f47
 #EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၇.၃၀. လီဟာ​ဗေး နှင့် မောင့်ပယ်လီယာ
 #EXTVLCOPT:
 https://pull.juqihuo.com/live/stream-540088_lsd.m3u8?auth_key=1711814835-0-0-22cc40bf8972e63600f29f2f3e3b6952
+
+#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၇.၃၀. နိုက်စ် နှင့် နန့်တက်စ်
+#EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://sportsleading.online/live/stream_8.m3u8?|referer=https://streambtw.com/
 
 #EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၇.၃၀. နိုက်စ် နှင့် နန့်တက်စ်
 #EXTVLCOPT:
@@ -322,6 +334,3 @@ https://pull.juqihuo.com/live/stream-317957_lhd.m3u8?auth_key=1711815795-0-0-3dc
 #EXTVLCOPT:
 https://pull.juqihuo.com/live/stream-317957_lsd.m3u8?auth_key=1711815795-0-0-98708c432823d9eef5f89d19caa5a025
 
-#EXTINF:-1 group-title="Test",test
-#EXTVLCOPT:
-http://bananatv.org:25461/play/F_cCfu-TJq91VVDewuxSUwqi6vIsffIFXAo4cX5nDEg/ts
