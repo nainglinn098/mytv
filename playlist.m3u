@@ -143,6 +143,10 @@ https://pull.juqihuo.com/live/stream-780421_lhd.m3u8?auth_key=1711844955-0-0-20b
 https://pull.juqihuo.com/live/stream-780421_lsd.m3u8?auth_key=1711844955-0-0-407b7c59021a8b9de83fcdc64fe0faea
 
 #EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၆.နာရီ. လက်စတာ နှင့် နော့ဝစ်
+#EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://sportsleading.online/live/stream_1.m3u8?|referer=https://streambtw.com/
+
+#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၆.နာရီ. လက်စတာ နှင့် နော့ဝစ်
 #EXTVLCOPT:
 https://pull.juqihuo.com/live/stream-526982_lhd.m3u8?auth_key=1711845615-0-0-2d9d4ea974db73b6a0649418004b7391
 
