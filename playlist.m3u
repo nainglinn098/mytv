@@ -203,12 +203,20 @@ https://pull.juqihuo.com/live/stream-784735_lhd.m3u8?auth_key=1711846095-0-0-5c8
 https://pull.juqihuo.com/live/stream-784735_lsd.m3u8?auth_key=1711846095-0-0-f824d315d68835e465aeb5db3b5e3c31
 
 #EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၈.၃၀. ကိုဗင်ထရီ နှင့် ကာဒစ်
+#EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://sportsleading.online/live/stream_3.m3u8?|referer=https://streambtw.com/
+
+#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၈.၃၀. ကိုဗင်ထရီ နှင့် ကာဒစ်
 #EXTVLCOPT:
 https://pull.niues.live/live/stream-9912080_lhd.m3u8?auth_key=1711846448-0-0-a8767ba944d09acfa4d3f1c6c92ec227
 
 #EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၈.၃၀. ကိုဗင်ထရီ နှင့် ကာဒစ်
 #EXTVLCOPT:
 https://pull.niues.live/live/stream-9912080_lsd.m3u8?auth_key=1711846448-0-0-60257bd616f516c1f7e133eabcf7815c
+
+#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၈.၃၀. စတုတ်စီးတီး နှင့် ဟက်ဒါဖီး
+#EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://sportsleading.online/live/stream_1.m3u8?|referer=https://streambtw.com/
 
 #EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၈.၃၀. စတုတ်စီးတီး နှင့် ဟက်ဒါဖီး
 #EXTVLCOPT:
