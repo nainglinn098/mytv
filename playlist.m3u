@@ -134,61 +134,7 @@ https://hls.streambtw.com/live/stream_ufc1.m3u8|referer=https://streambtw.com/
 #EXTVLCOPT:
 http://gtvstreams.me:80/play/live.php?mac=00:1a:79:23:D1:54&stream=217477&extension=ts&play_token=J7PaoyxtVl
 
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၁.နာရီ. နယူးကာဆယ် နှင့် အဲဗာတန်
-#EXTVLCOPT:
-https://pull.juqihuo.com/live/stream-770142_lhd.m3u8?auth_key=1711933275-0-0-a0cc048d18f8cfccfe2c9034c35d7041
 
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၁.နာရီ. နယူးကာဆယ် နှင့် အဲဗာတန်
-#EXTVLCOPT:
-https://pull.juqihuo.com/live/stream-435066_lsd.m3u8?auth_key=1711933155-0-0-754dce584e06ac2ec68752844d7d9498
-
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၁.နာရီ. နော်တင်ဟမ်ဖောရက် နှင့် ဖူဟမ်
-#EXTVLCOPT:
-https://pull.juqihuo.com/live/stream-765648_lhd.m3u8?auth_key=1711980736-0-0-3a2663922b9fa56463665198230d3ee1
-
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၁.နာရီ. နော်တင်ဟမ်ဖောရက် နှင့် ဖူဟမ်
-#EXTVLCOPT:
-https://pull.juqihuo.com/live/stream-765648_lsd.m3u8?auth_key=1711980736-0-0-dfa2001d4ef2a65458b137b1e99a4812
-
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၁.၁၅. ဘုန်းမောက် နှင့် ခရစ္စတယ်ပဲလေ့
-#EXTVLCOPT:
-https://pull.juqihuo.com/live/stream-566370_lhd.m3u8?auth_key=1711980495-0-0-690765d2db270b5802780e7081f564ce
-
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၁.၁၅. ဘုန်းမောက် နှင့် ခရစ္စတယ်ပဲလေ့
-#EXTVLCOPT:
-https://pull.juqihuo.com/live/stream-566370_lsd.m3u8?auth_key=1711980495-0-0-3313c410803ff0346e1f568df2d4c3b5
-
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၁.၁၅. ဘန်လေ နှင့် ဝုလ်ဗာဟန်တမ် 
-#EXTVLCOPT:
-https://pull.juqihuo.com/live/stream-572503_lhd.m3u8?auth_key=1711933335-0-0-44bdf629b1c253c8d73a2f556f4bd085
-
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",b.ည.၁.၁၅. ဘန်လေ နှင့် ဝုလ်ဗာဟန်တမ် 
-#EXTVLCOPT:
-https://pull.juqihuo.com/live/stream-572503_lsd.m3u8?auth_key=1711933335-0-0-8290ed72257954f621190da3202d3e22
-
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",c.ည.၁.၁၅. လိုင်ယွန် နှင့် ဗလင်စီနက်
-#EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://sportsleading.online/live/stream_8.m3u8?|referer=https://streambtw.com/
-
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၁.၃၀. ဂျူဗင်တပ် နှင့် လာဇီယို
-#EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://sportsleading.online/live/stream_7.m3u8?|referer=https://streambtw.com/
-
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၁.၃၀. ဂျူဗင်တပ် နှင့် လာဇီယို
-#EXTVLCOPT:
-https://pull.juqihuo.com/live/stream-719786_lhd.m3u8?auth_key=1711981276-0-0-42512dccbe7c427a8c6876e7cf688290
-
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",d.ည.၁.၃၀. ဂျူဗင်တပ် နှင့် လာဇီယို
-#EXTVLCOPT:
-https://pull.juqihuo.com/live/stream-719786_lsd.m3u8?auth_key=1711981276-0-0-eff5eab57bc7a00b6661bcaf9fef6c4a
-
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၁.၄၅. ဝက်စ်ဟမ်း နှင့် စပါး
-#EXTVLCOPT:
-https://pull.juqihuo.com/live/stream-752338_lhd.m3u8?auth_key=1711933455-0-0-939375cb335864fae0feb00a515df26e
-
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",e.ည.၁.၄၅. ဝက်စ်ဟမ်း နှင့် စပါး
-#EXTVLCOPT:
-https://pull.juqihuo.com/live/stream-752338_lsd.m3u8?auth_key=1711933455-0-0-84dfe20f98a70ed92b0f168b7a8b3398
 
 
 
