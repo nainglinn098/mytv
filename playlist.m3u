@@ -130,7 +130,7 @@ https://ctrl.laotv.la/live/TrueSport3/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozill/5.0 (X11; Linux x86_64) AppleWebkit/537.36(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://hls.streambtw.com/live/stream_ufc1.m3u8|referer=https://streambtw.com/
 
-#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",a.ည.၁.နာရီ. နယူးကာဆယ် နှင့် အဲဗာတန်
+#EXTINF:-1 group-title="ယနေ့ညပွဲစဥ်များ",test
 #EXTVLCOPT:
 http://gtvstreams.me:80/play/live.php?mac=00:1a:79:23:D1:54&stream=217477&extension=ts&play_token=J7PaoyxtVl
 
